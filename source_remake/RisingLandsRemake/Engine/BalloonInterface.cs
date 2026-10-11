@@ -1,0 +1,7 @@
+using Microsoft.Xna.Framework;
+namespace RisingLands;
+public sealed partial class ResearchGame {
+ Actor? BalloonHit(Point pointer)=>simulation.World.Units.Where(a=>a.Type==17&&a.Health>0&&VisualCatalog.Visible(a)&&SeenUnit(a)&&ActorBounds(a).Contains(pointer)).OrderByDescending(a=>a.Y).FirstOrDefault();
+ bool HandleBalloonPointer(Point pointer){var balloon=BalloonHit(pointer);if(balloon==null)return false;var people=SelectedUnits().Where(a=>a.Owner==0&&a.Type!=17).ToArray();if(people.Length==0)return false;int count=people.Count(a=>simulation.BoardBalloon(a,balloon));resourceGesture.Cancel();message=count>0?count+" personagens a caminho do balao. "+simulation.BalloonStatus(balloon):"Embarque indisponivel: propriedade, classe, acesso ou cinco vagas.";return true;}
+ void DrawBalloonPortrait(int x,int y){var commands=visuals.Catalog.Types.First(t=>t.Type==17).Frames.First().Commands.Where(c=>c.Kind!="shadow"&&sprites.ContainsKey(c.Sprite)).ToArray();if(commands.Length==0)return;int left=commands.Min(c=>c.X),top=commands.Min(c=>c.Y),right=commands.Max(c=>c.X+sprites[c.Sprite].Width),bottom=commands.Max(c=>c.Y+sprites[c.Sprite].Height);var box=NativeRect(x,y,56,48);float scale=Math.Min(box.Width/(float)(right-left),box.Height/(float)(bottom-top));foreach(var c in commands){var t=PlayerTexture(c.Sprite,sprites[c.Sprite],0);batch.Draw(t,new Rectangle(box.X+(int)((c.X-left)*scale),box.Y+(int)((c.Y-top)*scale),(int)(t.Width*scale),(int)(t.Height*scale)),Color.White);}}
+}

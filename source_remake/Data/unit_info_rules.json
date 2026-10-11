@@ -1,0 +1,517 @@
+{
+  "vectors": [
+    {
+      "type": 0,
+      "owner": 0,
+      "selected": false,
+      "hovered": false,
+      "space": false,
+      "expected": false
+    },
+    {
+      "type": 0,
+      "owner": 0,
+      "selected": false,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 0,
+      "owner": 0,
+      "selected": false,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 0,
+      "owner": 0,
+      "selected": false,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 0,
+      "owner": 0,
+      "selected": true,
+      "hovered": false,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 0,
+      "owner": 0,
+      "selected": true,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 0,
+      "owner": 0,
+      "selected": true,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 0,
+      "owner": 0,
+      "selected": true,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 0,
+      "owner": 1,
+      "selected": false,
+      "hovered": false,
+      "space": false,
+      "expected": false
+    },
+    {
+      "type": 0,
+      "owner": 1,
+      "selected": false,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 0,
+      "owner": 1,
+      "selected": false,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 0,
+      "owner": 1,
+      "selected": false,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 0,
+      "owner": 1,
+      "selected": true,
+      "hovered": false,
+      "space": false,
+      "expected": false
+    },
+    {
+      "type": 0,
+      "owner": 1,
+      "selected": true,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 0,
+      "owner": 1,
+      "selected": true,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 0,
+      "owner": 1,
+      "selected": true,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 5,
+      "owner": 0,
+      "selected": false,
+      "hovered": false,
+      "space": false,
+      "expected": false
+    },
+    {
+      "type": 5,
+      "owner": 0,
+      "selected": false,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 5,
+      "owner": 0,
+      "selected": false,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 5,
+      "owner": 0,
+      "selected": false,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 5,
+      "owner": 0,
+      "selected": true,
+      "hovered": false,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 5,
+      "owner": 0,
+      "selected": true,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 5,
+      "owner": 0,
+      "selected": true,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 5,
+      "owner": 0,
+      "selected": true,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 5,
+      "owner": 1,
+      "selected": false,
+      "hovered": false,
+      "space": false,
+      "expected": false
+    },
+    {
+      "type": 5,
+      "owner": 1,
+      "selected": false,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 5,
+      "owner": 1,
+      "selected": false,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 5,
+      "owner": 1,
+      "selected": false,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 5,
+      "owner": 1,
+      "selected": true,
+      "hovered": false,
+      "space": false,
+      "expected": false
+    },
+    {
+      "type": 5,
+      "owner": 1,
+      "selected": true,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 5,
+      "owner": 1,
+      "selected": true,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 5,
+      "owner": 1,
+      "selected": true,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 7,
+      "owner": 0,
+      "selected": false,
+      "hovered": false,
+      "space": false,
+      "expected": false
+    },
+    {
+      "type": 7,
+      "owner": 0,
+      "selected": false,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 7,
+      "owner": 0,
+      "selected": false,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 7,
+      "owner": 0,
+      "selected": false,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 7,
+      "owner": 0,
+      "selected": true,
+      "hovered": false,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 7,
+      "owner": 0,
+      "selected": true,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 7,
+      "owner": 0,
+      "selected": true,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 7,
+      "owner": 0,
+      "selected": true,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 7,
+      "owner": 1,
+      "selected": false,
+      "hovered": false,
+      "space": false,
+      "expected": false
+    },
+    {
+      "type": 7,
+      "owner": 1,
+      "selected": false,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 7,
+      "owner": 1,
+      "selected": false,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 7,
+      "owner": 1,
+      "selected": false,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 7,
+      "owner": 1,
+      "selected": true,
+      "hovered": false,
+      "space": false,
+      "expected": false
+    },
+    {
+      "type": 7,
+      "owner": 1,
+      "selected": true,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 7,
+      "owner": 1,
+      "selected": true,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 7,
+      "owner": 1,
+      "selected": true,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 8,
+      "owner": 0,
+      "selected": false,
+      "hovered": false,
+      "space": false,
+      "expected": false
+    },
+    {
+      "type": 8,
+      "owner": 0,
+      "selected": false,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 8,
+      "owner": 0,
+      "selected": false,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 8,
+      "owner": 0,
+      "selected": false,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 8,
+      "owner": 0,
+      "selected": true,
+      "hovered": false,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 8,
+      "owner": 0,
+      "selected": true,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 8,
+      "owner": 0,
+      "selected": true,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 8,
+      "owner": 0,
+      "selected": true,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 8,
+      "owner": 1,
+      "selected": false,
+      "hovered": false,
+      "space": false,
+      "expected": false
+    },
+    {
+      "type": 8,
+      "owner": 1,
+      "selected": false,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 8,
+      "owner": 1,
+      "selected": false,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 8,
+      "owner": 1,
+      "selected": false,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 8,
+      "owner": 1,
+      "selected": true,
+      "hovered": false,
+      "space": false,
+      "expected": false
+    },
+    {
+      "type": 8,
+      "owner": 1,
+      "selected": true,
+      "hovered": false,
+      "space": true,
+      "expected": true
+    },
+    {
+      "type": 8,
+      "owner": 1,
+      "selected": true,
+      "hovered": true,
+      "space": false,
+      "expected": true
+    },
+    {
+      "type": 8,
+      "owner": 1,
+      "selected": true,
+      "hovered": true,
+      "space": true,
+      "expected": true
+    }
+  ],
+  "limits": "AffEngin state7 for four unit types; AffInfoSelection intercepted, its pixels not reconstructed. Space-to-flag binding statically at 0x42976b..0x429779."
+}

@@ -1,0 +1,4074 @@
+{
+  "clips": [
+    {
+      "bank": "A",
+      "key": 0,
+      "file": "A-000.wav",
+      "flags": 196864,
+      "descriptor": 0,
+      "files": [
+        "A-000.wav",
+        "A-001.wav",
+        "A-002.wav"
+      ]
+    },
+    {
+      "bank": "A",
+      "key": 65536,
+      "file": "A-003.wav",
+      "flags": 131328,
+      "descriptor": 3,
+      "files": [
+        "A-003.wav",
+        "A-004.wav"
+      ]
+    },
+    {
+      "bank": "A",
+      "key": 65792,
+      "file": "A-005.wav",
+      "flags": 65792,
+      "descriptor": 5,
+      "files": [
+        "A-005.wav"
+      ]
+    },
+    {
+      "bank": "A",
+      "key": 66048,
+      "file": "A-006.wav",
+      "flags": 65792,
+      "descriptor": 6,
+      "files": [
+        "A-006.wav"
+      ]
+    },
+    {
+      "bank": "A",
+      "key": 66304,
+      "file": "A-007.wav",
+      "flags": 65792,
+      "descriptor": 7,
+      "files": [
+        "A-007.wav"
+      ]
+    },
+    {
+      "bank": "A",
+      "key": 131072,
+      "file": "A-008.wav",
+      "flags": 65792,
+      "descriptor": 8,
+      "files": [
+        "A-008.wav"
+      ]
+    },
+    {
+      "bank": "A",
+      "key": 196608,
+      "file": "A-009.wav",
+      "flags": 65792,
+      "descriptor": 9,
+      "files": [
+        "A-009.wav"
+      ]
+    },
+    {
+      "bank": "A",
+      "key": 262144,
+      "file": "A-010.wav",
+      "flags": 65792,
+      "descriptor": 10,
+      "files": [
+        "A-010.wav"
+      ]
+    },
+    {
+      "bank": "A",
+      "key": 262400,
+      "file": "A-011.wav",
+      "flags": 65792,
+      "descriptor": 11,
+      "files": [
+        "A-011.wav"
+      ]
+    },
+    {
+      "bank": "A",
+      "key": 262656,
+      "file": "A-012.wav",
+      "flags": 65792,
+      "descriptor": 12,
+      "files": [
+        "A-012.wav"
+      ]
+    },
+    {
+      "bank": "A",
+      "key": 262912,
+      "file": "A-013.wav",
+      "flags": 65792,
+      "descriptor": 13,
+      "files": [
+        "A-013.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 256,
+      "file": "B-000.wav",
+      "flags": 65636,
+      "descriptor": 0,
+      "files": [
+        "B-000.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1280,
+      "file": "B-001.wav",
+      "flags": 65792,
+      "descriptor": 1,
+      "files": [
+        "B-001.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 2048,
+      "file": "B-002.wav",
+      "flags": 65636,
+      "descriptor": 2,
+      "files": [
+        "B-002.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 9728,
+      "file": "B-003.wav",
+      "flags": 65636,
+      "descriptor": 3,
+      "files": [
+        "B-003.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 9984,
+      "file": "B-004.wav",
+      "flags": 65636,
+      "descriptor": 4,
+      "files": [
+        "B-004.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 65792,
+      "file": "B-005.wav",
+      "flags": 65636,
+      "descriptor": 5,
+      "files": [
+        "B-005.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 66816,
+      "file": "B-006.wav",
+      "flags": 65792,
+      "descriptor": 6,
+      "files": [
+        "B-006.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 67584,
+      "file": "B-007.wav",
+      "flags": 65636,
+      "descriptor": 7,
+      "files": [
+        "B-007.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 75264,
+      "file": "B-008.wav",
+      "flags": 65636,
+      "descriptor": 8,
+      "files": [
+        "B-008.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 75520,
+      "file": "B-009.wav",
+      "flags": 65636,
+      "descriptor": 9,
+      "files": [
+        "B-009.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 131328,
+      "file": "B-010.wav",
+      "flags": 65636,
+      "descriptor": 10,
+      "files": [
+        "B-010.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 132352,
+      "file": "B-011.wav",
+      "flags": 65792,
+      "descriptor": 11,
+      "files": [
+        "B-011.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 133120,
+      "file": "B-012.wav",
+      "flags": 65636,
+      "descriptor": 12,
+      "files": [
+        "B-012.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 140800,
+      "file": "B-013.wav",
+      "flags": 65636,
+      "descriptor": 13,
+      "files": [
+        "B-013.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 141056,
+      "file": "B-014.wav",
+      "flags": 65636,
+      "descriptor": 14,
+      "files": [
+        "B-014.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 196864,
+      "file": "B-015.wav",
+      "flags": 65636,
+      "descriptor": 15,
+      "files": [
+        "B-015.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 197888,
+      "file": "B-016.wav",
+      "flags": 65792,
+      "descriptor": 16,
+      "files": [
+        "B-016.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 198656,
+      "file": "B-017.wav",
+      "flags": 65636,
+      "descriptor": 17,
+      "files": [
+        "B-017.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 206336,
+      "file": "B-018.wav",
+      "flags": 65636,
+      "descriptor": 18,
+      "files": [
+        "B-018.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 206592,
+      "file": "B-019.wav",
+      "flags": 65636,
+      "descriptor": 19,
+      "files": [
+        "B-019.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 262400,
+      "file": "B-020.wav",
+      "flags": 65636,
+      "descriptor": 20,
+      "files": [
+        "B-020.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 263424,
+      "file": "B-021.wav",
+      "flags": 65792,
+      "descriptor": 21,
+      "files": [
+        "B-021.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 264192,
+      "file": "B-022.wav",
+      "flags": 65636,
+      "descriptor": 22,
+      "files": [
+        "B-022.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 271872,
+      "file": "B-023.wav",
+      "flags": 65636,
+      "descriptor": 23,
+      "files": [
+        "B-023.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 272128,
+      "file": "B-024.wav",
+      "flags": 65636,
+      "descriptor": 24,
+      "files": [
+        "B-024.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 327936,
+      "file": "B-025.wav",
+      "flags": 65636,
+      "descriptor": 25,
+      "files": [
+        "B-025.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 328960,
+      "file": "B-026.wav",
+      "flags": 65792,
+      "descriptor": 26,
+      "files": [
+        "B-026.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 329728,
+      "file": "B-027.wav",
+      "flags": 65636,
+      "descriptor": 27,
+      "files": [
+        "B-027.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 337408,
+      "file": "B-028.wav",
+      "flags": 65636,
+      "descriptor": 28,
+      "files": [
+        "B-028.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 337664,
+      "file": "B-029.wav",
+      "flags": 65636,
+      "descriptor": 29,
+      "files": [
+        "B-029.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 393472,
+      "file": "B-030.wav",
+      "flags": 65636,
+      "descriptor": 30,
+      "files": [
+        "B-030.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 394496,
+      "file": "B-031.wav",
+      "flags": 65792,
+      "descriptor": 31,
+      "files": [
+        "B-031.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 395264,
+      "file": "B-032.wav",
+      "flags": 65636,
+      "descriptor": 32,
+      "files": [
+        "B-032.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 402944,
+      "file": "B-033.wav",
+      "flags": 65636,
+      "descriptor": 33,
+      "files": [
+        "B-033.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 403200,
+      "file": "B-034.wav",
+      "flags": 65636,
+      "descriptor": 34,
+      "files": [
+        "B-034.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 459008,
+      "file": "B-035.wav",
+      "flags": 65636,
+      "descriptor": 35,
+      "files": [
+        "B-035.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 460032,
+      "file": "B-036.wav",
+      "flags": 65792,
+      "descriptor": 36,
+      "files": [
+        "B-036.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 460800,
+      "file": "B-037.wav",
+      "flags": 65636,
+      "descriptor": 37,
+      "files": [
+        "B-037.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 468480,
+      "file": "B-038.wav",
+      "flags": 65636,
+      "descriptor": 38,
+      "files": [
+        "B-038.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 468736,
+      "file": "B-039.wav",
+      "flags": 65636,
+      "descriptor": 39,
+      "files": [
+        "B-039.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 524544,
+      "file": "B-040.wav",
+      "flags": 65636,
+      "descriptor": 40,
+      "files": [
+        "B-040.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 525568,
+      "file": "B-041.wav",
+      "flags": 65792,
+      "descriptor": 41,
+      "files": [
+        "B-041.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 526336,
+      "file": "B-042.wav",
+      "flags": 65636,
+      "descriptor": 42,
+      "files": [
+        "B-042.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 534016,
+      "file": "B-043.wav",
+      "flags": 65636,
+      "descriptor": 43,
+      "files": [
+        "B-043.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 534272,
+      "file": "B-044.wav",
+      "flags": 65636,
+      "descriptor": 44,
+      "files": [
+        "B-044.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 590080,
+      "file": "B-045.wav",
+      "flags": 65636,
+      "descriptor": 45,
+      "files": [
+        "B-045.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 591104,
+      "file": "B-046.wav",
+      "flags": 65792,
+      "descriptor": 46,
+      "files": [
+        "B-046.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 655616,
+      "file": "B-047.wav",
+      "flags": 65636,
+      "descriptor": 47,
+      "files": [
+        "B-047.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 656640,
+      "file": "B-048.wav",
+      "flags": 65792,
+      "descriptor": 48,
+      "files": [
+        "B-048.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 657408,
+      "file": "B-049.wav",
+      "flags": 65636,
+      "descriptor": 49,
+      "files": [
+        "B-049.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 664320,
+      "file": "B-050.wav",
+      "flags": 65636,
+      "descriptor": 50,
+      "files": [
+        "B-050.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 665088,
+      "file": "B-051.wav",
+      "flags": 65636,
+      "descriptor": 51,
+      "files": [
+        "B-051.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 665344,
+      "file": "B-052.wav",
+      "flags": 65636,
+      "descriptor": 52,
+      "files": [
+        "B-052.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 721152,
+      "file": "B-053.wav",
+      "flags": 65636,
+      "descriptor": 53,
+      "files": [
+        "B-053.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 722176,
+      "file": "B-054.wav",
+      "flags": 65792,
+      "descriptor": 54,
+      "files": [
+        "B-054.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 722944,
+      "file": "B-055.wav",
+      "flags": 65636,
+      "descriptor": 55,
+      "files": [
+        "B-055.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 729856,
+      "file": "B-056.wav",
+      "flags": 65636,
+      "descriptor": 56,
+      "files": [
+        "B-056.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 730624,
+      "file": "B-057.wav",
+      "flags": 65636,
+      "descriptor": 57,
+      "files": [
+        "B-057.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 730880,
+      "file": "B-058.wav",
+      "flags": 65636,
+      "descriptor": 58,
+      "files": [
+        "B-058.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 786688,
+      "file": "B-059.wav",
+      "flags": 65636,
+      "descriptor": 59,
+      "files": [
+        "B-059.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 787712,
+      "file": "B-060.wav",
+      "flags": 65792,
+      "descriptor": 60,
+      "files": [
+        "B-060.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 796160,
+      "file": "B-061.wav",
+      "flags": 65636,
+      "descriptor": 61,
+      "files": [
+        "B-061.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 796416,
+      "file": "B-062.wav",
+      "flags": 65636,
+      "descriptor": 62,
+      "files": [
+        "B-062.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 852224,
+      "file": "B-063.wav",
+      "flags": 65636,
+      "descriptor": 63,
+      "files": [
+        "B-063.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 853248,
+      "file": "B-064.wav",
+      "flags": 65792,
+      "descriptor": 64,
+      "files": [
+        "B-064.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 854016,
+      "file": "B-065.wav",
+      "flags": 65636,
+      "descriptor": 65,
+      "files": [
+        "B-065.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 861696,
+      "file": "B-066.wav",
+      "flags": 65636,
+      "descriptor": 66,
+      "files": [
+        "B-066.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 861952,
+      "file": "B-067.wav",
+      "flags": 65636,
+      "descriptor": 67,
+      "files": [
+        "B-067.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 917760,
+      "file": "B-068.wav",
+      "flags": 65636,
+      "descriptor": 68,
+      "files": [
+        "B-068.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 918784,
+      "file": "B-069.wav",
+      "flags": 65792,
+      "descriptor": 69,
+      "files": [
+        "B-069.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 919552,
+      "file": "B-070.wav",
+      "flags": 65636,
+      "descriptor": 70,
+      "files": [
+        "B-070.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 927232,
+      "file": "B-071.wav",
+      "flags": 65636,
+      "descriptor": 71,
+      "files": [
+        "B-071.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 927488,
+      "file": "B-072.wav",
+      "flags": 65636,
+      "descriptor": 72,
+      "files": [
+        "B-072.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 983296,
+      "file": "B-073.wav",
+      "flags": 65636,
+      "descriptor": 73,
+      "files": [
+        "B-073.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 984320,
+      "file": "B-074.wav",
+      "flags": 65792,
+      "descriptor": 74,
+      "files": [
+        "B-074.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 985088,
+      "file": "B-075.wav",
+      "flags": 65636,
+      "descriptor": 75,
+      "files": [
+        "B-075.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 992000,
+      "file": "B-076.wav",
+      "flags": 65636,
+      "descriptor": 76,
+      "files": [
+        "B-076.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 992768,
+      "file": "B-077.wav",
+      "flags": 65636,
+      "descriptor": 77,
+      "files": [
+        "B-077.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 993024,
+      "file": "B-078.wav",
+      "flags": 65636,
+      "descriptor": 78,
+      "files": [
+        "B-078.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1048832,
+      "file": "B-079.wav",
+      "flags": 65636,
+      "descriptor": 79,
+      "files": [
+        "B-079.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1049856,
+      "file": "B-080.wav",
+      "flags": 65792,
+      "descriptor": 80,
+      "files": [
+        "B-080.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1050624,
+      "file": "B-081.wav",
+      "flags": 65636,
+      "descriptor": 81,
+      "files": [
+        "B-081.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1058304,
+      "file": "B-082.wav",
+      "flags": 65636,
+      "descriptor": 82,
+      "files": [
+        "B-082.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1058560,
+      "file": "B-083.wav",
+      "flags": 65636,
+      "descriptor": 83,
+      "files": [
+        "B-083.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1114368,
+      "file": "B-084.wav",
+      "flags": 65636,
+      "descriptor": 84,
+      "files": [
+        "B-084.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1115392,
+      "file": "B-085.wav",
+      "flags": 65792,
+      "descriptor": 85,
+      "files": [
+        "B-085.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1116160,
+      "file": "B-086.wav",
+      "flags": 65636,
+      "descriptor": 86,
+      "files": [
+        "B-086.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1179904,
+      "file": "B-087.wav",
+      "flags": 65636,
+      "descriptor": 87,
+      "files": [
+        "B-087.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1180928,
+      "file": "B-088.wav",
+      "flags": 65792,
+      "descriptor": 88,
+      "files": [
+        "B-088.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1181696,
+      "file": "B-089.wav",
+      "flags": 65636,
+      "descriptor": 89,
+      "files": [
+        "B-089.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1189376,
+      "file": "B-090.wav",
+      "flags": 65636,
+      "descriptor": 90,
+      "files": [
+        "B-090.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1189632,
+      "file": "B-091.wav",
+      "flags": 65636,
+      "descriptor": 91,
+      "files": [
+        "B-091.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1245440,
+      "file": "B-092.wav",
+      "flags": 65636,
+      "descriptor": 92,
+      "files": [
+        "B-092.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1246464,
+      "file": "B-093.wav",
+      "flags": 65792,
+      "descriptor": 93,
+      "files": [
+        "B-093.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1247232,
+      "file": "B-094.wav",
+      "flags": 65636,
+      "descriptor": 94,
+      "files": [
+        "B-094.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1254912,
+      "file": "B-095.wav",
+      "flags": 65636,
+      "descriptor": 95,
+      "files": [
+        "B-095.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1255168,
+      "file": "B-096.wav",
+      "flags": 65636,
+      "descriptor": 96,
+      "files": [
+        "B-096.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1376512,
+      "file": "B-097.wav",
+      "flags": 65636,
+      "descriptor": 97,
+      "files": [
+        "B-097.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1377536,
+      "file": "B-098.wav",
+      "flags": 65792,
+      "descriptor": 98,
+      "files": [
+        "B-098.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1378304,
+      "file": "B-099.wav",
+      "flags": 65636,
+      "descriptor": 99,
+      "files": [
+        "B-099.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1385984,
+      "file": "B-100.wav",
+      "flags": 65636,
+      "descriptor": 100,
+      "files": [
+        "B-100.wav"
+      ]
+    },
+    {
+      "bank": "B",
+      "key": 1386240,
+      "file": "B-101.wav",
+      "flags": 65636,
+      "descriptor": 101,
+      "files": [
+        "B-101.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 0,
+      "file": "P-000.wav",
+      "flags": 65636,
+      "descriptor": 0,
+      "files": [
+        "P-000.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 256,
+      "file": "P-001.wav",
+      "flags": 65636,
+      "descriptor": 1,
+      "files": [
+        "P-001.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 512,
+      "file": "P-002.wav",
+      "flags": 65636,
+      "descriptor": 2,
+      "files": [
+        "P-002.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 768,
+      "file": "P-003.wav",
+      "flags": 262244,
+      "descriptor": 3,
+      "files": [
+        "P-003.wav",
+        "P-004.wav",
+        "P-005.wav",
+        "P-006.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1024,
+      "file": "P-007.wav",
+      "flags": 65636,
+      "descriptor": 7,
+      "files": [
+        "P-007.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1280,
+      "file": "P-008.wav",
+      "flags": 131172,
+      "descriptor": 8,
+      "files": [
+        "P-008.wav",
+        "P-009.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1536,
+      "file": "P-010.wav",
+      "flags": 131328,
+      "descriptor": 10,
+      "files": [
+        "P-010.wav",
+        "P-011.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1792,
+      "file": "P-012.wav",
+      "flags": 131328,
+      "descriptor": 12,
+      "files": [
+        "P-012.wav",
+        "P-013.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 2048,
+      "file": "P-014.wav",
+      "flags": 131172,
+      "descriptor": 14,
+      "files": [
+        "P-014.wav",
+        "P-015.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 2304,
+      "file": "P-016.wav",
+      "flags": 65636,
+      "descriptor": 16,
+      "files": [
+        "P-016.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 2560,
+      "file": "P-017.wav",
+      "flags": 131172,
+      "descriptor": 17,
+      "files": [
+        "P-017.wav",
+        "P-018.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 2816,
+      "file": "P-019.wav",
+      "flags": 65636,
+      "descriptor": 19,
+      "files": [
+        "P-019.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 3328,
+      "file": "P-020.wav",
+      "flags": 131172,
+      "descriptor": 20,
+      "files": [
+        "P-020.wav",
+        "P-021.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 3584,
+      "file": "P-022.wav",
+      "flags": 65636,
+      "descriptor": 22,
+      "files": [
+        "P-022.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 5888,
+      "file": "P-023.wav",
+      "flags": 131172,
+      "descriptor": 23,
+      "files": [
+        "P-023.wav",
+        "P-024.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 8960,
+      "file": "P-025.wav",
+      "flags": 131172,
+      "descriptor": 25,
+      "files": [
+        "P-025.wav",
+        "P-026.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 65536,
+      "file": "P-027.wav",
+      "flags": 65636,
+      "descriptor": 27,
+      "files": [
+        "P-027.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 65792,
+      "file": "P-028.wav",
+      "flags": 65636,
+      "descriptor": 28,
+      "files": [
+        "P-028.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 66048,
+      "file": "P-029.wav",
+      "flags": 65636,
+      "descriptor": 29,
+      "files": [
+        "P-029.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 66304,
+      "file": "P-030.wav",
+      "flags": 262244,
+      "descriptor": 30,
+      "files": [
+        "P-030.wav",
+        "P-031.wav",
+        "P-032.wav",
+        "P-033.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 66560,
+      "file": "P-034.wav",
+      "flags": 65636,
+      "descriptor": 34,
+      "files": [
+        "P-034.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 66816,
+      "file": "P-035.wav",
+      "flags": 196708,
+      "descriptor": 35,
+      "files": [
+        "P-035.wav",
+        "P-036.wav",
+        "P-037.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 67072,
+      "file": "P-038.wav",
+      "flags": 131328,
+      "descriptor": 38,
+      "files": [
+        "P-038.wav",
+        "P-039.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 67328,
+      "file": "P-040.wav",
+      "flags": 65792,
+      "descriptor": 40,
+      "files": [
+        "P-040.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 67584,
+      "file": "P-041.wav",
+      "flags": 131172,
+      "descriptor": 41,
+      "files": [
+        "P-041.wav",
+        "P-042.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 67840,
+      "file": "P-043.wav",
+      "flags": 65636,
+      "descriptor": 43,
+      "files": [
+        "P-043.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 68096,
+      "file": "P-044.wav",
+      "flags": 131172,
+      "descriptor": 44,
+      "files": [
+        "P-044.wav",
+        "P-045.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 68352,
+      "file": "P-046.wav",
+      "flags": 131172,
+      "descriptor": 46,
+      "files": [
+        "P-046.wav",
+        "P-047.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 68608,
+      "file": "P-048.wav",
+      "flags": 131172,
+      "descriptor": 48,
+      "files": [
+        "P-048.wav",
+        "P-049.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 69120,
+      "file": "P-050.wav",
+      "flags": 65636,
+      "descriptor": 50,
+      "files": [
+        "P-050.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 71424,
+      "file": "P-051.wav",
+      "flags": 131172,
+      "descriptor": 51,
+      "files": [
+        "P-051.wav",
+        "P-052.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 74496,
+      "file": "P-053.wav",
+      "flags": 65636,
+      "descriptor": 53,
+      "files": [
+        "P-053.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 131072,
+      "file": "P-054.wav",
+      "flags": 65636,
+      "descriptor": 54,
+      "files": [
+        "P-054.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 131328,
+      "file": "P-055.wav",
+      "flags": 65636,
+      "descriptor": 55,
+      "files": [
+        "P-055.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 131584,
+      "file": "P-056.wav",
+      "flags": 65636,
+      "descriptor": 56,
+      "files": [
+        "P-056.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 131840,
+      "file": "P-057.wav",
+      "flags": 327780,
+      "descriptor": 57,
+      "files": [
+        "P-057.wav",
+        "P-058.wav",
+        "P-059.wav",
+        "P-060.wav",
+        "P-061.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 132096,
+      "file": "P-062.wav",
+      "flags": 65636,
+      "descriptor": 62,
+      "files": [
+        "P-062.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 132352,
+      "file": "P-063.wav",
+      "flags": 196708,
+      "descriptor": 63,
+      "files": [
+        "P-063.wav",
+        "P-064.wav",
+        "P-065.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 132608,
+      "file": "P-066.wav",
+      "flags": 131328,
+      "descriptor": 66,
+      "files": [
+        "P-066.wav",
+        "P-067.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 132864,
+      "file": "P-068.wav",
+      "flags": 131328,
+      "descriptor": 68,
+      "files": [
+        "P-068.wav",
+        "P-069.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 133120,
+      "file": "P-070.wav",
+      "flags": 131172,
+      "descriptor": 70,
+      "files": [
+        "P-070.wav",
+        "P-071.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 133376,
+      "file": "P-072.wav",
+      "flags": 65636,
+      "descriptor": 72,
+      "files": [
+        "P-072.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 133632,
+      "file": "P-073.wav",
+      "flags": 65636,
+      "descriptor": 73,
+      "files": [
+        "P-073.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 133888,
+      "file": "P-074.wav",
+      "flags": 131172,
+      "descriptor": 74,
+      "files": [
+        "P-074.wav",
+        "P-075.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 134144,
+      "file": "P-076.wav",
+      "flags": 131172,
+      "descriptor": 76,
+      "files": [
+        "P-076.wav",
+        "P-077.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 134400,
+      "file": "P-078.wav",
+      "flags": 131172,
+      "descriptor": 78,
+      "files": [
+        "P-078.wav",
+        "P-079.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 134656,
+      "file": "P-080.wav",
+      "flags": 65636,
+      "descriptor": 80,
+      "files": [
+        "P-080.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 136960,
+      "file": "P-081.wav",
+      "flags": 131172,
+      "descriptor": 81,
+      "files": [
+        "P-081.wav",
+        "P-082.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 140032,
+      "file": "P-083.wav",
+      "flags": 65636,
+      "descriptor": 83,
+      "files": [
+        "P-083.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 196608,
+      "file": "P-084.wav",
+      "flags": 65636,
+      "descriptor": 84,
+      "files": [
+        "P-084.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 196864,
+      "file": "P-085.wav",
+      "flags": 65636,
+      "descriptor": 85,
+      "files": [
+        "P-085.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 197120,
+      "file": "P-086.wav",
+      "flags": 65636,
+      "descriptor": 86,
+      "files": [
+        "P-086.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 197376,
+      "file": "P-087.wav",
+      "flags": 262244,
+      "descriptor": 87,
+      "files": [
+        "P-087.wav",
+        "P-088.wav",
+        "P-089.wav",
+        "P-090.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 197632,
+      "file": "P-091.wav",
+      "flags": 65636,
+      "descriptor": 91,
+      "files": [
+        "P-091.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 197888,
+      "file": "P-092.wav",
+      "flags": 131172,
+      "descriptor": 92,
+      "files": [
+        "P-092.wav",
+        "P-093.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 198144,
+      "file": "P-094.wav",
+      "flags": 131328,
+      "descriptor": 94,
+      "files": [
+        "P-094.wav",
+        "P-095.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 198400,
+      "file": "P-096.wav",
+      "flags": 131328,
+      "descriptor": 96,
+      "files": [
+        "P-096.wav",
+        "P-097.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 198656,
+      "file": "P-098.wav",
+      "flags": 131172,
+      "descriptor": 98,
+      "files": [
+        "P-098.wav",
+        "P-099.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 198912,
+      "file": "P-100.wav",
+      "flags": 65636,
+      "descriptor": 100,
+      "files": [
+        "P-100.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 199168,
+      "file": "P-101.wav",
+      "flags": 131172,
+      "descriptor": 101,
+      "files": [
+        "P-101.wav",
+        "P-102.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 199424,
+      "file": "P-103.wav",
+      "flags": 131172,
+      "descriptor": 103,
+      "files": [
+        "P-103.wav",
+        "P-104.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 200192,
+      "file": "P-105.wav",
+      "flags": 131172,
+      "descriptor": 105,
+      "files": [
+        "P-105.wav",
+        "P-106.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 202496,
+      "file": "P-107.wav",
+      "flags": 196708,
+      "descriptor": 107,
+      "files": [
+        "P-107.wav",
+        "P-108.wav",
+        "P-109.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 205568,
+      "file": "P-110.wav",
+      "flags": 65636,
+      "descriptor": 110,
+      "files": [
+        "P-110.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 262144,
+      "file": "P-111.wav",
+      "flags": 65636,
+      "descriptor": 111,
+      "files": [
+        "P-111.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 262400,
+      "file": "P-112.wav",
+      "flags": 65636,
+      "descriptor": 112,
+      "files": [
+        "P-112.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 262656,
+      "file": "P-113.wav",
+      "flags": 65636,
+      "descriptor": 113,
+      "files": [
+        "P-113.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 262912,
+      "file": "P-114.wav",
+      "flags": 262244,
+      "descriptor": 114,
+      "files": [
+        "P-114.wav",
+        "P-115.wav",
+        "P-116.wav",
+        "P-117.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 263168,
+      "file": "P-118.wav",
+      "flags": 65636,
+      "descriptor": 118,
+      "files": [
+        "P-118.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 263424,
+      "file": "P-119.wav",
+      "flags": 262244,
+      "descriptor": 119,
+      "files": [
+        "P-119.wav",
+        "P-120.wav",
+        "P-121.wav",
+        "P-122.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 263680,
+      "file": "P-123.wav",
+      "flags": 131328,
+      "descriptor": 123,
+      "files": [
+        "P-123.wav",
+        "P-124.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 263936,
+      "file": "P-125.wav",
+      "flags": 131328,
+      "descriptor": 125,
+      "files": [
+        "P-125.wav",
+        "P-126.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 264192,
+      "file": "P-127.wav",
+      "flags": 131172,
+      "descriptor": 127,
+      "files": [
+        "P-127.wav",
+        "P-128.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 264448,
+      "file": "P-129.wav",
+      "flags": 65636,
+      "descriptor": 129,
+      "files": [
+        "P-129.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 264704,
+      "file": "P-130.wav",
+      "flags": 131172,
+      "descriptor": 130,
+      "files": [
+        "P-130.wav",
+        "P-131.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 264960,
+      "file": "P-132.wav",
+      "flags": 131172,
+      "descriptor": 132,
+      "files": [
+        "P-132.wav",
+        "P-133.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 265216,
+      "file": "P-134.wav",
+      "flags": 65636,
+      "descriptor": 134,
+      "files": [
+        "P-134.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 265472,
+      "file": "P-135.wav",
+      "flags": 131172,
+      "descriptor": 135,
+      "files": [
+        "P-135.wav",
+        "P-136.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 265728,
+      "file": "P-137.wav",
+      "flags": 131172,
+      "descriptor": 137,
+      "files": [
+        "P-137.wav",
+        "P-138.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 269824,
+      "file": "P-139.wav",
+      "flags": 65636,
+      "descriptor": 139,
+      "files": [
+        "P-139.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 270080,
+      "file": "P-140.wav",
+      "flags": 65636,
+      "descriptor": 140,
+      "files": [
+        "P-140.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 270336,
+      "file": "P-141.wav",
+      "flags": 65636,
+      "descriptor": 141,
+      "files": [
+        "P-141.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 270592,
+      "file": "P-142.wav",
+      "flags": 65636,
+      "descriptor": 142,
+      "files": [
+        "P-142.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 270848,
+      "file": "P-143.wav",
+      "flags": 65636,
+      "descriptor": 143,
+      "files": [
+        "P-143.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 271104,
+      "file": "P-144.wav",
+      "flags": 65636,
+      "descriptor": 144,
+      "files": [
+        "P-144.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 327680,
+      "file": "P-145.wav",
+      "flags": 65636,
+      "descriptor": 145,
+      "files": [
+        "P-145.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 327936,
+      "file": "P-146.wav",
+      "flags": 65636,
+      "descriptor": 146,
+      "files": [
+        "P-146.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 328192,
+      "file": "P-147.wav",
+      "flags": 65636,
+      "descriptor": 147,
+      "files": [
+        "P-147.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 328448,
+      "file": "P-148.wav",
+      "flags": 262244,
+      "descriptor": 148,
+      "files": [
+        "P-148.wav",
+        "P-149.wav",
+        "P-150.wav",
+        "P-151.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 328704,
+      "file": "P-152.wav",
+      "flags": 65636,
+      "descriptor": 152,
+      "files": [
+        "P-152.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 328960,
+      "file": "P-153.wav",
+      "flags": 131172,
+      "descriptor": 153,
+      "files": [
+        "P-153.wav",
+        "P-154.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 329216,
+      "file": "P-155.wav",
+      "flags": 131328,
+      "descriptor": 155,
+      "files": [
+        "P-155.wav",
+        "P-156.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 329472,
+      "file": "P-157.wav",
+      "flags": 131328,
+      "descriptor": 157,
+      "files": [
+        "P-157.wav",
+        "P-158.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 329728,
+      "file": "P-159.wav",
+      "flags": 131172,
+      "descriptor": 159,
+      "files": [
+        "P-159.wav",
+        "P-160.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 329984,
+      "file": "P-161.wav",
+      "flags": 65636,
+      "descriptor": 161,
+      "files": [
+        "P-161.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 330240,
+      "file": "P-162.wav",
+      "flags": 131172,
+      "descriptor": 162,
+      "files": [
+        "P-162.wav",
+        "P-163.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 330496,
+      "file": "P-164.wav",
+      "flags": 131172,
+      "descriptor": 164,
+      "files": [
+        "P-164.wav",
+        "P-165.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 330752,
+      "file": "P-166.wav",
+      "flags": 131172,
+      "descriptor": 166,
+      "files": [
+        "P-166.wav",
+        "P-167.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 331264,
+      "file": "P-168.wav",
+      "flags": 65636,
+      "descriptor": 168,
+      "files": [
+        "P-168.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 331520,
+      "file": "P-169.wav",
+      "flags": 131172,
+      "descriptor": 169,
+      "files": [
+        "P-169.wav",
+        "P-170.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 331776,
+      "file": "P-171.wav",
+      "flags": 131172,
+      "descriptor": 171,
+      "files": [
+        "P-171.wav",
+        "P-172.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 393216,
+      "file": "P-173.wav",
+      "flags": 196708,
+      "descriptor": 173,
+      "files": [
+        "P-173.wav",
+        "P-174.wav",
+        "P-175.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 393472,
+      "file": "P-176.wav",
+      "flags": 65636,
+      "descriptor": 176,
+      "files": [
+        "P-176.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 393728,
+      "file": "P-177.wav",
+      "flags": 65636,
+      "descriptor": 177,
+      "files": [
+        "P-177.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 393984,
+      "file": "P-178.wav",
+      "flags": 327780,
+      "descriptor": 178,
+      "files": [
+        "P-178.wav",
+        "P-179.wav",
+        "P-180.wav",
+        "P-181.wav",
+        "P-182.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 394240,
+      "file": "P-183.wav",
+      "flags": 65636,
+      "descriptor": 183,
+      "files": [
+        "P-183.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 394496,
+      "file": "P-184.wav",
+      "flags": 131172,
+      "descriptor": 184,
+      "files": [
+        "P-184.wav",
+        "P-185.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 394752,
+      "file": "P-186.wav",
+      "flags": 131328,
+      "descriptor": 186,
+      "files": [
+        "P-186.wav",
+        "P-187.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 395008,
+      "file": "P-188.wav",
+      "flags": 131328,
+      "descriptor": 188,
+      "files": [
+        "P-188.wav",
+        "P-189.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 395264,
+      "file": "P-190.wav",
+      "flags": 131172,
+      "descriptor": 190,
+      "files": [
+        "P-190.wav",
+        "P-191.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 395520,
+      "file": "P-192.wav",
+      "flags": 65636,
+      "descriptor": 192,
+      "files": [
+        "P-192.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 395776,
+      "file": "P-193.wav",
+      "flags": 131172,
+      "descriptor": 193,
+      "files": [
+        "P-193.wav",
+        "P-194.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 396032,
+      "file": "P-195.wav",
+      "flags": 131172,
+      "descriptor": 195,
+      "files": [
+        "P-195.wav",
+        "P-196.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 396288,
+      "file": "P-197.wav",
+      "flags": 131172,
+      "descriptor": 197,
+      "files": [
+        "P-197.wav",
+        "P-198.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 396544,
+      "file": "P-199.wav",
+      "flags": 131172,
+      "descriptor": 199,
+      "files": [
+        "P-199.wav",
+        "P-200.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 396800,
+      "file": "P-201.wav",
+      "flags": 131172,
+      "descriptor": 201,
+      "files": [
+        "P-201.wav",
+        "P-202.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 397056,
+      "file": "P-203.wav",
+      "flags": 65636,
+      "descriptor": 203,
+      "files": [
+        "P-203.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 397568,
+      "file": "P-204.wav",
+      "flags": 131172,
+      "descriptor": 204,
+      "files": [
+        "P-204.wav",
+        "P-205.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 397824,
+      "file": "P-206.wav",
+      "flags": 131328,
+      "descriptor": 206,
+      "files": [
+        "P-206.wav",
+        "P-207.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 398080,
+      "file": "P-208.wav",
+      "flags": 131172,
+      "descriptor": 208,
+      "files": [
+        "P-208.wav",
+        "P-209.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 398336,
+      "file": "P-210.wav",
+      "flags": 131172,
+      "descriptor": 210,
+      "files": [
+        "P-210.wav",
+        "P-211.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 398592,
+      "file": "P-212.wav",
+      "flags": 131328,
+      "descriptor": 212,
+      "files": [
+        "P-212.wav",
+        "P-213.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 402688,
+      "file": "P-214.wav",
+      "flags": 65636,
+      "descriptor": 214,
+      "files": [
+        "P-214.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 458752,
+      "file": "P-215.wav",
+      "flags": 65636,
+      "descriptor": 215,
+      "files": [
+        "P-215.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 459008,
+      "file": "P-216.wav",
+      "flags": 65636,
+      "descriptor": 216,
+      "files": [
+        "P-216.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 459264,
+      "file": "P-217.wav",
+      "flags": 65636,
+      "descriptor": 217,
+      "files": [
+        "P-217.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 459520,
+      "file": "P-218.wav",
+      "flags": 196708,
+      "descriptor": 218,
+      "files": [
+        "P-218.wav",
+        "P-219.wav",
+        "P-220.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 459776,
+      "file": "P-221.wav",
+      "flags": 65636,
+      "descriptor": 221,
+      "files": [
+        "P-221.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 460032,
+      "file": "P-222.wav",
+      "flags": 131172,
+      "descriptor": 222,
+      "files": [
+        "P-222.wav",
+        "P-223.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 460288,
+      "file": "P-224.wav",
+      "flags": 131328,
+      "descriptor": 224,
+      "files": [
+        "P-224.wav",
+        "P-225.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 460544,
+      "file": "P-226.wav",
+      "flags": 131328,
+      "descriptor": 226,
+      "files": [
+        "P-226.wav",
+        "P-227.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 460800,
+      "file": "P-228.wav",
+      "flags": 131172,
+      "descriptor": 228,
+      "files": [
+        "P-228.wav",
+        "P-229.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 461056,
+      "file": "P-230.wav",
+      "flags": 65636,
+      "descriptor": 230,
+      "files": [
+        "P-230.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 461312,
+      "file": "P-231.wav",
+      "flags": 131172,
+      "descriptor": 231,
+      "files": [
+        "P-231.wav",
+        "P-232.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 461568,
+      "file": "P-233.wav",
+      "flags": 131172,
+      "descriptor": 233,
+      "files": [
+        "P-233.wav",
+        "P-234.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 461824,
+      "file": "P-235.wav",
+      "flags": 131172,
+      "descriptor": 235,
+      "files": [
+        "P-235.wav",
+        "P-236.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 462080,
+      "file": "P-237.wav",
+      "flags": 65636,
+      "descriptor": 237,
+      "files": [
+        "P-237.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 462592,
+      "file": "P-238.wav",
+      "flags": 196708,
+      "descriptor": 238,
+      "files": [
+        "P-238.wav",
+        "P-239.wav",
+        "P-240.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 463104,
+      "file": "P-241.wav",
+      "flags": 131172,
+      "descriptor": 241,
+      "files": [
+        "P-241.wav",
+        "P-242.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 463360,
+      "file": "P-243.wav",
+      "flags": 131328,
+      "descriptor": 243,
+      "files": [
+        "P-243.wav",
+        "P-244.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 463616,
+      "file": "P-245.wav",
+      "flags": 131172,
+      "descriptor": 245,
+      "files": [
+        "P-245.wav",
+        "P-246.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 463872,
+      "file": "P-247.wav",
+      "flags": 131172,
+      "descriptor": 247,
+      "files": [
+        "P-247.wav",
+        "P-248.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 464384,
+      "file": "P-249.wav",
+      "flags": 65636,
+      "descriptor": 249,
+      "files": [
+        "P-249.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 468224,
+      "file": "P-250.wav",
+      "flags": 65636,
+      "descriptor": 250,
+      "files": [
+        "P-250.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 524288,
+      "file": "P-251.wav",
+      "flags": 196708,
+      "descriptor": 251,
+      "files": [
+        "P-251.wav",
+        "P-252.wav",
+        "P-253.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 524544,
+      "file": "P-254.wav",
+      "flags": 65636,
+      "descriptor": 254,
+      "files": [
+        "P-254.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 524800,
+      "file": "P-255.wav",
+      "flags": 65636,
+      "descriptor": 255,
+      "files": [
+        "P-255.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 525056,
+      "file": "P-256.wav",
+      "flags": 262244,
+      "descriptor": 256,
+      "files": [
+        "P-256.wav",
+        "P-257.wav",
+        "P-258.wav",
+        "P-259.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 525312,
+      "file": "P-260.wav",
+      "flags": 65636,
+      "descriptor": 260,
+      "files": [
+        "P-260.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 525568,
+      "file": "P-261.wav",
+      "flags": 131172,
+      "descriptor": 261,
+      "files": [
+        "P-261.wav",
+        "P-262.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 525824,
+      "file": "P-263.wav",
+      "flags": 131328,
+      "descriptor": 263,
+      "files": [
+        "P-263.wav",
+        "P-264.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 526080,
+      "file": "P-265.wav",
+      "flags": 131328,
+      "descriptor": 265,
+      "files": [
+        "P-265.wav",
+        "P-266.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 526336,
+      "file": "P-267.wav",
+      "flags": 131172,
+      "descriptor": 267,
+      "files": [
+        "P-267.wav",
+        "P-268.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 526592,
+      "file": "P-269.wav",
+      "flags": 65636,
+      "descriptor": 269,
+      "files": [
+        "P-269.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 526848,
+      "file": "P-270.wav",
+      "flags": 131172,
+      "descriptor": 270,
+      "files": [
+        "P-270.wav",
+        "P-271.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 527104,
+      "file": "P-272.wav",
+      "flags": 131172,
+      "descriptor": 272,
+      "files": [
+        "P-272.wav",
+        "P-273.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 527360,
+      "file": "P-274.wav",
+      "flags": 131172,
+      "descriptor": 274,
+      "files": [
+        "P-274.wav",
+        "P-275.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 527616,
+      "file": "P-276.wav",
+      "flags": 131172,
+      "descriptor": 276,
+      "files": [
+        "P-276.wav",
+        "P-277.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 527872,
+      "file": "P-278.wav",
+      "flags": 196708,
+      "descriptor": 278,
+      "files": [
+        "P-278.wav",
+        "P-279.wav",
+        "P-280.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 530176,
+      "file": "P-281.wav",
+      "flags": 131172,
+      "descriptor": 281,
+      "files": [
+        "P-281.wav",
+        "P-282.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 531200,
+      "file": "P-283.wav",
+      "flags": 131172,
+      "descriptor": 283,
+      "files": [
+        "P-283.wav",
+        "P-284.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 531456,
+      "file": "P-285.wav",
+      "flags": 131172,
+      "descriptor": 285,
+      "files": [
+        "P-285.wav",
+        "P-286.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 531712,
+      "file": "P-287.wav",
+      "flags": 65636,
+      "descriptor": 287,
+      "files": [
+        "P-287.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 533248,
+      "file": "P-288.wav",
+      "flags": 65636,
+      "descriptor": 288,
+      "files": [
+        "P-288.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 589824,
+      "file": "P-289.wav",
+      "flags": 196708,
+      "descriptor": 289,
+      "files": [
+        "P-289.wav",
+        "P-290.wav",
+        "P-291.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 590080,
+      "file": "P-292.wav",
+      "flags": 65636,
+      "descriptor": 292,
+      "files": [
+        "P-292.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 590336,
+      "file": "P-293.wav",
+      "flags": 65636,
+      "descriptor": 293,
+      "files": [
+        "P-293.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 590592,
+      "file": "P-294.wav",
+      "flags": 196708,
+      "descriptor": 294,
+      "files": [
+        "P-294.wav",
+        "P-295.wav",
+        "P-296.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 590848,
+      "file": "P-297.wav",
+      "flags": 65636,
+      "descriptor": 297,
+      "files": [
+        "P-297.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 591104,
+      "file": "P-298.wav",
+      "flags": 131172,
+      "descriptor": 298,
+      "files": [
+        "P-298.wav",
+        "P-299.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 591360,
+      "file": "P-300.wav",
+      "flags": 131328,
+      "descriptor": 300,
+      "files": [
+        "P-300.wav",
+        "P-301.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 591616,
+      "file": "P-302.wav",
+      "flags": 131328,
+      "descriptor": 302,
+      "files": [
+        "P-302.wav",
+        "P-303.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 591872,
+      "file": "P-304.wav",
+      "flags": 196708,
+      "descriptor": 304,
+      "files": [
+        "P-304.wav",
+        "P-305.wav",
+        "P-306.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 592128,
+      "file": "P-307.wav",
+      "flags": 65636,
+      "descriptor": 307,
+      "files": [
+        "P-307.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 592384,
+      "file": "P-308.wav",
+      "flags": 131172,
+      "descriptor": 308,
+      "files": [
+        "P-308.wav",
+        "P-309.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 592640,
+      "file": "P-310.wav",
+      "flags": 131172,
+      "descriptor": 310,
+      "files": [
+        "P-310.wav",
+        "P-311.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 592896,
+      "file": "P-312.wav",
+      "flags": 131172,
+      "descriptor": 312,
+      "files": [
+        "P-312.wav",
+        "P-313.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 593152,
+      "file": "P-314.wav",
+      "flags": 131172,
+      "descriptor": 314,
+      "files": [
+        "P-314.wav",
+        "P-315.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 593408,
+      "file": "P-316.wav",
+      "flags": 131172,
+      "descriptor": 316,
+      "files": [
+        "P-316.wav",
+        "P-317.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 596224,
+      "file": "P-318.wav",
+      "flags": 131172,
+      "descriptor": 318,
+      "files": [
+        "P-318.wav",
+        "P-319.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 596480,
+      "file": "P-320.wav",
+      "flags": 196708,
+      "descriptor": 320,
+      "files": [
+        "P-320.wav",
+        "P-321.wav",
+        "P-322.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 655360,
+      "file": "P-323.wav",
+      "flags": 65636,
+      "descriptor": 323,
+      "files": [
+        "P-323.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 655616,
+      "file": "P-324.wav",
+      "flags": 65636,
+      "descriptor": 324,
+      "files": [
+        "P-324.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 655872,
+      "file": "P-325.wav",
+      "flags": 65636,
+      "descriptor": 325,
+      "files": [
+        "P-325.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 656128,
+      "file": "P-326.wav",
+      "flags": 196708,
+      "descriptor": 326,
+      "files": [
+        "P-326.wav",
+        "P-327.wav",
+        "P-328.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 656384,
+      "file": "P-329.wav",
+      "flags": 65636,
+      "descriptor": 329,
+      "files": [
+        "P-329.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 656640,
+      "file": "P-330.wav",
+      "flags": 131172,
+      "descriptor": 330,
+      "files": [
+        "P-330.wav",
+        "P-331.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 657152,
+      "file": "P-332.wav",
+      "flags": 65792,
+      "descriptor": 332,
+      "files": [
+        "P-332.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 658176,
+      "file": "P-333.wav",
+      "flags": 65636,
+      "descriptor": 333,
+      "files": [
+        "P-333.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 664576,
+      "file": "P-334.wav",
+      "flags": 131172,
+      "descriptor": 334,
+      "files": [
+        "P-334.wav",
+        "P-335.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 721152,
+      "file": "P-336.wav",
+      "flags": 65636,
+      "descriptor": 336,
+      "files": [
+        "P-336.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 722176,
+      "file": "P-337.wav",
+      "flags": 65636,
+      "descriptor": 337,
+      "files": [
+        "P-337.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 722688,
+      "file": "P-338.wav",
+      "flags": 65792,
+      "descriptor": 338,
+      "files": [
+        "P-338.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 722944,
+      "file": "P-339.wav",
+      "flags": 65636,
+      "descriptor": 339,
+      "files": [
+        "P-339.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 729856,
+      "file": "P-340.wav",
+      "flags": 65636,
+      "descriptor": 340,
+      "files": [
+        "P-340.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 730624,
+      "file": "P-341.wav",
+      "flags": 65636,
+      "descriptor": 341,
+      "files": [
+        "P-341.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 730880,
+      "file": "P-342.wav",
+      "flags": 65636,
+      "descriptor": 342,
+      "files": [
+        "P-342.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 786688,
+      "file": "P-343.wav",
+      "flags": 65636,
+      "descriptor": 343,
+      "files": [
+        "P-343.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 787712,
+      "file": "P-344.wav",
+      "flags": 65636,
+      "descriptor": 344,
+      "files": [
+        "P-344.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 788224,
+      "file": "P-345.wav",
+      "flags": 65792,
+      "descriptor": 345,
+      "files": [
+        "P-345.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 788480,
+      "file": "P-346.wav",
+      "flags": 65636,
+      "descriptor": 346,
+      "files": [
+        "P-346.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 795392,
+      "file": "P-347.wav",
+      "flags": 65636,
+      "descriptor": 347,
+      "files": [
+        "P-347.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 796160,
+      "file": "P-348.wav",
+      "flags": 65636,
+      "descriptor": 348,
+      "files": [
+        "P-348.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 796416,
+      "file": "P-349.wav",
+      "flags": 65636,
+      "descriptor": 349,
+      "files": [
+        "P-349.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 797184,
+      "file": "P-350.wav",
+      "flags": 65636,
+      "descriptor": 350,
+      "files": [
+        "P-350.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 852224,
+      "file": "P-351.wav",
+      "flags": 65636,
+      "descriptor": 351,
+      "files": [
+        "P-351.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 853248,
+      "file": "P-352.wav",
+      "flags": 65636,
+      "descriptor": 352,
+      "files": [
+        "P-352.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 853760,
+      "file": "P-353.wav",
+      "flags": 65792,
+      "descriptor": 353,
+      "files": [
+        "P-353.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 854016,
+      "file": "P-354.wav",
+      "flags": 65636,
+      "descriptor": 354,
+      "files": [
+        "P-354.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 861696,
+      "file": "P-355.wav",
+      "flags": 65636,
+      "descriptor": 355,
+      "files": [
+        "P-355.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 861952,
+      "file": "P-356.wav",
+      "flags": 65636,
+      "descriptor": 356,
+      "files": [
+        "P-356.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 862720,
+      "file": "P-357.wav",
+      "flags": 65636,
+      "descriptor": 357,
+      "files": [
+        "P-357.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 862976,
+      "file": "P-358.wav",
+      "flags": 65636,
+      "descriptor": 358,
+      "files": [
+        "P-358.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 917760,
+      "file": "P-359.wav",
+      "flags": 65636,
+      "descriptor": 359,
+      "files": [
+        "P-359.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 918784,
+      "file": "P-360.wav",
+      "flags": 65636,
+      "descriptor": 360,
+      "files": [
+        "P-360.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 919296,
+      "file": "P-361.wav",
+      "flags": 65792,
+      "descriptor": 361,
+      "files": [
+        "P-361.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 919552,
+      "file": "P-362.wav",
+      "flags": 65636,
+      "descriptor": 362,
+      "files": [
+        "P-362.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 926464,
+      "file": "P-363.wav",
+      "flags": 65636,
+      "descriptor": 363,
+      "files": [
+        "P-363.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 927232,
+      "file": "P-364.wav",
+      "flags": 65636,
+      "descriptor": 364,
+      "files": [
+        "P-364.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 927488,
+      "file": "P-365.wav",
+      "flags": 65636,
+      "descriptor": 365,
+      "files": [
+        "P-365.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 983296,
+      "file": "P-366.wav",
+      "flags": 65636,
+      "descriptor": 366,
+      "files": [
+        "P-366.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 984320,
+      "file": "P-367.wav",
+      "flags": 65636,
+      "descriptor": 367,
+      "files": [
+        "P-367.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 984832,
+      "file": "P-368.wav",
+      "flags": 65792,
+      "descriptor": 368,
+      "files": [
+        "P-368.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 985088,
+      "file": "P-369.wav",
+      "flags": 65636,
+      "descriptor": 369,
+      "files": [
+        "P-369.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 992000,
+      "file": "P-370.wav",
+      "flags": 65636,
+      "descriptor": 370,
+      "files": [
+        "P-370.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 992768,
+      "file": "P-371.wav",
+      "flags": 65636,
+      "descriptor": 371,
+      "files": [
+        "P-371.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 993024,
+      "file": "P-372.wav",
+      "flags": 65636,
+      "descriptor": 372,
+      "files": [
+        "P-372.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1048832,
+      "file": "P-373.wav",
+      "flags": 65636,
+      "descriptor": 373,
+      "files": [
+        "P-373.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1049856,
+      "file": "P-374.wav",
+      "flags": 65636,
+      "descriptor": 374,
+      "files": [
+        "P-374.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1050368,
+      "file": "P-375.wav",
+      "flags": 65792,
+      "descriptor": 375,
+      "files": [
+        "P-375.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1050624,
+      "file": "P-376.wav",
+      "flags": 65636,
+      "descriptor": 376,
+      "files": [
+        "P-376.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1058304,
+      "file": "P-377.wav",
+      "flags": 65636,
+      "descriptor": 377,
+      "files": [
+        "P-377.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1058560,
+      "file": "P-378.wav",
+      "flags": 65636,
+      "descriptor": 378,
+      "files": [
+        "P-378.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1058816,
+      "file": "P-379.wav",
+      "flags": 65636,
+      "descriptor": 379,
+      "files": [
+        "P-379.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1059072,
+      "file": "P-380.wav",
+      "flags": 65636,
+      "descriptor": 380,
+      "files": [
+        "P-380.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1114368,
+      "file": "P-381.wav",
+      "flags": 65636,
+      "descriptor": 381,
+      "files": [
+        "P-381.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1115392,
+      "file": "P-382.wav",
+      "flags": 65636,
+      "descriptor": 382,
+      "files": [
+        "P-382.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1115904,
+      "file": "P-383.wav",
+      "flags": 65792,
+      "descriptor": 383,
+      "files": [
+        "P-383.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1116160,
+      "file": "P-384.wav",
+      "flags": 65636,
+      "descriptor": 384,
+      "files": [
+        "P-384.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1123840,
+      "file": "P-385.wav",
+      "flags": 65636,
+      "descriptor": 385,
+      "files": [
+        "P-385.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1124096,
+      "file": "P-386.wav",
+      "flags": 65636,
+      "descriptor": 386,
+      "files": [
+        "P-386.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1124352,
+      "file": "P-387.wav",
+      "flags": 65636,
+      "descriptor": 387,
+      "files": [
+        "P-387.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1124608,
+      "file": "P-388.wav",
+      "flags": 65636,
+      "descriptor": 388,
+      "files": [
+        "P-388.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1310976,
+      "file": "P-389.wav",
+      "flags": 65636,
+      "descriptor": 389,
+      "files": [
+        "P-389.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1312000,
+      "file": "P-390.wav",
+      "flags": 65636,
+      "descriptor": 390,
+      "files": [
+        "P-390.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1312512,
+      "file": "P-391.wav",
+      "flags": 65792,
+      "descriptor": 391,
+      "files": [
+        "P-391.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1319680,
+      "file": "P-392.wav",
+      "flags": 65636,
+      "descriptor": 392,
+      "files": [
+        "P-392.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1376512,
+      "file": "P-393.wav",
+      "flags": 65636,
+      "descriptor": 393,
+      "files": [
+        "P-393.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1377536,
+      "file": "P-394.wav",
+      "flags": 65636,
+      "descriptor": 394,
+      "files": [
+        "P-394.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1378048,
+      "file": "P-395.wav",
+      "flags": 65792,
+      "descriptor": 395,
+      "files": [
+        "P-395.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1385216,
+      "file": "P-396.wav",
+      "flags": 65636,
+      "descriptor": 396,
+      "files": [
+        "P-396.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1442048,
+      "file": "P-397.wav",
+      "flags": 65636,
+      "descriptor": 397,
+      "files": [
+        "P-397.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1443072,
+      "file": "P-398.wav",
+      "flags": 65636,
+      "descriptor": 398,
+      "files": [
+        "P-398.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1443584,
+      "file": "P-399.wav",
+      "flags": 65792,
+      "descriptor": 399,
+      "files": [
+        "P-399.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1450752,
+      "file": "P-400.wav",
+      "flags": 65636,
+      "descriptor": 400,
+      "files": [
+        "P-400.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1507584,
+      "file": "P-401.wav",
+      "flags": 65636,
+      "descriptor": 401,
+      "files": [
+        "P-401.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1508608,
+      "file": "P-402.wav",
+      "flags": 65636,
+      "descriptor": 402,
+      "files": [
+        "P-402.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1509120,
+      "file": "P-403.wav",
+      "flags": 65792,
+      "descriptor": 403,
+      "files": [
+        "P-403.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1516288,
+      "file": "P-404.wav",
+      "flags": 65636,
+      "descriptor": 404,
+      "files": [
+        "P-404.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1573120,
+      "file": "P-405.wav",
+      "flags": 65636,
+      "descriptor": 405,
+      "files": [
+        "P-405.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1574144,
+      "file": "P-406.wav",
+      "flags": 65636,
+      "descriptor": 406,
+      "files": [
+        "P-406.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1574656,
+      "file": "P-407.wav",
+      "flags": 65792,
+      "descriptor": 407,
+      "files": [
+        "P-407.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1581824,
+      "file": "P-408.wav",
+      "flags": 65636,
+      "descriptor": 408,
+      "files": [
+        "P-408.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1638400,
+      "file": "P-409.wav",
+      "flags": 65636,
+      "descriptor": 409,
+      "files": [
+        "P-409.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1638656,
+      "file": "P-410.wav",
+      "flags": 65636,
+      "descriptor": 410,
+      "files": [
+        "P-410.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1638912,
+      "file": "P-411.wav",
+      "flags": 65636,
+      "descriptor": 411,
+      "files": [
+        "P-411.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1639168,
+      "file": "P-412.wav",
+      "flags": 262244,
+      "descriptor": 412,
+      "files": [
+        "P-412.wav",
+        "P-413.wav",
+        "P-414.wav",
+        "P-415.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1639424,
+      "file": "P-416.wav",
+      "flags": 65636,
+      "descriptor": 416,
+      "files": [
+        "P-416.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1639680,
+      "file": "P-417.wav",
+      "flags": 131172,
+      "descriptor": 417,
+      "files": [
+        "P-417.wav",
+        "P-418.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1639936,
+      "file": "P-419.wav",
+      "flags": 131328,
+      "descriptor": 419,
+      "files": [
+        "P-419.wav",
+        "P-420.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1640192,
+      "file": "P-421.wav",
+      "flags": 65792,
+      "descriptor": 421,
+      "files": [
+        "P-421.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1640448,
+      "file": "P-422.wav",
+      "flags": 131172,
+      "descriptor": 422,
+      "files": [
+        "P-422.wav",
+        "P-423.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1640704,
+      "file": "P-424.wav",
+      "flags": 65636,
+      "descriptor": 424,
+      "files": [
+        "P-424.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1640960,
+      "file": "P-425.wav",
+      "flags": 131172,
+      "descriptor": 425,
+      "files": [
+        "P-425.wav",
+        "P-426.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1641216,
+      "file": "P-427.wav",
+      "flags": 131172,
+      "descriptor": 427,
+      "files": [
+        "P-427.wav",
+        "P-428.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1641984,
+      "file": "P-429.wav",
+      "flags": 131172,
+      "descriptor": 429,
+      "files": [
+        "P-429.wav",
+        "P-430.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1644288,
+      "file": "P-431.wav",
+      "flags": 196708,
+      "descriptor": 431,
+      "files": [
+        "P-431.wav",
+        "P-432.wav",
+        "P-433.wav"
+      ]
+    },
+    {
+      "bank": "P",
+      "key": 1647360,
+      "file": "P-434.wav",
+      "flags": 65636,
+      "descriptor": 434,
+      "files": [
+        "P-434.wav"
+      ]
+    }
+  ]
+}

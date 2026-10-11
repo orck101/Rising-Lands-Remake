@@ -1,0 +1,175 @@
+{
+  "rules": [
+    {
+      "type": 5,
+      "food": 4,
+      "rock": 0,
+      "parts": 0,
+      "duration": 50000,
+      "health": 100,
+      "animation_count": 8,
+      "animation_delay": 2
+    },
+    {
+      "type": 7,
+      "food": 6,
+      "rock": 0,
+      "parts": 0,
+      "duration": 100000,
+      "health": 100,
+      "animation_count": 8,
+      "animation_delay": 2
+    },
+    {
+      "type": 6,
+      "food": 6,
+      "rock": 0,
+      "parts": 0,
+      "duration": 80000,
+      "health": 100,
+      "animation_count": 8,
+      "animation_delay": 2
+    },
+    {
+      "type": 0,
+      "food": 6,
+      "rock": 0,
+      "parts": 0,
+      "duration": 80000,
+      "health": 100,
+      "animation_count": 8,
+      "animation_delay": 2
+    },
+    {
+      "type": 1,
+      "food": 5,
+      "rock": 1,
+      "parts": 0,
+      "duration": 100000,
+      "health": 100,
+      "animation_count": 8,
+      "animation_delay": 2
+    },
+    {
+      "type": 8,
+      "food": 8,
+      "rock": 0,
+      "parts": 0,
+      "duration": 100000,
+      "health": 100,
+      "animation_count": 10,
+      "animation_delay": 2
+    },
+    {
+      "type": 2,
+      "food": 10,
+      "rock": 3,
+      "parts": 0,
+      "duration": 150000,
+      "health": 100,
+      "animation_count": 8,
+      "animation_delay": 2
+    },
+    {
+      "type": 11,
+      "food": 8,
+      "rock": 0,
+      "parts": 4,
+      "duration": 120000,
+      "health": 100,
+      "animation_count": 3,
+      "animation_delay": 1
+    },
+    {
+      "type": 12,
+      "food": 10,
+      "rock": 0,
+      "parts": 5,
+      "duration": 200000,
+      "health": 100,
+      "animation_count": 3,
+      "animation_delay": 2
+    },
+    {
+      "type": 14,
+      "food": 12,
+      "rock": 0,
+      "parts": 6,
+      "duration": 150000,
+      "health": 100,
+      "animation_count": 3,
+      "animation_delay": 3
+    },
+    {
+      "type": 3,
+      "food": 10,
+      "rock": 2,
+      "parts": 0,
+      "duration": 100000,
+      "health": 100,
+      "animation_count": 8,
+      "animation_delay": 2
+    },
+    {
+      "type": 4,
+      "food": 20,
+      "rock": 0,
+      "parts": 0,
+      "duration": 400000,
+      "health": 40,
+      "animation_count": 8,
+      "animation_delay": 2
+    },
+    {
+      "type": 10,
+      "food": 2,
+      "rock": 0,
+      "parts": 0,
+      "duration": 15000,
+      "health": 100,
+      "animation_count": 8,
+      "animation_delay": 2
+    },
+    {
+      "type": 13,
+      "food": 10,
+      "rock": 0,
+      "parts": 8,
+      "duration": 150000,
+      "health": 100,
+      "animation_count": 3,
+      "animation_delay": 3
+    },
+    {
+      "type": 15,
+      "food": 20,
+      "rock": 0,
+      "parts": 10,
+      "duration": 200000,
+      "health": 100,
+      "animation_count": 3,
+      "animation_delay": 2
+    },
+    {
+      "type": 16,
+      "food": 20,
+      "rock": 0,
+      "parts": 5,
+      "duration": 250000,
+      "health": 100,
+      "animation_count": 8,
+      "animation_delay": 2
+    },
+    {
+      "type": 25,
+      "food": 15,
+      "rock": 5,
+      "parts": 0,
+      "duration": 150000,
+      "health": 100,
+      "animation_count": 8,
+      "animation_delay": 2
+    }
+  ],
+  "sanctuary_capacity": 16
+}

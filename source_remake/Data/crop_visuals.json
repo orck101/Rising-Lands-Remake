@@ -1,0 +1,5949 @@
+{
+  "anchor": {
+    "x": 17,
+    "y": -12,
+    "method": "PlaceBatiment controlled type at MONDE01 anchor, native footprint rendering"
+  },
+  "rows": [
+    {
+      "discount": 0,
+      "residents": 0,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 0,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 0,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 0,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 0,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 33,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 0,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 33,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 1,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 1,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 1,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 1,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 1,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 33,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 1,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 33,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 2,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 2,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 2,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 2,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 2,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 33,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 2,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 33,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 3,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 3,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 3,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 3,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 3,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 33,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 3,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 33,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 4,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 4,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 4,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 4,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 4,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 33,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 4,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 33,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 5,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 5,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 5,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 5,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 33,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 5,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 33,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 0,
+      "residents": 5,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 33,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 0,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 0,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 0,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 0,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 0,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 0,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 1,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 1,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 1,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 1,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 1,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 1,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 2,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 2,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 2,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 2,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 2,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 2,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 3,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 3,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 3,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 3,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 3,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 3,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 4,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 4,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 4,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 4,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 4,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 4,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 5,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 5,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 5,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 25,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 5,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 5,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 1,
+      "residents": 5,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 25,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 0,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 0,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 0,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 0,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 0,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 0,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 14,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 1,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 1,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 1,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 1,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 1,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 1,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 22,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 2,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 2,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 2,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 2,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 2,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 2,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 30,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 3,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 3,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 3,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 3,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 3,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 3,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 38,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 4,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 4,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 4,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 4,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 4,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 4,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": -23,
+          "y": 46,
+          "sprite": 10811
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 5,
+      "food": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "sprite",
+          "x": 9,
+          "y": 86,
+          "sprite": 10811
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 5,
+      "food": 1,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "sprite",
+          "x": 17,
+          "y": 86,
+          "sprite": 10811
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 5,
+      "food": 2,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 5,
+      "food": 3,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 5,
+      "food": 4,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    },
+    {
+      "discount": 2,
+      "residents": 5,
+      "food": 5,
+      "commands": [
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 14,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 22,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 30,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 38,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": -23,
+          "y": 46,
+          "sprite": 10812
+        },
+        {
+          "kind": "player",
+          "x": 9,
+          "y": 86,
+          "sprite": 10813
+        },
+        {
+          "kind": "player",
+          "x": 17,
+          "y": 86,
+          "sprite": 10813
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2860 @@
+{
+  "visuals": [
+    {
+      "code": 1,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2,
+          "y": -27,
+          "sprite": 10525
+        },
+        {
+          "kind": "shadow",
+          "x": 9,
+          "y": 13,
+          "sprite": 10553
+        }
+      ]
+    },
+    {
+      "code": 1,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2,
+          "y": -27,
+          "sprite": 10526
+        },
+        {
+          "kind": "shadow",
+          "x": 9,
+          "y": 13,
+          "sprite": 10554
+        }
+      ]
+    },
+    {
+      "code": 1,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2,
+          "y": -27,
+          "sprite": 10527
+        },
+        {
+          "kind": "shadow",
+          "x": 9,
+          "y": 13,
+          "sprite": 10555
+        }
+      ]
+    },
+    {
+      "code": 1,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2,
+          "y": -27,
+          "sprite": 10528
+        },
+        {
+          "kind": "shadow",
+          "x": 9,
+          "y": 13,
+          "sprite": 10556
+        }
+      ]
+    },
+    {
+      "code": 2,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -4,
+          "y": -36,
+          "sprite": 10521
+        },
+        {
+          "kind": "shadow",
+          "x": 6,
+          "y": 21,
+          "sprite": 10549
+        }
+      ]
+    },
+    {
+      "code": 2,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -4,
+          "y": -36,
+          "sprite": 10522
+        },
+        {
+          "kind": "shadow",
+          "x": 6,
+          "y": 21,
+          "sprite": 10550
+        }
+      ]
+    },
+    {
+      "code": 2,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -4,
+          "y": -36,
+          "sprite": 10523
+        },
+        {
+          "kind": "shadow",
+          "x": 6,
+          "y": 21,
+          "sprite": 10551
+        }
+      ]
+    },
+    {
+      "code": 2,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -4,
+          "y": -36,
+          "sprite": 10524
+        },
+        {
+          "kind": "shadow",
+          "x": 6,
+          "y": 21,
+          "sprite": 10552
+        }
+      ]
+    },
+    {
+      "code": 3,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -3,
+          "y": -83,
+          "sprite": 10517
+        },
+        {
+          "kind": "shadow",
+          "x": 16,
+          "y": 6,
+          "sprite": 10545
+        }
+      ]
+    },
+    {
+      "code": 3,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -3,
+          "y": -83,
+          "sprite": 10518
+        },
+        {
+          "kind": "shadow",
+          "x": 16,
+          "y": 6,
+          "sprite": 10546
+        }
+      ]
+    },
+    {
+      "code": 3,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -3,
+          "y": -83,
+          "sprite": 10519
+        },
+        {
+          "kind": "shadow",
+          "x": 16,
+          "y": 6,
+          "sprite": 10547
+        }
+      ]
+    },
+    {
+      "code": 3,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -3,
+          "y": -83,
+          "sprite": 10520
+        },
+        {
+          "kind": "shadow",
+          "x": 16,
+          "y": 6,
+          "sprite": 10548
+        }
+      ]
+    },
+    {
+      "code": 4,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3,
+          "y": -89,
+          "sprite": 10517
+        },
+        {
+          "kind": "shadow",
+          "x": 22,
+          "y": 0,
+          "sprite": 10545
+        },
+        {
+          "kind": "sprite",
+          "x": -3,
+          "y": -19,
+          "sprite": 10525
+        },
+        {
+          "kind": "shadow",
+          "x": 4,
+          "y": 21,
+          "sprite": 10553
+        }
+      ]
+    },
+    {
+      "code": 4,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3,
+          "y": -89,
+          "sprite": 10518
+        },
+        {
+          "kind": "shadow",
+          "x": 22,
+          "y": 0,
+          "sprite": 10546
+        },
+        {
+          "kind": "sprite",
+          "x": -3,
+          "y": -19,
+          "sprite": 10526
+        },
+        {
+          "kind": "shadow",
+          "x": 4,
+          "y": 21,
+          "sprite": 10554
+        }
+      ]
+    },
+    {
+      "code": 4,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3,
+          "y": -89,
+          "sprite": 10519
+        },
+        {
+          "kind": "shadow",
+          "x": 22,
+          "y": 0,
+          "sprite": 10547
+        },
+        {
+          "kind": "sprite",
+          "x": -3,
+          "y": -19,
+          "sprite": 10527
+        },
+        {
+          "kind": "shadow",
+          "x": 4,
+          "y": 21,
+          "sprite": 10555
+        }
+      ]
+    },
+    {
+      "code": 4,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3,
+          "y": -89,
+          "sprite": 10520
+        },
+        {
+          "kind": "shadow",
+          "x": 22,
+          "y": 0,
+          "sprite": 10548
+        },
+        {
+          "kind": "sprite",
+          "x": -3,
+          "y": -19,
+          "sprite": 10528
+        },
+        {
+          "kind": "shadow",
+          "x": 4,
+          "y": 21,
+          "sprite": 10556
+        }
+      ]
+    },
+    {
+      "code": 5,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -4,
+          "y": -91,
+          "sprite": 10517
+        },
+        {
+          "kind": "shadow",
+          "x": 15,
+          "y": -2,
+          "sprite": 10545
+        },
+        {
+          "kind": "sprite",
+          "x": -7,
+          "y": -24,
+          "sprite": 10525
+        },
+        {
+          "kind": "shadow",
+          "x": 0,
+          "y": 16,
+          "sprite": 10553
+        },
+        {
+          "kind": "sprite",
+          "x": 15,
+          "y": -34,
+          "sprite": 10521
+        },
+        {
+          "kind": "shadow",
+          "x": 25,
+          "y": 23,
+          "sprite": 10549
+        }
+      ]
+    },
+    {
+      "code": 5,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -4,
+          "y": -91,
+          "sprite": 10518
+        },
+        {
+          "kind": "shadow",
+          "x": 15,
+          "y": -2,
+          "sprite": 10546
+        },
+        {
+          "kind": "sprite",
+          "x": -7,
+          "y": -24,
+          "sprite": 10526
+        },
+        {
+          "kind": "shadow",
+          "x": 0,
+          "y": 16,
+          "sprite": 10554
+        },
+        {
+          "kind": "sprite",
+          "x": 15,
+          "y": -34,
+          "sprite": 10522
+        },
+        {
+          "kind": "shadow",
+          "x": 25,
+          "y": 23,
+          "sprite": 10550
+        }
+      ]
+    },
+    {
+      "code": 5,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -4,
+          "y": -91,
+          "sprite": 10519
+        },
+        {
+          "kind": "shadow",
+          "x": 15,
+          "y": -2,
+          "sprite": 10547
+        },
+        {
+          "kind": "sprite",
+          "x": -7,
+          "y": -24,
+          "sprite": 10527
+        },
+        {
+          "kind": "shadow",
+          "x": 0,
+          "y": 16,
+          "sprite": 10555
+        },
+        {
+          "kind": "sprite",
+          "x": 15,
+          "y": -34,
+          "sprite": 10523
+        },
+        {
+          "kind": "shadow",
+          "x": 25,
+          "y": 23,
+          "sprite": 10551
+        }
+      ]
+    },
+    {
+      "code": 5,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -4,
+          "y": -91,
+          "sprite": 10520
+        },
+        {
+          "kind": "shadow",
+          "x": 15,
+          "y": -2,
+          "sprite": 10548
+        },
+        {
+          "kind": "sprite",
+          "x": -7,
+          "y": -24,
+          "sprite": 10528
+        },
+        {
+          "kind": "shadow",
+          "x": 0,
+          "y": 16,
+          "sprite": 10556
+        },
+        {
+          "kind": "sprite",
+          "x": 15,
+          "y": -34,
+          "sprite": 10524
+        },
+        {
+          "kind": "shadow",
+          "x": 25,
+          "y": 23,
+          "sprite": 10552
+        }
+      ]
+    },
+    {
+      "code": 6,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -4,
+          "y": -25,
+          "sprite": 10537
+        },
+        {
+          "kind": "shadow",
+          "x": 9,
+          "y": 16,
+          "sprite": 10565
+        }
+      ]
+    },
+    {
+      "code": 6,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -4,
+          "y": -25,
+          "sprite": 10538
+        },
+        {
+          "kind": "shadow",
+          "x": 9,
+          "y": 16,
+          "sprite": 10566
+        }
+      ]
+    },
+    {
+      "code": 6,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -4,
+          "y": -25,
+          "sprite": 10539
+        },
+        {
+          "kind": "shadow",
+          "x": 9,
+          "y": 16,
+          "sprite": 10567
+        }
+      ]
+    },
+    {
+      "code": 6,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -4,
+          "y": -25,
+          "sprite": 10540
+        },
+        {
+          "kind": "shadow",
+          "x": 9,
+          "y": 16,
+          "sprite": 10568
+        }
+      ]
+    },
+    {
+      "code": 7,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -7,
+          "y": -43,
+          "sprite": 10533
+        },
+        {
+          "kind": "shadow",
+          "x": 14,
+          "y": 14,
+          "sprite": 10561
+        }
+      ]
+    },
+    {
+      "code": 7,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -7,
+          "y": -43,
+          "sprite": 10534
+        },
+        {
+          "kind": "shadow",
+          "x": 14,
+          "y": 14,
+          "sprite": 10562
+        }
+      ]
+    },
+    {
+      "code": 7,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -7,
+          "y": -43,
+          "sprite": 10535
+        },
+        {
+          "kind": "shadow",
+          "x": 14,
+          "y": 14,
+          "sprite": 10563
+        }
+      ]
+    },
+    {
+      "code": 7,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -7,
+          "y": -43,
+          "sprite": 10536
+        },
+        {
+          "kind": "shadow",
+          "x": 14,
+          "y": 14,
+          "sprite": 10564
+        }
+      ]
+    },
+    {
+      "code": 8,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -11,
+          "y": -65,
+          "sprite": 10529
+        },
+        {
+          "kind": "shadow",
+          "x": 12,
+          "y": 13,
+          "sprite": 10557
+        }
+      ]
+    },
+    {
+      "code": 8,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -11,
+          "y": -65,
+          "sprite": 10530
+        },
+        {
+          "kind": "shadow",
+          "x": 12,
+          "y": 13,
+          "sprite": 10558
+        }
+      ]
+    },
+    {
+      "code": 8,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -11,
+          "y": -65,
+          "sprite": 10531
+        },
+        {
+          "kind": "shadow",
+          "x": 12,
+          "y": 13,
+          "sprite": 10559
+        }
+      ]
+    },
+    {
+      "code": 8,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -11,
+          "y": -65,
+          "sprite": 10532
+        },
+        {
+          "kind": "shadow",
+          "x": 12,
+          "y": 13,
+          "sprite": 10560
+        }
+      ]
+    },
+    {
+      "code": 9,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -15,
+          "y": -75,
+          "sprite": 10529
+        },
+        {
+          "kind": "shadow",
+          "x": 8,
+          "y": 3,
+          "sprite": 10557
+        },
+        {
+          "kind": "sprite",
+          "x": 7,
+          "y": -17,
+          "sprite": 10537
+        },
+        {
+          "kind": "shadow",
+          "x": 20,
+          "y": 24,
+          "sprite": 10565
+        }
+      ]
+    },
+    {
+      "code": 9,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -15,
+          "y": -75,
+          "sprite": 10530
+        },
+        {
+          "kind": "shadow",
+          "x": 8,
+          "y": 3,
+          "sprite": 10558
+        },
+        {
+          "kind": "sprite",
+          "x": 7,
+          "y": -17,
+          "sprite": 10538
+        },
+        {
+          "kind": "shadow",
+          "x": 20,
+          "y": 24,
+          "sprite": 10566
+        }
+      ]
+    },
+    {
+      "code": 9,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -15,
+          "y": -75,
+          "sprite": 10531
+        },
+        {
+          "kind": "shadow",
+          "x": 8,
+          "y": 3,
+          "sprite": 10559
+        },
+        {
+          "kind": "sprite",
+          "x": 7,
+          "y": -17,
+          "sprite": 10539
+        },
+        {
+          "kind": "shadow",
+          "x": 20,
+          "y": 24,
+          "sprite": 10567
+        }
+      ]
+    },
+    {
+      "code": 9,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -15,
+          "y": -75,
+          "sprite": 10532
+        },
+        {
+          "kind": "shadow",
+          "x": 8,
+          "y": 3,
+          "sprite": 10560
+        },
+        {
+          "kind": "sprite",
+          "x": 7,
+          "y": -17,
+          "sprite": 10540
+        },
+        {
+          "kind": "shadow",
+          "x": 20,
+          "y": 24,
+          "sprite": 10568
+        }
+      ]
+    },
+    {
+      "code": 10,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -7,
+          "y": -74,
+          "sprite": 10529
+        },
+        {
+          "kind": "shadow",
+          "x": 16,
+          "y": 4,
+          "sprite": 10557
+        },
+        {
+          "kind": "sprite",
+          "x": -18,
+          "y": -40,
+          "sprite": 10533
+        },
+        {
+          "kind": "shadow",
+          "x": 3,
+          "y": 17,
+          "sprite": 10561
+        },
+        {
+          "kind": "sprite",
+          "x": 11,
+          "y": -17,
+          "sprite": 10537
+        },
+        {
+          "kind": "shadow",
+          "x": 24,
+          "y": 24,
+          "sprite": 10565
+        }
+      ]
+    },
+    {
+      "code": 10,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -7,
+          "y": -74,
+          "sprite": 10530
+        },
+        {
+          "kind": "shadow",
+          "x": 16,
+          "y": 4,
+          "sprite": 10558
+        },
+        {
+          "kind": "sprite",
+          "x": -18,
+          "y": -40,
+          "sprite": 10534
+        },
+        {
+          "kind": "shadow",
+          "x": 3,
+          "y": 17,
+          "sprite": 10562
+        },
+        {
+          "kind": "sprite",
+          "x": 11,
+          "y": -17,
+          "sprite": 10538
+        },
+        {
+          "kind": "shadow",
+          "x": 24,
+          "y": 24,
+          "sprite": 10566
+        }
+      ]
+    },
+    {
+      "code": 10,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -7,
+          "y": -74,
+          "sprite": 10531
+        },
+        {
+          "kind": "shadow",
+          "x": 16,
+          "y": 4,
+          "sprite": 10559
+        },
+        {
+          "kind": "sprite",
+          "x": -18,
+          "y": -40,
+          "sprite": 10535
+        },
+        {
+          "kind": "shadow",
+          "x": 3,
+          "y": 17,
+          "sprite": 10563
+        },
+        {
+          "kind": "sprite",
+          "x": 11,
+          "y": -17,
+          "sprite": 10539
+        },
+        {
+          "kind": "shadow",
+          "x": 24,
+          "y": 24,
+          "sprite": 10567
+        }
+      ]
+    },
+    {
+      "code": 10,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -7,
+          "y": -74,
+          "sprite": 10532
+        },
+        {
+          "kind": "shadow",
+          "x": 16,
+          "y": 4,
+          "sprite": 10560
+        },
+        {
+          "kind": "sprite",
+          "x": -18,
+          "y": -40,
+          "sprite": 10536
+        },
+        {
+          "kind": "shadow",
+          "x": 3,
+          "y": 17,
+          "sprite": 10564
+        },
+        {
+          "kind": "sprite",
+          "x": 11,
+          "y": -17,
+          "sprite": 10540
+        },
+        {
+          "kind": "shadow",
+          "x": 24,
+          "y": 24,
+          "sprite": 10568
+        }
+      ]
+    },
+    {
+      "code": 11,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -5,
+          "y": -36,
+          "sprite": 10541
+        },
+        {
+          "kind": "shadow",
+          "x": 14,
+          "y": 14,
+          "sprite": 10569
+        }
+      ]
+    },
+    {
+      "code": 11,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -5,
+          "y": -36,
+          "sprite": 10542
+        },
+        {
+          "kind": "shadow",
+          "x": 14,
+          "y": 14,
+          "sprite": 10570
+        }
+      ]
+    },
+    {
+      "code": 11,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -5,
+          "y": -36,
+          "sprite": 10543
+        },
+        {
+          "kind": "shadow",
+          "x": 14,
+          "y": 14,
+          "sprite": 10571
+        }
+      ]
+    },
+    {
+      "code": 11,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -5,
+          "y": -36,
+          "sprite": 10544
+        },
+        {
+          "kind": "shadow",
+          "x": 14,
+          "y": 14,
+          "sprite": 10572
+        }
+      ]
+    },
+    {
+      "code": 12,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10573
+        }
+      ]
+    },
+    {
+      "code": 12,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10573
+        }
+      ]
+    },
+    {
+      "code": 12,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10573
+        }
+      ]
+    },
+    {
+      "code": 12,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10573
+        }
+      ]
+    },
+    {
+      "code": 13,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 16,
+          "y": 16,
+          "sprite": 10574
+        }
+      ]
+    },
+    {
+      "code": 13,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 16,
+          "y": 16,
+          "sprite": 10574
+        }
+      ]
+    },
+    {
+      "code": 13,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 16,
+          "y": 16,
+          "sprite": 10574
+        }
+      ]
+    },
+    {
+      "code": 13,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 16,
+          "y": 16,
+          "sprite": 10574
+        }
+      ]
+    },
+    {
+      "code": 14,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10575
+        }
+      ]
+    },
+    {
+      "code": 14,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10575
+        }
+      ]
+    },
+    {
+      "code": 14,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10575
+        }
+      ]
+    },
+    {
+      "code": 14,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10575
+        }
+      ]
+    },
+    {
+      "code": 15,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 18,
+          "y": 11,
+          "sprite": 10576
+        }
+      ]
+    },
+    {
+      "code": 15,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 18,
+          "y": 11,
+          "sprite": 10576
+        }
+      ]
+    },
+    {
+      "code": 15,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 18,
+          "y": 11,
+          "sprite": 10576
+        }
+      ]
+    },
+    {
+      "code": 15,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 18,
+          "y": 11,
+          "sprite": 10576
+        }
+      ]
+    },
+    {
+      "code": 16,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 18,
+          "y": 0,
+          "sprite": 10577
+        }
+      ]
+    },
+    {
+      "code": 16,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 18,
+          "y": 0,
+          "sprite": 10577
+        }
+      ]
+    },
+    {
+      "code": 16,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 18,
+          "y": 0,
+          "sprite": 10577
+        }
+      ]
+    },
+    {
+      "code": 16,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 18,
+          "y": 0,
+          "sprite": 10577
+        }
+      ]
+    },
+    {
+      "code": 17,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 18,
+          "y": 25,
+          "sprite": 10578
+        }
+      ]
+    },
+    {
+      "code": 17,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 18,
+          "y": 25,
+          "sprite": 10578
+        }
+      ]
+    },
+    {
+      "code": 17,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 18,
+          "y": 25,
+          "sprite": 10578
+        }
+      ]
+    },
+    {
+      "code": 17,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 18,
+          "y": 25,
+          "sprite": 10578
+        }
+      ]
+    },
+    {
+      "code": 18,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 25,
+          "sprite": 10579
+        }
+      ]
+    },
+    {
+      "code": 18,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 25,
+          "sprite": 10579
+        }
+      ]
+    },
+    {
+      "code": 18,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 25,
+          "sprite": 10579
+        }
+      ]
+    },
+    {
+      "code": 18,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 25,
+          "sprite": 10579
+        }
+      ]
+    },
+    {
+      "code": 19,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10580
+        }
+      ]
+    },
+    {
+      "code": 19,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10580
+        }
+      ]
+    },
+    {
+      "code": 19,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10580
+        }
+      ]
+    },
+    {
+      "code": 19,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10580
+        }
+      ]
+    },
+    {
+      "code": 20,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10581
+        }
+      ]
+    },
+    {
+      "code": 20,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10581
+        }
+      ]
+    },
+    {
+      "code": 20,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10581
+        }
+      ]
+    },
+    {
+      "code": 20,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10581
+        }
+      ]
+    },
+    {
+      "code": 21,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -3,
+          "y": -5,
+          "sprite": 10582
+        }
+      ]
+    },
+    {
+      "code": 21,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -3,
+          "y": -5,
+          "sprite": 10582
+        }
+      ]
+    },
+    {
+      "code": 21,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -3,
+          "y": -5,
+          "sprite": 10582
+        }
+      ]
+    },
+    {
+      "code": 21,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -3,
+          "y": -5,
+          "sprite": 10582
+        }
+      ]
+    },
+    {
+      "code": 22,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -1,
+          "y": -1,
+          "sprite": 10583
+        }
+      ]
+    },
+    {
+      "code": 22,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -1,
+          "y": -1,
+          "sprite": 10583
+        }
+      ]
+    },
+    {
+      "code": 22,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -1,
+          "y": -1,
+          "sprite": 10583
+        }
+      ]
+    },
+    {
+      "code": 22,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -1,
+          "y": -1,
+          "sprite": 10583
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9093
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9094
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9095
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9096
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9097
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9098
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9099
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9100
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9101
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9102
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9103
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9104
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9105
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9106
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9107
+        }
+      ]
+    },
+    {
+      "code": 23,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9108
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9109
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9110
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9111
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9112
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9113
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9114
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9115
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9116
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9117
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9118
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9119
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9120
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9121
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9122
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9123
+        }
+      ]
+    },
+    {
+      "code": 24,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9124
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9125
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9126
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9127
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9128
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9129
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9130
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9131
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9132
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9133
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9134
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9135
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9136
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9137
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9138
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9139
+        }
+      ]
+    },
+    {
+      "code": 25,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9140
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9141
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9142
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9143
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9144
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9145
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9146
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9147
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9148
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9149
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9150
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9151
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9152
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9153
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9154
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9155
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9156
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9157
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9160
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -1,
+          "sprite": 9158
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9161
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -2,
+          "sprite": 9159
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9162
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -3,
+          "sprite": 9160
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9163
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -4,
+          "sprite": 9161
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9164
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -5,
+          "sprite": 9162
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9165
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -6,
+          "sprite": 9163
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9166
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -7,
+          "sprite": 9164
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9167
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -8,
+          "sprite": 9165
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9168
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -9,
+          "sprite": 9166
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9169
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -10,
+          "sprite": 9167
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9170
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -11,
+          "sprite": 9168
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9171
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -12,
+          "sprite": 9169
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9172
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -13,
+          "sprite": 9170
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9157
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -14,
+          "sprite": 9171
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9158
+        }
+      ]
+    },
+    {
+      "code": 27,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": -15,
+          "sprite": 9172
+        },
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 9159
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "code": 28,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 10584
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2613 @@
+{
+  "steps_per_update": 30,
+  "trail_delays": [
+    0,
+    2,
+    4,
+    6,
+    8
+  ],
+  "cases": [
+    {
+      "length": 0,
+      "start_x": 1296,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 1,
+      "start_x": 1295,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 2,
+      "start_x": 1294,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 8,
+      "start_x": 1288,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 29,
+      "start_x": 1267,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1295,
+              "y": 1296,
+              "remaining": 1
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1293,
+              "y": 1296,
+              "remaining": 3
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1291,
+              "y": 1296,
+              "remaining": 5
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1289,
+              "y": 1296,
+              "remaining": 7
+            }
+          ],
+          "impact_count": 1
+        },
+        {
+          "tick": 2,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 30,
+      "start_x": 1266,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1296,
+              "y": 1296,
+              "remaining": 0
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1294,
+              "y": 1296,
+              "remaining": 2
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1292,
+              "y": 1296,
+              "remaining": 4
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1290,
+              "y": 1296,
+              "remaining": 6
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1288,
+              "y": 1296,
+              "remaining": 8
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 2,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 31,
+      "start_x": 1265,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1295,
+              "y": 1296,
+              "remaining": 1
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1293,
+              "y": 1296,
+              "remaining": 3
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1291,
+              "y": 1296,
+              "remaining": 5
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1289,
+              "y": 1296,
+              "remaining": 7
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1287,
+              "y": 1296,
+              "remaining": 9
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 2,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 32,
+      "start_x": 1264,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1294,
+              "y": 1296,
+              "remaining": 2
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1292,
+              "y": 1296,
+              "remaining": 4
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1290,
+              "y": 1296,
+              "remaining": 6
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1288,
+              "y": 1296,
+              "remaining": 8
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1286,
+              "y": 1296,
+              "remaining": 10
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 2,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 59,
+      "start_x": 1237,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1267,
+              "y": 1296,
+              "remaining": 29
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1265,
+              "y": 1296,
+              "remaining": 31
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1263,
+              "y": 1296,
+              "remaining": 33
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1261,
+              "y": 1296,
+              "remaining": 35
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1259,
+              "y": 1296,
+              "remaining": 37
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 2,
+          "active": [
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1295,
+              "y": 1296,
+              "remaining": 1
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1293,
+              "y": 1296,
+              "remaining": 3
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1291,
+              "y": 1296,
+              "remaining": 5
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1289,
+              "y": 1296,
+              "remaining": 7
+            }
+          ],
+          "impact_count": 1
+        },
+        {
+          "tick": 3,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 60,
+      "start_x": 1236,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1266,
+              "y": 1296,
+              "remaining": 30
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1264,
+              "y": 1296,
+              "remaining": 32
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1262,
+              "y": 1296,
+              "remaining": 34
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1260,
+              "y": 1296,
+              "remaining": 36
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1258,
+              "y": 1296,
+              "remaining": 38
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 2,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1296,
+              "y": 1296,
+              "remaining": 0
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1294,
+              "y": 1296,
+              "remaining": 2
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1292,
+              "y": 1296,
+              "remaining": 4
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1290,
+              "y": 1296,
+              "remaining": 6
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1288,
+              "y": 1296,
+              "remaining": 8
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 3,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 61,
+      "start_x": 1235,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1265,
+              "y": 1296,
+              "remaining": 31
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1263,
+              "y": 1296,
+              "remaining": 33
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1261,
+              "y": 1296,
+              "remaining": 35
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1259,
+              "y": 1296,
+              "remaining": 37
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1257,
+              "y": 1296,
+              "remaining": 39
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 2,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1295,
+              "y": 1296,
+              "remaining": 1
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1293,
+              "y": 1296,
+              "remaining": 3
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1291,
+              "y": 1296,
+              "remaining": 5
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1289,
+              "y": 1296,
+              "remaining": 7
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1287,
+              "y": 1296,
+              "remaining": 9
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 3,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 120,
+      "start_x": 1176,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1206,
+              "y": 1296,
+              "remaining": 90
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1204,
+              "y": 1296,
+              "remaining": 92
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1202,
+              "y": 1296,
+              "remaining": 94
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1200,
+              "y": 1296,
+              "remaining": 96
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1198,
+              "y": 1296,
+              "remaining": 98
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 2,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1236,
+              "y": 1296,
+              "remaining": 60
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1234,
+              "y": 1296,
+              "remaining": 62
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1232,
+              "y": 1296,
+              "remaining": 64
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1230,
+              "y": 1296,
+              "remaining": 66
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1228,
+              "y": 1296,
+              "remaining": 68
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 3,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1266,
+              "y": 1296,
+              "remaining": 30
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1264,
+              "y": 1296,
+              "remaining": 32
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1262,
+              "y": 1296,
+              "remaining": 34
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1260,
+              "y": 1296,
+              "remaining": 36
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1258,
+              "y": 1296,
+              "remaining": 38
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 4,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1296,
+              "y": 1296,
+              "remaining": 0
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1294,
+              "y": 1296,
+              "remaining": 2
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1292,
+              "y": 1296,
+              "remaining": 4
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1290,
+              "y": 1296,
+              "remaining": 6
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1288,
+              "y": 1296,
+              "remaining": 8
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 5,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 128,
+      "start_x": 1168,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1198,
+              "y": 1296,
+              "remaining": 98
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1196,
+              "y": 1296,
+              "remaining": 100
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1194,
+              "y": 1296,
+              "remaining": 102
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1192,
+              "y": 1296,
+              "remaining": 104
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1190,
+              "y": 1296,
+              "remaining": 106
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 2,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1228,
+              "y": 1296,
+              "remaining": 68
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1226,
+              "y": 1296,
+              "remaining": 70
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1224,
+              "y": 1296,
+              "remaining": 72
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1222,
+              "y": 1296,
+              "remaining": 74
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1220,
+              "y": 1296,
+              "remaining": 76
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 3,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1258,
+              "y": 1296,
+              "remaining": 38
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1256,
+              "y": 1296,
+              "remaining": 40
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1254,
+              "y": 1296,
+              "remaining": 42
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1252,
+              "y": 1296,
+              "remaining": 44
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1250,
+              "y": 1296,
+              "remaining": 46
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 4,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1288,
+              "y": 1296,
+              "remaining": 8
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1286,
+              "y": 1296,
+              "remaining": 10
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1284,
+              "y": 1296,
+              "remaining": 12
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1282,
+              "y": 1296,
+              "remaining": 14
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1280,
+              "y": 1296,
+              "remaining": 16
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 5,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 149,
+      "start_x": 1147,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1177,
+              "y": 1296,
+              "remaining": 119
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1175,
+              "y": 1296,
+              "remaining": 121
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1173,
+              "y": 1296,
+              "remaining": 123
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1171,
+              "y": 1296,
+              "remaining": 125
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1169,
+              "y": 1296,
+              "remaining": 127
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 2,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1207,
+              "y": 1296,
+              "remaining": 89
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1205,
+              "y": 1296,
+              "remaining": 91
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1203,
+              "y": 1296,
+              "remaining": 93
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1201,
+              "y": 1296,
+              "remaining": 95
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1199,
+              "y": 1296,
+              "remaining": 97
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 3,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1237,
+              "y": 1296,
+              "remaining": 59
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1235,
+              "y": 1296,
+              "remaining": 61
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1233,
+              "y": 1296,
+              "remaining": 63
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1231,
+              "y": 1296,
+              "remaining": 65
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1229,
+              "y": 1296,
+              "remaining": 67
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 4,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1267,
+              "y": 1296,
+              "remaining": 29
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1265,
+              "y": 1296,
+              "remaining": 31
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1263,
+              "y": 1296,
+              "remaining": 33
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1261,
+              "y": 1296,
+              "remaining": 35
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1259,
+              "y": 1296,
+              "remaining": 37
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 5,
+          "active": [
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1295,
+              "y": 1296,
+              "remaining": 1
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1293,
+              "y": 1296,
+              "remaining": 3
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1291,
+              "y": 1296,
+              "remaining": 5
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1289,
+              "y": 1296,
+              "remaining": 7
+            }
+          ],
+          "impact_count": 1
+        },
+        {
+          "tick": 6,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 150,
+      "start_x": 1146,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1176,
+              "y": 1296,
+              "remaining": 120
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1174,
+              "y": 1296,
+              "remaining": 122
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1172,
+              "y": 1296,
+              "remaining": 124
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1170,
+              "y": 1296,
+              "remaining": 126
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1168,
+              "y": 1296,
+              "remaining": 128
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 2,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1206,
+              "y": 1296,
+              "remaining": 90
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1204,
+              "y": 1296,
+              "remaining": 92
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1202,
+              "y": 1296,
+              "remaining": 94
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1200,
+              "y": 1296,
+              "remaining": 96
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1198,
+              "y": 1296,
+              "remaining": 98
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 3,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1236,
+              "y": 1296,
+              "remaining": 60
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1234,
+              "y": 1296,
+              "remaining": 62
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1232,
+              "y": 1296,
+              "remaining": 64
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1230,
+              "y": 1296,
+              "remaining": 66
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1228,
+              "y": 1296,
+              "remaining": 68
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 4,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1266,
+              "y": 1296,
+              "remaining": 30
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1264,
+              "y": 1296,
+              "remaining": 32
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1262,
+              "y": 1296,
+              "remaining": 34
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1260,
+              "y": 1296,
+              "remaining": 36
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1258,
+              "y": 1296,
+              "remaining": 38
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 5,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1296,
+              "y": 1296,
+              "remaining": 0
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1294,
+              "y": 1296,
+              "remaining": 2
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1292,
+              "y": 1296,
+              "remaining": 4
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1290,
+              "y": 1296,
+              "remaining": 6
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1288,
+              "y": 1296,
+              "remaining": 8
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 6,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 151,
+      "start_x": 1145,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1175,
+              "y": 1296,
+              "remaining": 121
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1173,
+              "y": 1296,
+              "remaining": 123
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1171,
+              "y": 1296,
+              "remaining": 125
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1169,
+              "y": 1296,
+              "remaining": 127
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1167,
+              "y": 1296,
+              "remaining": 129
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 2,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1205,
+              "y": 1296,
+              "remaining": 91
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1203,
+              "y": 1296,
+              "remaining": 93
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1201,
+              "y": 1296,
+              "remaining": 95
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1199,
+              "y": 1296,
+              "remaining": 97
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1197,
+              "y": 1296,
+              "remaining": 99
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 3,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1235,
+              "y": 1296,
+              "remaining": 61
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1233,
+              "y": 1296,
+              "remaining": 63
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1231,
+              "y": 1296,
+              "remaining": 65
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1229,
+              "y": 1296,
+              "remaining": 67
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1227,
+              "y": 1296,
+              "remaining": 69
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 4,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1265,
+              "y": 1296,
+              "remaining": 31
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1263,
+              "y": 1296,
+              "remaining": 33
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1261,
+              "y": 1296,
+              "remaining": 35
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1259,
+              "y": 1296,
+              "remaining": 37
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1257,
+              "y": 1296,
+              "remaining": 39
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 5,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1295,
+              "y": 1296,
+              "remaining": 1
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1293,
+              "y": 1296,
+              "remaining": 3
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1291,
+              "y": 1296,
+              "remaining": 5
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1289,
+              "y": 1296,
+              "remaining": 7
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1287,
+              "y": 1296,
+              "remaining": 9
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 6,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 319,
+      "start_x": 977,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1007,
+              "y": 1296,
+              "remaining": 289
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1005,
+              "y": 1296,
+              "remaining": 291
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1003,
+              "y": 1296,
+              "remaining": 293
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1001,
+              "y": 1296,
+              "remaining": 295
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 999,
+              "y": 1296,
+              "remaining": 297
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 2,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1037,
+              "y": 1296,
+              "remaining": 259
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1035,
+              "y": 1296,
+              "remaining": 261
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1033,
+              "y": 1296,
+              "remaining": 263
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1031,
+              "y": 1296,
+              "remaining": 265
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1029,
+              "y": 1296,
+              "remaining": 267
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 3,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1067,
+              "y": 1296,
+              "remaining": 229
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1065,
+              "y": 1296,
+              "remaining": 231
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1063,
+              "y": 1296,
+              "remaining": 233
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1061,
+              "y": 1296,
+              "remaining": 235
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1059,
+              "y": 1296,
+              "remaining": 237
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 4,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1097,
+              "y": 1296,
+              "remaining": 199
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1095,
+              "y": 1296,
+              "remaining": 201
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1093,
+              "y": 1296,
+              "remaining": 203
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1091,
+              "y": 1296,
+              "remaining": 205
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1089,
+              "y": 1296,
+              "remaining": 207
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 5,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1127,
+              "y": 1296,
+              "remaining": 169
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1125,
+              "y": 1296,
+              "remaining": 171
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1123,
+              "y": 1296,
+              "remaining": 173
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1121,
+              "y": 1296,
+              "remaining": 175
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1119,
+              "y": 1296,
+              "remaining": 177
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 6,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1157,
+              "y": 1296,
+              "remaining": 139
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1155,
+              "y": 1296,
+              "remaining": 141
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1153,
+              "y": 1296,
+              "remaining": 143
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1151,
+              "y": 1296,
+              "remaining": 145
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1149,
+              "y": 1296,
+              "remaining": 147
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 7,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1187,
+              "y": 1296,
+              "remaining": 109
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1185,
+              "y": 1296,
+              "remaining": 111
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1183,
+              "y": 1296,
+              "remaining": 113
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1181,
+              "y": 1296,
+              "remaining": 115
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1179,
+              "y": 1296,
+              "remaining": 117
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 8,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1217,
+              "y": 1296,
+              "remaining": 79
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1215,
+              "y": 1296,
+              "remaining": 81
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1213,
+              "y": 1296,
+              "remaining": 83
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1211,
+              "y": 1296,
+              "remaining": 85
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1209,
+              "y": 1296,
+              "remaining": 87
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 9,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1247,
+              "y": 1296,
+              "remaining": 49
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1245,
+              "y": 1296,
+              "remaining": 51
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1243,
+              "y": 1296,
+              "remaining": 53
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1241,
+              "y": 1296,
+              "remaining": 55
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1239,
+              "y": 1296,
+              "remaining": 57
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 10,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1277,
+              "y": 1296,
+              "remaining": 19
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1275,
+              "y": 1296,
+              "remaining": 21
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1273,
+              "y": 1296,
+              "remaining": 23
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1271,
+              "y": 1296,
+              "remaining": 25
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1269,
+              "y": 1296,
+              "remaining": 27
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 11,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    },
+    {
+      "length": 320,
+      "start_x": 976,
+      "end_x": 1296,
+      "y": 1296,
+      "frames": [
+        {
+          "tick": 1,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1006,
+              "y": 1296,
+              "remaining": 290
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1004,
+              "y": 1296,
+              "remaining": 292
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1002,
+              "y": 1296,
+              "remaining": 294
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1000,
+              "y": 1296,
+              "remaining": 296
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 998,
+              "y": 1296,
+              "remaining": 298
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 2,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1036,
+              "y": 1296,
+              "remaining": 260
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1034,
+              "y": 1296,
+              "remaining": 262
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1032,
+              "y": 1296,
+              "remaining": 264
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1030,
+              "y": 1296,
+              "remaining": 266
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1028,
+              "y": 1296,
+              "remaining": 268
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 3,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1066,
+              "y": 1296,
+              "remaining": 230
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1064,
+              "y": 1296,
+              "remaining": 232
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1062,
+              "y": 1296,
+              "remaining": 234
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1060,
+              "y": 1296,
+              "remaining": 236
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1058,
+              "y": 1296,
+              "remaining": 238
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 4,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1096,
+              "y": 1296,
+              "remaining": 200
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1094,
+              "y": 1296,
+              "remaining": 202
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1092,
+              "y": 1296,
+              "remaining": 204
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1090,
+              "y": 1296,
+              "remaining": 206
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1088,
+              "y": 1296,
+              "remaining": 208
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 5,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1126,
+              "y": 1296,
+              "remaining": 170
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1124,
+              "y": 1296,
+              "remaining": 172
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1122,
+              "y": 1296,
+              "remaining": 174
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1120,
+              "y": 1296,
+              "remaining": 176
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1118,
+              "y": 1296,
+              "remaining": 178
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 6,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1156,
+              "y": 1296,
+              "remaining": 140
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1154,
+              "y": 1296,
+              "remaining": 142
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1152,
+              "y": 1296,
+              "remaining": 144
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1150,
+              "y": 1296,
+              "remaining": 146
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1148,
+              "y": 1296,
+              "remaining": 148
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 7,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1186,
+              "y": 1296,
+              "remaining": 110
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1184,
+              "y": 1296,
+              "remaining": 112
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1182,
+              "y": 1296,
+              "remaining": 114
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1180,
+              "y": 1296,
+              "remaining": 116
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1178,
+              "y": 1296,
+              "remaining": 118
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 8,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1216,
+              "y": 1296,
+              "remaining": 80
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1214,
+              "y": 1296,
+              "remaining": 82
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1212,
+              "y": 1296,
+              "remaining": 84
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1210,
+              "y": 1296,
+              "remaining": 86
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1208,
+              "y": 1296,
+              "remaining": 88
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 9,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1246,
+              "y": 1296,
+              "remaining": 50
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1244,
+              "y": 1296,
+              "remaining": 52
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1242,
+              "y": 1296,
+              "remaining": 54
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1240,
+              "y": 1296,
+              "remaining": 56
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1238,
+              "y": 1296,
+              "remaining": 58
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 10,
+          "active": [
+            {
+              "slot": 0,
+              "type": 9,
+              "x": 1276,
+              "y": 1296,
+              "remaining": 20
+            },
+            {
+              "slot": 1,
+              "type": 10,
+              "x": 1274,
+              "y": 1296,
+              "remaining": 22
+            },
+            {
+              "slot": 2,
+              "type": 11,
+              "x": 1272,
+              "y": 1296,
+              "remaining": 24
+            },
+            {
+              "slot": 3,
+              "type": 12,
+              "x": 1270,
+              "y": 1296,
+              "remaining": 26
+            },
+            {
+              "slot": 4,
+              "type": 13,
+              "x": 1268,
+              "y": 1296,
+              "remaining": 28
+            }
+          ],
+          "impact_count": 0
+        },
+        {
+          "tick": 11,
+          "active": [],
+          "impact_count": 1
+        }
+      ],
+      "impact": {
+        "cell": 10280,
+        "source_kind": 1,
+        "source_slot": 7,
+        "extra": 0,
+        "target_flag": 0
+      }
+    }
+  ],
+  "visuals": [
+    {
+      "type": 9,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -1,
+          "y": -1,
+          "sprite": 10896
+        },
+        {
+          "kind": "sprite",
+          "x": -1,
+          "y": -1,
+          "sprite": 10896
+        }
+      ]
+    },
+    {
+      "type": 10,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -1,
+          "y": -1,
+          "sprite": 10897
+        },
+        {
+          "kind": "sprite",
+          "x": -1,
+          "y": -1,
+          "sprite": 10897
+        }
+      ]
+    },
+    {
+      "type": 11,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -1,
+          "y": -1,
+          "sprite": 10898
+        },
+        {
+          "kind": "sprite",
+          "x": -1,
+          "y": -1,
+          "sprite": 10898
+        }
+      ]
+    },
+    {
+      "type": 12,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -1,
+          "y": -1,
+          "sprite": 10899
+        },
+        {
+          "kind": "sprite",
+          "x": -1,
+          "y": -1,
+          "sprite": 10899
+        }
+      ]
+    },
+    {
+      "type": 13,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -1,
+          "y": -1,
+          "sprite": 10900
+        },
+        {
+          "kind": "sprite",
+          "x": -1,
+          "y": -1,
+          "sprite": 10900
+        }
+      ]
+    }
+  ],
+  "source_sha256": "af05f6e4ce93c116bff4b08b4d0e37e59e185b448bcc51f161a838bdbd3fca9e",
+  "limits": "Complete ProjectileCalcul and trail creation for type 9; downstream InfligeDegat intercepted; wall-clock update frequency unproven."
+}

@@ -1,0 +1,583 @@
+{
+  "timing": [
+    {
+      "now": 0,
+      "last": 0,
+      "owner": 0,
+      "expected": false
+    },
+    {
+      "now": 0,
+      "last": 0,
+      "owner": 1,
+      "expected": false
+    },
+    {
+      "now": 199,
+      "last": 0,
+      "owner": 0,
+      "expected": false
+    },
+    {
+      "now": 199,
+      "last": 0,
+      "owner": 1,
+      "expected": false
+    },
+    {
+      "now": 200,
+      "last": 0,
+      "owner": 0,
+      "expected": true
+    },
+    {
+      "now": 200,
+      "last": 0,
+      "owner": 1,
+      "expected": false
+    },
+    {
+      "now": 201,
+      "last": 0,
+      "owner": 0,
+      "expected": true
+    },
+    {
+      "now": 201,
+      "last": 0,
+      "owner": 1,
+      "expected": false
+    },
+    {
+      "now": 500,
+      "last": 450,
+      "owner": 0,
+      "expected": false
+    },
+    {
+      "now": 500,
+      "last": 450,
+      "owner": 1,
+      "expected": false
+    },
+    {
+      "now": 500,
+      "last": 300,
+      "owner": 0,
+      "expected": true
+    },
+    {
+      "now": 500,
+      "last": 300,
+      "owner": 1,
+      "expected": false
+    },
+    {
+      "now": 10,
+      "last": 500,
+      "owner": 0,
+      "expected": true
+    },
+    {
+      "now": 10,
+      "last": 500,
+      "owner": 1,
+      "expected": false
+    },
+    {
+      "now": 0,
+      "last": 4294967295,
+      "owner": 0,
+      "expected": true
+    },
+    {
+      "now": 0,
+      "last": 4294967295,
+      "owner": 1,
+      "expected": false
+    }
+  ],
+  "camera": [
+    {
+      "age": 0,
+      "cell": 0,
+      "width": 20,
+      "height": 15,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 0,
+      "cell": 0,
+      "width": 31,
+      "height": 19,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 0,
+      "cell": 0,
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 0,
+      "cell": 1,
+      "width": 20,
+      "height": 15,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 0,
+      "cell": 1,
+      "width": 31,
+      "height": 19,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 0,
+      "cell": 1,
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 0,
+      "cell": 8224,
+      "width": 20,
+      "height": 15,
+      "x": 22,
+      "y": 25
+    },
+    {
+      "age": 0,
+      "cell": 8224,
+      "width": 31,
+      "height": 19,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 0,
+      "cell": 8224,
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 0,
+      "cell": 65534,
+      "width": 20,
+      "height": 15,
+      "x": 236,
+      "y": 241
+    },
+    {
+      "age": 0,
+      "cell": 65534,
+      "width": 31,
+      "height": 19,
+      "x": 225,
+      "y": 237
+    },
+    {
+      "age": 0,
+      "cell": 65534,
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 0,
+      "cell": 65535,
+      "width": 20,
+      "height": 15,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 0,
+      "cell": 65535,
+      "width": 31,
+      "height": 19,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 0,
+      "cell": 65535,
+      "width": 256,
+      "height": 256,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 999,
+      "cell": 0,
+      "width": 20,
+      "height": 15,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 999,
+      "cell": 0,
+      "width": 31,
+      "height": 19,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 999,
+      "cell": 0,
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 999,
+      "cell": 1,
+      "width": 20,
+      "height": 15,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 999,
+      "cell": 1,
+      "width": 31,
+      "height": 19,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 999,
+      "cell": 1,
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 999,
+      "cell": 8224,
+      "width": 20,
+      "height": 15,
+      "x": 22,
+      "y": 25
+    },
+    {
+      "age": 999,
+      "cell": 8224,
+      "width": 31,
+      "height": 19,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 999,
+      "cell": 8224,
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 999,
+      "cell": 65534,
+      "width": 20,
+      "height": 15,
+      "x": 236,
+      "y": 241
+    },
+    {
+      "age": 999,
+      "cell": 65534,
+      "width": 31,
+      "height": 19,
+      "x": 225,
+      "y": 237
+    },
+    {
+      "age": 999,
+      "cell": 65534,
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 999,
+      "cell": 65535,
+      "width": 20,
+      "height": 15,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 999,
+      "cell": 65535,
+      "width": 31,
+      "height": 19,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 999,
+      "cell": 65535,
+      "width": 256,
+      "height": 256,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1000,
+      "cell": 0,
+      "width": 20,
+      "height": 15,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 1000,
+      "cell": 0,
+      "width": 31,
+      "height": 19,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 1000,
+      "cell": 0,
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 1000,
+      "cell": 1,
+      "width": 20,
+      "height": 15,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 1000,
+      "cell": 1,
+      "width": 31,
+      "height": 19,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 1000,
+      "cell": 1,
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 1000,
+      "cell": 8224,
+      "width": 20,
+      "height": 15,
+      "x": 22,
+      "y": 25
+    },
+    {
+      "age": 1000,
+      "cell": 8224,
+      "width": 31,
+      "height": 19,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1000,
+      "cell": 8224,
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 1000,
+      "cell": 65534,
+      "width": 20,
+      "height": 15,
+      "x": 236,
+      "y": 241
+    },
+    {
+      "age": 1000,
+      "cell": 65534,
+      "width": 31,
+      "height": 19,
+      "x": 225,
+      "y": 237
+    },
+    {
+      "age": 1000,
+      "cell": 65534,
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "age": 1000,
+      "cell": 65535,
+      "width": 20,
+      "height": 15,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1000,
+      "cell": 65535,
+      "width": 31,
+      "height": 19,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1000,
+      "cell": 65535,
+      "width": 256,
+      "height": 256,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 0,
+      "width": 20,
+      "height": 15,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 0,
+      "width": 31,
+      "height": 19,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 0,
+      "width": 256,
+      "height": 256,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 1,
+      "width": 20,
+      "height": 15,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 1,
+      "width": 31,
+      "height": 19,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 1,
+      "width": 256,
+      "height": 256,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 8224,
+      "width": 20,
+      "height": 15,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 8224,
+      "width": 31,
+      "height": 19,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 8224,
+      "width": 256,
+      "height": 256,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 65534,
+      "width": 20,
+      "height": 15,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 65534,
+      "width": 31,
+      "height": 19,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 65534,
+      "width": 256,
+      "height": 256,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 65535,
+      "width": 20,
+      "height": 15,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 65535,
+      "width": 31,
+      "height": 19,
+      "x": 17,
+      "y": 23
+    },
+    {
+      "age": 1001,
+      "cell": 65535,
+      "width": 256,
+      "height": 256,
+      "x": 17,
+      "y": 23
+    }
+  ],
+  "limits": "TryLanceAttaqueSound isolated with sound intercepted; GoLastAttaque complete. Clock units and all callers remain unproven."
+}

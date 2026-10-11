@@ -1,0 +1,21 @@
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Input;
+using System.Text.Json;
+namespace RisingLands;
+public sealed partial class Simulation {
+ public bool WallAt(int cell)=>!GateCell(cell)&&(BuildingAt(cell)?.Type==9||SiteAt(cell)?.Type==9);
+ public int WallMask(int cell){int mask=0,x=cell&255,y=cell>>8;foreach(var (dx,dy,bit) in new[]{(0,-1,1),(1,0,2),(0,1,4),(-1,0,8)}){int nx=x+dx,ny=y+dy;if(nx>=0&&ny>=0&&nx<World.Width&&ny<World.Height&&(WallAt(ny*256+nx)||GateCell(ny*256+nx)))mask|=bit;}return mask;}
+ public static int[] WallLine(int start,int end){var cells=new List<int>();int x=start&255,y=start>>8,tx=end&255,ty=end>>8;cells.Add(start);while(x!=tx||y!=ty){if(Math.Abs(tx-x)>=Math.Abs(ty-y)&&x!=tx)x+=Math.Sign(tx-x);else y+=Math.Sign(ty-y);cells.Add(y*256+x);}return cells.ToArray();}
+ public int PlanWall(Actor builder,int start,int end){var candidates=WallLine(start,end).Where(c=>!WallAt(c)).ToArray();if(candidates.Length==0||candidates.Length>256)return 0;var rule=Rule(9);if(World.Resources[0]<rule.Food*candidates.Length||World.Resources[4]<rule.Rock*candidates.Length||World.Resources[8]<rule.Parts*candidates.Length||candidates.Any(c=>PlacementError(builder,9,c)!=null))return 0;
+  Special.WallPlans.RemoveAll(p=>p.Builder==builder.Slot);var ids=new List<int>();foreach(int cell in candidates){if(!StartConstruction(builder,9,cell))break;ids.Add(Constructions.Last().Id);}if(ids.Count==0)return 0;DetachBuilder(builder.Slot);Special.WallPlans.Add(new(){Builder=builder.Slot,Sites=ids});WallQueueStep();return ids.Count;
+ }
+ void WallQueueStep(){foreach(var plan in Special.WallPlans.ToArray()){var actor=World.Units.FirstOrDefault(a=>a.Slot==plan.Builder&&a.Owner==0&&a.Type==7&&a.Health>0);var next=plan.Sites.Select(id=>Constructions.FirstOrDefault(c=>c.Id==id)).FirstOrDefault(c=>c!=null&&!Complete(c));if(actor==null||next==null){Special.WallPlans.Remove(plan);continue;}if(!Constructions.Any(c=>!Complete(c)&&HasBuilder(c,actor.Slot)))ResumeConstruction(actor,next);}}
+}
+public sealed partial class ResearchGame {
+ Point? wallDragStart;
+ void UpdateWallPlacement(MouseState mouse){if(mouse.LeftButton==ButtonState.Pressed&&oldMouse.LeftButton==ButtonState.Released)wallDragStart=buildAnchor;if(mouse.LeftButton==ButtonState.Released&&oldMouse.LeftButton==ButtonState.Pressed&&wallDragStart is {} from){int count=selected==null?0:simulation.PlanWall(selected,from.Y*256+from.X,buildAnchor.Y*256+buildAnchor.X);message=count>0?count+" segmentos de muralha na fila de construcao.":"Trecho bloqueado, sem acesso ou recursos insuficientes.";wallDragStart=null;buildMode=count==0;dragStart=null;}}
+ void DrawWallPreview(){if(!buildMode||buildType!=9)return;var start=wallDragStart??buildAnchor;foreach(int cell in Simulation.WallLine(start.Y*256+start.X,buildAnchor.Y*256+buildAnchor.X)){var pos=ToScreen((cell&255)*32,(cell>>8)*32);Outline(new Rectangle((int)pos.X,(int)pos.Y,(int)(32*zoom),(int)(32*zoom)),simulation.WallAt(cell)||VisiblePlacementError(selected,9,cell)==null?Color.LightGreen:Color.IndianRed);}}
+ void DrawWallSegments(List<(float depth,SceneObject? obj,Actor? actor)> renderables){foreach(int cell in simulation.World.Buildings.Where(b=>b.Type==9).Select(b=>b.Cell).Concat(simulation.Constructions.Where(c=>c.Type==9&&!simulation.ReplacedWall(c.Id)).Select(c=>c.Cell)).Distinct().Where(cell=>!simulation.GateCell(cell)&&(revealMap||SeenCell(cell)))){int mask=simulation.WallMask(cell),sprite=7360+Math.Max(0,mask-1);var c=new DrawCommand("sprite",(cell&255)*32,(cell>>8)*32,sprite);renderables.Add(((cell>>8)*32+16,new SceneObject(cell,new(){c}),null));}}
+ void DrawMinimapBuildings(){var w=simulation.World;foreach(var b in w.Buildings.Concat(simulation.Constructions.Where(c=>!simulation.Complete(c)).Select(c=>new Building(c.Id,c.Type,c.Owner,c.Cell))).Where(SeenBuilding).Concat(HiddenBuildingMemories().Select(m=>m.Building))){var rule=simulation.Rule(b.Type);for(int y=0;y<rule.Height;y++)for(int x=0;x<rule.Width;x++){int cell=b.Cell+y*256+x;if(!KnownCell(cell))continue;var color=MinimapColors.ForOwner(b.Owner,!SeenBuilding(b));batch.Draw(white,new Rectangle(MiniRect.X+(int)((cell&255)/(float)w.Width*MiniRect.Width),MiniRect.Y+(int)((cell>>8)/(float)w.Height*MiniRect.Height),Math.Max(1,MiniRect.Width/w.Width),Math.Max(1,MiniRect.Height/w.Height)),color);}}}
+}
+

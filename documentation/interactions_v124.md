@@ -1,0 +1,5 @@
+# v124 — Balão e transporte direto
+
+2026-10-10. Pacote releases/interactions-v124. Fornecimento gratuito por heliporto ocupado e persistência compartilhados entre mapas; seleção de tropa + clique no balão embarca até5; selecionar balão + clicar terreno move e desembarca; waypoint sobre água/obstáculo preserva passageiros. Cursor original, ocupação e retratos clicáveis de passageiros, miniatura derivada dos frames originais. Travessia automática e IA específica da missão8 mantidas.
+
+Formato44 importa4–43.31 verificações específicas,166 missão8/oito rotas,133 missão7,40 missão6,36 conclusão5,47 abertura econômica,89 combate;33 vetores nativos. Captura verifica handlers de clique. Cinco slots copiados e save43 da fase8 carregados;21 arquivos reais preservados. Sem campanha manual. Tempos/gestos originais completos, restrições de criaturas, retirada do veículo após perda do heliporto e fadiga em transporte ainda não comprovados. Relatório reports/balao_v124.md; evidências experiments/balloon-v124. Atalhos1–8 usamv124; anterioresv123 preservados.

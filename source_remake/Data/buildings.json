@@ -1,0 +1,1230 @@
+{
+  "version": 1,
+  "source_sha256": "af05f6e4ce93c116bff4b08b4d0e37e59e185b448bcc51f161a838bdbd3fca9e",
+  "items": [
+    {
+      "id": 0,
+      "internal_name": "PHARE",
+      "display_name": "Lighthouse",
+      "table_va": "0x495d8c",
+      "table_file_offset": 608140,
+      "record_hex": "03000400c8000000045c49000c000400000002504841524500000000000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "PHARE",
+          "key": "TMPSCONSTRUCTION",
+          "value": "200",
+          "line": 416,
+          "offset": 7452
+        },
+        {
+          "section": "PHARE",
+          "key": "COUTPATATE",
+          "value": "12",
+          "line": 417,
+          "offset": 7474
+        },
+        {
+          "section": "PHARE",
+          "key": "COUTROCHE",
+          "value": "4",
+          "line": 418,
+          "offset": 7489
+        },
+        {
+          "section": "PHARE",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 419,
+          "offset": 7502
+        },
+        {
+          "section": "PHARE",
+          "key": "LOGEMENT",
+          "value": "2",
+          "line": 420,
+          "offset": 7515
+        },
+        {
+          "section": "PHARE",
+          "key": "NAME",
+          "value": "Lighthouse",
+          "line": 421,
+          "offset": 7527
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "internal_name": "CASERNE",
+      "display_name": "Barracks",
+      "table_va": "0x495dc0",
+      "table_file_offset": 608192,
+      "record_hex": "0500060090010000105c49001400100000000843415345524e450000000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "CASERNE",
+          "key": "TMPSCONSTRUCTION",
+          "value": "400",
+          "line": 424,
+          "offset": 7557
+        },
+        {
+          "section": "CASERNE",
+          "key": "COUTPATATE",
+          "value": "16",
+          "line": 425,
+          "offset": 7579
+        },
+        {
+          "section": "CASERNE",
+          "key": "COUTROCHE",
+          "value": "14",
+          "line": 426,
+          "offset": 7594
+        },
+        {
+          "section": "CASERNE",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 427,
+          "offset": 7608
+        },
+        {
+          "section": "CASERNE",
+          "key": "LOGEMENT",
+          "value": "8",
+          "line": 428,
+          "offset": 7621
+        },
+        {
+          "section": "CASERNE",
+          "key": "NAME",
+          "value": "Barracks",
+          "line": 429,
+          "offset": 7633
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "internal_name": "SANCTUAIRE",
+      "display_name": "Sanctuary",
+      "table_va": "0x495df4",
+      "table_file_offset": 608244,
+      "record_hex": "0600050058020000305c490032001e0000000853414e435455414952450000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "SANCTUAIRE",
+          "key": "TMPSCONSTRUCTION",
+          "value": "600",
+          "line": 432,
+          "offset": 7664
+        },
+        {
+          "section": "SANCTUAIRE",
+          "key": "COUTPATATE",
+          "value": "50",
+          "line": 433,
+          "offset": 7686
+        },
+        {
+          "section": "SANCTUAIRE",
+          "key": "COUTROCHE",
+          "value": "30",
+          "line": 434,
+          "offset": 7701
+        },
+        {
+          "section": "SANCTUAIRE",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 435,
+          "offset": 7715
+        },
+        {
+          "section": "SANCTUAIRE",
+          "key": "LOGEMENT",
+          "value": "16",
+          "line": 436,
+          "offset": 7728
+        },
+        {
+          "section": "SANCTUAIRE",
+          "key": "NAME",
+          "value": "Sanctuary",
+          "line": 437,
+          "offset": 7741
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "internal_name": "CAVE",
+      "display_name": "Storehouse",
+      "table_va": "0x495e28",
+      "table_file_offset": 608296,
+      "record_hex": "0500050064000000505c49000a000600000002434156450000000000000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "CAVE",
+          "key": "TMPSCONSTRUCTION",
+          "value": "100",
+          "line": 440,
+          "offset": 7767
+        },
+        {
+          "section": "CAVE",
+          "key": "COUTPATATE",
+          "value": "10",
+          "line": 441,
+          "offset": 7789
+        },
+        {
+          "section": "CAVE",
+          "key": "COUTROCHE",
+          "value": "6",
+          "line": 442,
+          "offset": 7804
+        },
+        {
+          "section": "CAVE",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 443,
+          "offset": 7817
+        },
+        {
+          "section": "CAVE",
+          "key": "LOGEMENT",
+          "value": "2",
+          "line": 444,
+          "offset": 7830
+        },
+        {
+          "section": "CAVE",
+          "key": "NAME",
+          "value": "Storehouse",
+          "line": 445,
+          "offset": 7842
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "internal_name": "CULTURE",
+      "display_name": "Culture",
+      "table_va": "0x495e5c",
+      "table_file_offset": 608348,
+      "record_hex": "0300040064000000ec5c49000c00060000000543554c545552450000000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "CULTURE",
+          "key": "TMPSCONSTRUCTION",
+          "value": "200",
+          "line": 448,
+          "offset": 7872
+        },
+        {
+          "section": "CULTURE",
+          "key": "COUTPATATE",
+          "value": "12",
+          "line": 449,
+          "offset": 7894
+        },
+        {
+          "section": "CULTURE",
+          "key": "COUTROCHE",
+          "value": "6",
+          "line": 450,
+          "offset": 7909
+        },
+        {
+          "section": "CULTURE",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 451,
+          "offset": 7922
+        },
+        {
+          "section": "CULTURE",
+          "key": "LOGEMENT",
+          "value": "5",
+          "line": 452,
+          "offset": 7935
+        },
+        {
+          "section": "CULTURE",
+          "key": "NAME",
+          "value": "Culture",
+          "line": 453,
+          "offset": 7947
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "internal_name": "ATELIER",
+      "display_name": "Workshop",
+      "table_va": "0x495e90",
+      "table_file_offset": 608400,
+      "record_hex": "060006002c010000805c49001e0010000000084154454c4945520000000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "ATELIER",
+          "key": "TMPSCONSTRUCTION",
+          "value": "300",
+          "line": 456,
+          "offset": 7974
+        },
+        {
+          "section": "ATELIER",
+          "key": "COUTPATATE",
+          "value": "30",
+          "line": 457,
+          "offset": 7996
+        },
+        {
+          "section": "ATELIER",
+          "key": "COUTROCHE",
+          "value": "20",
+          "line": 458,
+          "offset": 8011
+        },
+        {
+          "section": "ATELIER",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 459,
+          "offset": 8025
+        },
+        {
+          "section": "ATELIER",
+          "key": "LOGEMENT",
+          "value": "8",
+          "line": 460,
+          "offset": 8038
+        },
+        {
+          "section": "ATELIER",
+          "key": "NAME",
+          "value": "Workshop",
+          "line": 461,
+          "offset": 8050
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "internal_name": "BIBLIOTHEQUE",
+      "display_name": "Library",
+      "table_va": "0x495ec4",
+      "table_file_offset": 608452,
+      "record_hex": "06000500f40100006c5d490014000a000000034249424c494f544845515545000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "BIBLIOTHEQUE",
+          "key": "TMPSCONSTRUCTION",
+          "value": "500",
+          "line": 464,
+          "offset": 8083
+        },
+        {
+          "section": "BIBLIOTHEQUE",
+          "key": "COUTPATATE",
+          "value": "20",
+          "line": 465,
+          "offset": 8105
+        },
+        {
+          "section": "BIBLIOTHEQUE",
+          "key": "COUTROCHE",
+          "value": "20",
+          "line": 466,
+          "offset": 8120
+        },
+        {
+          "section": "BIBLIOTHEQUE",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 467,
+          "offset": 8134
+        },
+        {
+          "section": "BIBLIOTHEQUE",
+          "key": "LOGEMENT",
+          "value": "3",
+          "line": 468,
+          "offset": 8147
+        },
+        {
+          "section": "BIBLIOTHEQUE",
+          "key": "NAME",
+          "value": "Library",
+          "line": 469,
+          "offset": 8159
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "internal_name": "LABORATOIRE",
+      "display_name": "Laboratory",
+      "table_va": "0x495ef8",
+      "table_file_offset": 608504,
+      "record_hex": "0400060090010000305d490018000c000000024c41424f5241544f49524500000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "LABORATOIRE",
+          "key": "TMPSCONSTRUCTION",
+          "value": "400",
+          "line": 472,
+          "offset": 8190
+        },
+        {
+          "section": "LABORATOIRE",
+          "key": "COUTPATATE",
+          "value": "24",
+          "line": 473,
+          "offset": 8212
+        },
+        {
+          "section": "LABORATOIRE",
+          "key": "COUTROCHE",
+          "value": "12",
+          "line": 474,
+          "offset": 8227
+        },
+        {
+          "section": "LABORATOIRE",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 475,
+          "offset": 8241
+        },
+        {
+          "section": "LABORATOIRE",
+          "key": "LOGEMENT",
+          "value": "2",
+          "line": 476,
+          "offset": 8254
+        },
+        {
+          "section": "LABORATOIRE",
+          "key": "NAME",
+          "value": "Laboratory",
+          "line": 477,
+          "offset": 8266
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "internal_name": "HANGAR",
+      "display_name": "Exchange",
+      "table_va": "0x495f2c",
+      "table_file_offset": 608556,
+      "record_hex": "06000600f4010000f85c49002800180000001148414e474152000000000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "HANGAR",
+          "key": "TMPSCONSTRUCTION",
+          "value": "500",
+          "line": 480,
+          "offset": 8295
+        },
+        {
+          "section": "HANGAR",
+          "key": "COUTPATATE",
+          "value": "12",
+          "line": 481,
+          "offset": 8317
+        },
+        {
+          "section": "HANGAR",
+          "key": "COUTROCHE",
+          "value": "8",
+          "line": 482,
+          "offset": 8332
+        },
+        {
+          "section": "HANGAR",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 483,
+          "offset": 8345
+        },
+        {
+          "section": "HANGAR",
+          "key": "LOGEMENT",
+          "value": "8",
+          "line": 484,
+          "offset": 8358
+        },
+        {
+          "section": "HANGAR",
+          "key": "NAME",
+          "value": "Exchange",
+          "line": 485,
+          "offset": 8370
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "internal_name": "MUR",
+      "display_name": "Wall",
+      "table_va": "0x495f60",
+      "table_file_offset": 608608,
+      "record_hex": "010001001e0000008a5d4900040004000000004d5552000000000000000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "MUR",
+          "key": "TMPSCONSTRUCTION",
+          "value": "15",
+          "line": 488,
+          "offset": 8394
+        },
+        {
+          "section": "MUR",
+          "key": "COUTPATATE",
+          "value": "1",
+          "line": 489,
+          "offset": 8415
+        },
+        {
+          "section": "MUR",
+          "key": "COUTROCHE",
+          "value": "2",
+          "line": 490,
+          "offset": 8430
+        },
+        {
+          "section": "MUR",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 491,
+          "offset": 8443
+        },
+        {
+          "section": "MUR",
+          "key": "LOGEMENT",
+          "value": "0",
+          "line": 492,
+          "offset": 8456
+        },
+        {
+          "section": "MUR",
+          "key": "NAME",
+          "value": "Wall",
+          "line": 493,
+          "offset": 8468
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "internal_name": "TOURCATAPULTE",
+      "display_name": "Tower catapult",
+      "table_va": "0x495f94",
+      "table_file_offset": 608660,
+      "record_hex": "0200030032000000645d49000a000400000001544f55524341544150554c54450000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "TOURCATAPULTE",
+          "key": "DEGAT",
+          "value": "30,20,15,30,25,25,25,25,20,25,0,20,10,10,10,20,15,0,0,0,15,20,20,25,5,15,5",
+          "line": 496,
+          "offset": 8498
+        },
+        {
+          "section": "TOURCATAPULTE",
+          "key": "TMPSCONSTRUCTION",
+          "value": "50",
+          "line": 497,
+          "offset": 8580
+        },
+        {
+          "section": "TOURCATAPULTE",
+          "key": "COUTPATATE",
+          "value": "10",
+          "line": 498,
+          "offset": 8601
+        },
+        {
+          "section": "TOURCATAPULTE",
+          "key": "COUTROCHE",
+          "value": "4",
+          "line": 499,
+          "offset": 8616
+        },
+        {
+          "section": "TOURCATAPULTE",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 500,
+          "offset": 8629
+        },
+        {
+          "section": "TOURCATAPULTE",
+          "key": "LOGEMENT",
+          "value": "1",
+          "line": 501,
+          "offset": 8642
+        },
+        {
+          "section": "TOURCATAPULTE",
+          "key": "NAME",
+          "value": "Tower catapult",
+          "line": 502,
+          "offset": 8654
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "internal_name": "TOURCANON",
+      "display_name": "Tower canon",
+      "table_va": "0x495fc8",
+      "table_file_offset": 608712,
+      "record_hex": "02000300640000005c5d490014000600000002544f555243414e4f4e000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "TOURCANON",
+          "key": "DEGAT",
+          "value": "15,15,15,15,15,15,15,15,15,15,0,20,15,20,10,6,0,0,0,0,8,10,10,15,4,10,5",
+          "line": 505,
+          "offset": 8690
+        },
+        {
+          "section": "TOURCANON",
+          "key": "TMPSCONSTRUCTION",
+          "value": "100",
+          "line": 506,
+          "offset": 8769
+        },
+        {
+          "section": "TOURCANON",
+          "key": "COUTPATATE",
+          "value": "20",
+          "line": 507,
+          "offset": 8791
+        },
+        {
+          "section": "TOURCANON",
+          "key": "COUTROCHE",
+          "value": "6",
+          "line": 508,
+          "offset": 8806
+        },
+        {
+          "section": "TOURCANON",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 509,
+          "offset": 8819
+        },
+        {
+          "section": "TOURCANON",
+          "key": "LOGEMENT",
+          "value": "2",
+          "line": 510,
+          "offset": 8832
+        },
+        {
+          "section": "TOURCANON",
+          "key": "NAME",
+          "value": "Tower canon",
+          "line": 511,
+          "offset": 8844
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "internal_name": "HERSE",
+      "display_name": "Portcullis",
+      "table_va": "0x495ffc",
+      "table_file_offset": 608764,
+      "record_hex": "01000100460000008b5d490008000800000000484552534500000000000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "HERSE",
+          "key": "TMPSCONSTRUCTION",
+          "value": "60",
+          "line": 514,
+          "offset": 8873
+        },
+        {
+          "section": "HERSE",
+          "key": "COUTPATATE",
+          "value": "4",
+          "line": 515,
+          "offset": 8894
+        },
+        {
+          "section": "HERSE",
+          "key": "COUTROCHE",
+          "value": "8",
+          "line": 516,
+          "offset": 8908
+        },
+        {
+          "section": "HERSE",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 517,
+          "offset": 8921
+        },
+        {
+          "section": "HERSE",
+          "key": "LOGEMENT",
+          "value": "0",
+          "line": 518,
+          "offset": 8934
+        },
+        {
+          "section": "HERSE",
+          "key": "NAME",
+          "value": "Portcullis",
+          "line": 519,
+          "offset": 8946
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "internal_name": "CIRQUE",
+      "display_name": "Circus",
+      "table_va": "0x496030",
+      "table_file_offset": 608816,
+      "record_hex": "040005005e0100006c5c490014000600000006434952515545000000000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "CIRQUE",
+          "key": "TMPSCONSTRUCTION",
+          "value": "350",
+          "line": 522,
+          "offset": 8975
+        },
+        {
+          "section": "CIRQUE",
+          "key": "COUTPATATE",
+          "value": "20",
+          "line": 523,
+          "offset": 8997
+        },
+        {
+          "section": "CIRQUE",
+          "key": "COUTROCHE",
+          "value": "6",
+          "line": 524,
+          "offset": 9012
+        },
+        {
+          "section": "CIRQUE",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 525,
+          "offset": 9025
+        },
+        {
+          "section": "CIRQUE",
+          "key": "LOGEMENT",
+          "value": "6",
+          "line": 526,
+          "offset": 9038
+        },
+        {
+          "section": "CIRQUE",
+          "key": "NAME",
+          "value": "Circus",
+          "line": 527,
+          "offset": 9050
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "internal_name": "GARAGE",
+      "display_name": "Garage",
+      "table_va": "0x496064",
+      "table_file_offset": 608868,
+      "record_hex": "040006005e010000a45c490018001000000004474152414745000000000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "GARAGE",
+          "key": "TMPSCONSTRUCTION",
+          "value": "350",
+          "line": 530,
+          "offset": 9075
+        },
+        {
+          "section": "GARAGE",
+          "key": "COUTPATATE",
+          "value": "24",
+          "line": 531,
+          "offset": 9097
+        },
+        {
+          "section": "GARAGE",
+          "key": "COUTROCHE",
+          "value": "16",
+          "line": 532,
+          "offset": 9112
+        },
+        {
+          "section": "GARAGE",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 533,
+          "offset": 9126
+        },
+        {
+          "section": "GARAGE",
+          "key": "LOGEMENT",
+          "value": "4",
+          "line": 534,
+          "offset": 9139
+        },
+        {
+          "section": "GARAGE",
+          "key": "NAME",
+          "value": "Garage",
+          "line": 535,
+          "offset": 9151
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "internal_name": "MONASTERE",
+      "display_name": "Temple",
+      "table_va": "0x496098",
+      "table_file_offset": 608920,
+      "record_hex": "04000500900100001c5d4900140004000000064d4f4e415354455245000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "MONASTERE",
+          "key": "TMPSCONSTRUCTION",
+          "value": "400",
+          "line": 538,
+          "offset": 9179
+        },
+        {
+          "section": "MONASTERE",
+          "key": "COUTPATATE",
+          "value": "20",
+          "line": 539,
+          "offset": 9201
+        },
+        {
+          "section": "MONASTERE",
+          "key": "COUTROCHE",
+          "value": "4",
+          "line": 540,
+          "offset": 9216
+        },
+        {
+          "section": "MONASTERE",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 541,
+          "offset": 9229
+        },
+        {
+          "section": "MONASTERE",
+          "key": "LOGEMENT",
+          "value": "6",
+          "line": 542,
+          "offset": 9242
+        },
+        {
+          "section": "MONASTERE",
+          "key": "NAME",
+          "value": "Temple",
+          "line": 543,
+          "offset": 9254
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "internal_name": "MARCHE",
+      "display_name": "Market",
+      "table_va": "0x4960cc",
+      "table_file_offset": 608972,
+      "record_hex": "040005002c010000d45c49000c0008000000024d4152434845000000000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "MARCHE",
+          "key": "TMPSCONSTRUCTION",
+          "value": "300",
+          "line": 546,
+          "offset": 9279
+        },
+        {
+          "section": "MARCHE",
+          "key": "COUTPATATE",
+          "value": "12",
+          "line": 547,
+          "offset": 9301
+        },
+        {
+          "section": "MARCHE",
+          "key": "COUTROCHE",
+          "value": "8",
+          "line": 548,
+          "offset": 9316
+        },
+        {
+          "section": "MARCHE",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 549,
+          "offset": 9329
+        },
+        {
+          "section": "MARCHE",
+          "key": "LOGEMENT",
+          "value": "2",
+          "line": 550,
+          "offset": 9342
+        },
+        {
+          "section": "MARCHE",
+          "key": "NAME",
+          "value": "Market",
+          "line": 551,
+          "offset": 9354
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "internal_name": "CRISTAL",
+      "display_name": "Crystal",
+      "table_va": "0x496100",
+      "table_file_offset": 609024,
+      "record_hex": "020002002c010000e85c4900100006000000004352495354414c0000000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "CRISTAL",
+          "key": "TMPSCONSTRUCTION",
+          "value": "300",
+          "line": 554,
+          "offset": 9380
+        },
+        {
+          "section": "CRISTAL",
+          "key": "COUTPATATE",
+          "value": "16",
+          "line": 555,
+          "offset": 9402
+        },
+        {
+          "section": "CRISTAL",
+          "key": "COUTROCHE",
+          "value": "6",
+          "line": 556,
+          "offset": 9417
+        },
+        {
+          "section": "CRISTAL",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 557,
+          "offset": 9430
+        },
+        {
+          "section": "CRISTAL",
+          "key": "LOGEMENT",
+          "value": "0",
+          "line": 558,
+          "offset": 9443
+        },
+        {
+          "section": "CRISTAL",
+          "key": "NAME",
+          "value": "Crystal",
+          "line": 559,
+          "offset": 9455
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "internal_name": "HELIOPORT",
+      "display_name": "Heliport",
+      "table_va": "0x496134",
+      "table_file_offset": 609076,
+      "record_hex": "040005002c010000485d49001400080000000448454c494f504f5254000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "HELIOPORT",
+          "key": "TMPSCONSTRUCTION",
+          "value": "300",
+          "line": 562,
+          "offset": 9484
+        },
+        {
+          "section": "HELIOPORT",
+          "key": "COUTPATATE",
+          "value": "20",
+          "line": 563,
+          "offset": 9506
+        },
+        {
+          "section": "HELIOPORT",
+          "key": "COUTROCHE",
+          "value": "8",
+          "line": 564,
+          "offset": 9521
+        },
+        {
+          "section": "HELIOPORT",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 565,
+          "offset": 9534
+        },
+        {
+          "section": "HELIOPORT",
+          "key": "LOGEMENT",
+          "value": "4",
+          "line": 566,
+          "offset": 9547
+        },
+        {
+          "section": "HELIOPORT",
+          "key": "NAME",
+          "value": "Heliport",
+          "line": 567,
+          "offset": 9559
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "internal_name": "HOSPI",
+      "display_name": "Hospital",
+      "table_va": "0x496168",
+      "table_file_offset": 609128,
+      "record_hex": "030004002c010000bc5c49000a000400000007484f53504900000000000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "HOSPI",
+          "key": "TMPSCONSTRUCTION",
+          "value": "300",
+          "line": 570,
+          "offset": 9585
+        },
+        {
+          "section": "HOSPI",
+          "key": "COUTPATATE",
+          "value": "10",
+          "line": 571,
+          "offset": 9607
+        },
+        {
+          "section": "HOSPI",
+          "key": "COUTROCHE",
+          "value": "4",
+          "line": 572,
+          "offset": 9622
+        },
+        {
+          "section": "HOSPI",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 573,
+          "offset": 9635
+        },
+        {
+          "section": "HOSPI",
+          "key": "LOGEMENT",
+          "value": "3",
+          "line": 574,
+          "offset": 9648
+        },
+        {
+          "section": "HOSPI",
+          "key": "NAME",
+          "value": "Hospital",
+          "line": 575,
+          "offset": 9660
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "internal_name": "MONASTEREFUSION",
+      "display_name": "Fusion Temple",
+      "table_va": "0x49619c",
+      "table_file_offset": 609180,
+      "record_hex": "04000500900100009cfb4d00140004000000064d4f4e415354455245465553494f4e000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "MONASTEREFUSION",
+          "key": "TMPSCONSTRUCTION",
+          "value": "400",
+          "line": 578,
+          "offset": 9696
+        },
+        {
+          "section": "MONASTEREFUSION",
+          "key": "COUTPATATE",
+          "value": "20",
+          "line": 579,
+          "offset": 9718
+        },
+        {
+          "section": "MONASTEREFUSION",
+          "key": "COUTROCHE",
+          "value": "4",
+          "line": 580,
+          "offset": 9733
+        },
+        {
+          "section": "MONASTEREFUSION",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 581,
+          "offset": 9746
+        },
+        {
+          "section": "MONASTEREFUSION",
+          "key": "LOGEMENT",
+          "value": "6",
+          "line": 582,
+          "offset": 9759
+        },
+        {
+          "section": "MONASTEREFUSION",
+          "key": "NAME",
+          "value": "Fusion Temple",
+          "line": 583,
+          "offset": 9771
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "internal_name": "TENTE",
+      "display_name": "Campaign tent",
+      "table_va": "0x4961d0",
+      "table_file_offset": 609232,
+      "record_hex": "030004002c010000c85c49000a00040000000654454e544500000000000000000000000000000000000000000000000000000000",
+      "source": "RISING-ORIG.EXE",
+      "getter_va": "0x418b97",
+      "confidence": "CONFIRMADO: ID/name address computation; config values literal, effects not all proven",
+      "configuration": [
+        {
+          "section": "TENTE",
+          "key": "TMPSCONSTRUCTION",
+          "value": "300",
+          "line": 586,
+          "offset": 9802
+        },
+        {
+          "section": "TENTE",
+          "key": "COUTPATATE",
+          "value": "10",
+          "line": 587,
+          "offset": 9824
+        },
+        {
+          "section": "TENTE",
+          "key": "COUTROCHE",
+          "value": "4",
+          "line": 588,
+          "offset": 9839
+        },
+        {
+          "section": "TENTE",
+          "key": "COUTPIECE",
+          "value": "0",
+          "line": 589,
+          "offset": 9852
+        },
+        {
+          "section": "TENTE",
+          "key": "LOGEMENT",
+          "value": "6",
+          "line": 590,
+          "offset": 9865
+        },
+        {
+          "section": "TENTE",
+          "key": "NAME",
+          "value": "Campaign tent",
+          "line": 591,
+          "offset": 9877
+        }
+      ]
+    }
+  ]
+}

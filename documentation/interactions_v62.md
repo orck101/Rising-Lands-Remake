@@ -1,0 +1,46 @@
+# v62 — construção, cenários, recursos, crescimento e terceira descoberta
+
+## Entrega
+
+Pasta `releases/interactions-v62`, iniciadores das três missões. F9 retoma os cinco slots. A v61 permanece disponível. Save v25 acrescenta o estado do crescimento; versões anteriores são lidas sem escrever nos arquivos antigos. Novos saves usam `campaign.slot-N.research-v25.json`, com backup ao substituir.
+
+1. **Construção:** inclui as transições verdes identificadas pelo original (tiles 16–30), além da grama 349–420. O próprio construtor deixa de invalidar o terreno; pode sair do interior da área reservada até o local de trabalho. Outros personagens, prédios, obras, árvores, recursos, minas e terreno inadequado continuam bloqueando. A exigência de terreno verde atende à preferência do usuário; não é apresentada como reprodução completa da rotina nativa de posicionamento.
+2. **Terceira descoberta:** corrigida a ausência de animação quando a tecnologia não tem entrada em EVENTS.INI, especialmente GENIECIVIL5/evento 205. Eventos específicos continuam usando seus filmes originais. Sem entrada, usa filme original de laboratório: LABO1 para agricultura, LABO3 para armamento, LABO2 para engenharia, INVMYS01 para espiritualidade. Este preenchimento é uma adaptação do remake para oferecer retorno em toda descoberta, inclusive a terceira paga. Não há nova arte. A terceira pesquisa real foi completada e conferida na tela; emitida uma única animação, com simulação suspensa durante sua reprodução.
+3. **Inteligência:** uma rota bloqueada é preservada e recalculada para o destino original a cada 30 atualizações. Não cancela a entrada em prédio nem a tarefa de pesquisa/coleta só porque uma obra mudou o caminho. Se não há rota, aguarda preservando a ordem. Construtores podem sair do interior da própria obra. Coletor com carga completa vai à entrega, em vez de insistir numa nova coleta. Esta é uma melhoria localizada; não equivale à reconstrução de toda a IA original.
+4. **Recursos esgotados:** imagens de recursos/plantas deixam de ser desenhadas pelo cenário estático importado. São desenhadas exclusivamente pelo código e quantidade atuais, ou pela memória da última visão quando estão fora de alcance. Recurso zerado visível desaparece, inclusive depois de carregar uma partida. Pilhas vazias já perdiam seu código na simulação; o desenho antigo permanecia por um segundo caminho de renderização. A correção removeu esse caminho duplicado.
+5. **Árvores e objetos:** restaura os códigos 1–28 das camadas dos mapas, com sprites e sombras extraídos das duas rotinas nativas. Árvores 1–11 bloqueiam movimento e construção, mesmo quando o arquivo de colisão não marca esse obstáculo. Objetos decorativos pequenos continuam distintos de árvores. Não foram adicionadas árvores aleatórias: usam a posição já existente em cada ETA. A extração anterior chamava somente uma das duas rotinas, omitindo árvores e certos outros objetos.
+6. **Abóboras/alimento plantado:** agora avança estágios e produz novas plantas próximas em solo apropriado. O relógio da vegetação avança exatamente cinco contagens a cada quatro atualizações — aumento solicitado de 1,25×, multiplicado normalmente pelo acelerador 1×–5×. Usa as imagens originais dos estágios, não um aviso ou efeito inventado. Nenhuma pilha descartada de comida se transforma em plantação.
+
+## Evidências
+
+Todas as leituras/emulações usam cópias em working/RISING. O SHA-256 da cópia de RISING-ORIG.EXE e do original em D:\RISING foi conferido e coincide: af05f6e4ce93c116bff4b08b4d0e37e59e185b448bcc51f161a838bdbd3fca9e. Não houve escrita na instalação original nem nos saves reais.
+
+**CONFIRMADO — cenário:** AffVeget 0x415bd7 e AffVegetTerrain 0x410085. Foram registradas 184 combinações de objeto/fase para códigos 1–28. AffVeget utiliza, entre outros, PasteEclairCmp 0x45b9c7 e PasteOmbreCmp 0x45b73a. Chamadas gráficas são interceptadas, sem DirectDraw ou execução do processo original. Os pixels vêm de OTHERS.CMP. `source_remake/Data/environment_visuals.json` é a tabela utilizada pelo jogo. O ciclo de fases visuais foi adaptado ao relógio do remake; não se afirma equivalência de toda a variação aleatória nativa.
+
+**CONFIRMADO — árvores:** TerrainEstObstacleNaturel 0x4751e4, ramo 0x475219–0x475227: códigos 1 a 11 são obstáculos. A tabela de obstáculos dos terrenos continua parcialmente provisória no remake.
+
+**CONFIRMADO — terreno verde:** TerrainEstHerbe 0x476296 aceita 349–420; TerrainEstFrontiereHerbe 0x47626b aceita 16–30. BatimentConstructible 0x41fbb2, ramo 0x41fcaf–0x41fcd2, examina colisão e EnginOccupeCase; permite a situação do próprio construtor ocupando a área. As restrições modernas adicionais, como preservar recursos em vez de construir sobre eles, continuam ativas.
+
+**CONFIRMADO — esgotamento:** TerrainRetireMatiere 0x47658e, especialmente 0x4765c4–0x4765d6, zera o objeto quando a última unidade é retirada. 96 sondagens dos três recursos com quantidades 0–31 confirmaram o comportamento. O bug visual era do remake, inclusive na retomada de saves: uma célula esgotada não entrava no filtro calculado a partir do estado atual, mas ainda existia no cenário inicial.
+
+**CONFIRMADO — crescimento existe:** UpdateChamp 0x478732, PatateAugmentable 0x478198, NouvellePatate 0x4781e0 e ScanNouvellePatate 0x478245. 36 casos controlados de criação mostram objeto vazio, colisão bit 1 livre e estilos 29/41 conforme a paridade aleatória. 96 sondagens de crescimento, com aleatoriedade controlada, registram avanço dos códigos 29–40 e 41–52. Estágios 40 e 52 podem desaparecer e gerar planta próxima. O estágio 50→51 altera o potencial de alimento de uma para duas unidades, conforme a contagem já usada pela coleta. A implementação contabiliza alimento gerado e perdido por decaimento para preservar a validação dos saves.
+
+**FORTE EVIDÊNCIA — política de crescimento:** as instruções 0x478764–0x478779 selecionam atualização com Random % 10 == 0; estágios posteriores usam Random % 5 para avançar ou procurar outro local. O fluxo foi portado com gerador determinístico moderno, não com a sequência aleatória original. Oito sondagens de espalhamento mostraram nascimento em vizinhos cardinais e nenhum nascimento nas diagonais isoladas. Solo confirmado no ramo 0x47829c–0x4782cf: tiles 157–220 e 132–134. Novos locais precisam estar livres de prédios, minas e obras no remake.
+
+**CONFIRMADO — agendamento nativo:** RISING.INI [DIVERS]/VEGETREPOUSSE=128; carregamento em 0x418e06, SetUpdateChamp 0x475254 e cursor de linha 0x497398. UpdateChamp percorre linhas 1–255 e reinicia o ciclo em 0x4788f9–0x478921. O remake reproduz o cursor e o disparo em contagens, escalados em 1,25×. **DESCONHECIDO:** duração absoluta de cada contagem no original. A referência moderna é 30 atualizações/segundo; não se promete que um minuto do remake corresponda ao tempo exato do executável antigo.
+
+**CONFIRMADO — filme ausente:** EVENTS.INI contém eventos 206 e 207, mas não 205. GENIECIVIL5 é uma descoberta permitida pelo remake na terceira pesquisa. A v60/v61 ignorava qualquer conclusão sem filme mapeado. O fallback nativo resolve esse caso sem alterar preços, quota, bônus ou o tempo das pesquisas.
+
+Ferramenta reprodutível: `tools/trace_environment_v62.py`. Registro dos 420 casos: `reverse_engineering/environment_v62.json`. Classificações referem-se aos ramos examinados e às condições isoladas, não a toda a engine original.
+
+## Validação
+
+1.823 verificações aprovadas: 46 da v62 e apoio de pesquisa/coleta, 782 da missão 1, 351 gerais, 295 de coleta/cultivo/formações/saves, 83 da missão 2, 46 de descoberta, 53 de pesquisa, 157 do cultivo e 10 de leitura/preservação dos cinco saves reais. Contagens representam checagens, não partidas independentes. Release Windows x64 compilado.
+
+Cobertura: todas as 15 transições verdes; construtor dentro do terreno; outra unidade bloqueando; árvore bloqueando; retirada da última unidade dos três recursos; geração e preservação de alimento; relógio 1,25×; save/load determinístico do crescimento; rejeição de estado inválido; desvio de rota; terceiro evento sem entrada nativa; saída do construtor do centro de uma obra e conclusão. Testes antigos foram ajustados onde supunham que uma planta nunca mudava de estágio ou usavam árvores como cenário passável.
+
+Capturas conferidas: `reports/v62-trees-review.png`, `reports/v62-third-review.png`, `reports/v62-field-before-final.png` e `reports/v62-field-grown-final.png`. O campo antes/depois mostra novas plantas e alteração de estágios após 12.000 atualizações. Capturas de cenário usam o botão de revelação visual de teste, sem criar histórico de descoberta.
+
+## Limites conhecidos
+
+O caminho continua usando a navegação moderna simples de quatro direções. IA de combate, formação em deslocamento e planejamento estratégico ainda exigem reconstrução adicional. Espalhamento é limitado aos pontos válidos do mapa, preserva construções e recursos e não usa a sequência exata de Random do original. Árvores/vegetação existentes são desenhadas; outros efeitos temporários, incêndios e destruição de vegetação não fazem parte desta entrega. A visibilidade mantém a memória de um recurso fora de visão até a região ser revisitada, como parte da descoberta de mapa implementada anteriormente.

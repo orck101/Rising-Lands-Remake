@@ -1,0 +1,2312 @@
+{
+  "type": 7,
+  "name": "repair",
+  "frame_count": 8,
+  "frame_delay": 2,
+  "frames": [
+    {
+      "direction": 1,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1410
+        }
+      ]
+    },
+    {
+      "direction": 1,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1411
+        }
+      ]
+    },
+    {
+      "direction": 1,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1412
+        }
+      ]
+    },
+    {
+      "direction": 1,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1413
+        }
+      ]
+    },
+    {
+      "direction": 1,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1414
+        }
+      ]
+    },
+    {
+      "direction": 1,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1415
+        }
+      ]
+    },
+    {
+      "direction": 1,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1416
+        }
+      ]
+    },
+    {
+      "direction": 1,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1417
+        }
+      ]
+    },
+    {
+      "direction": 2,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1410
+        }
+      ]
+    },
+    {
+      "direction": 2,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1411
+        }
+      ]
+    },
+    {
+      "direction": 2,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1412
+        }
+      ]
+    },
+    {
+      "direction": 2,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1413
+        }
+      ]
+    },
+    {
+      "direction": 2,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1414
+        }
+      ]
+    },
+    {
+      "direction": 2,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1415
+        }
+      ]
+    },
+    {
+      "direction": 2,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1416
+        }
+      ]
+    },
+    {
+      "direction": 2,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1417
+        }
+      ]
+    },
+    {
+      "direction": 3,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1418
+        }
+      ]
+    },
+    {
+      "direction": 3,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1419
+        }
+      ]
+    },
+    {
+      "direction": 3,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1420
+        }
+      ]
+    },
+    {
+      "direction": 3,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1421
+        }
+      ]
+    },
+    {
+      "direction": 3,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1422
+        }
+      ]
+    },
+    {
+      "direction": 3,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1423
+        }
+      ]
+    },
+    {
+      "direction": 3,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1424
+        }
+      ]
+    },
+    {
+      "direction": 3,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1425
+        }
+      ]
+    },
+    {
+      "direction": 4,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1418
+        }
+      ]
+    },
+    {
+      "direction": 4,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1419
+        }
+      ]
+    },
+    {
+      "direction": 4,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1420
+        }
+      ]
+    },
+    {
+      "direction": 4,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1421
+        }
+      ]
+    },
+    {
+      "direction": 4,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1422
+        }
+      ]
+    },
+    {
+      "direction": 4,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1423
+        }
+      ]
+    },
+    {
+      "direction": 4,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1424
+        }
+      ]
+    },
+    {
+      "direction": 4,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1425
+        }
+      ]
+    },
+    {
+      "direction": 5,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1426
+        }
+      ]
+    },
+    {
+      "direction": 5,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1427
+        }
+      ]
+    },
+    {
+      "direction": 5,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1428
+        }
+      ]
+    },
+    {
+      "direction": 5,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1429
+        }
+      ]
+    },
+    {
+      "direction": 5,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1430
+        }
+      ]
+    },
+    {
+      "direction": 5,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1431
+        }
+      ]
+    },
+    {
+      "direction": 5,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1432
+        }
+      ]
+    },
+    {
+      "direction": 5,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1433
+        }
+      ]
+    },
+    {
+      "direction": 6,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1426
+        }
+      ]
+    },
+    {
+      "direction": 6,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1427
+        }
+      ]
+    },
+    {
+      "direction": 6,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1428
+        }
+      ]
+    },
+    {
+      "direction": 6,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1429
+        }
+      ]
+    },
+    {
+      "direction": 6,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1430
+        }
+      ]
+    },
+    {
+      "direction": 6,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1431
+        }
+      ]
+    },
+    {
+      "direction": 6,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1432
+        }
+      ]
+    },
+    {
+      "direction": 6,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1433
+        }
+      ]
+    },
+    {
+      "direction": 7,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1434
+        }
+      ]
+    },
+    {
+      "direction": 7,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1435
+        }
+      ]
+    },
+    {
+      "direction": 7,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1436
+        }
+      ]
+    },
+    {
+      "direction": 7,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1437
+        }
+      ]
+    },
+    {
+      "direction": 7,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1438
+        }
+      ]
+    },
+    {
+      "direction": 7,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1439
+        }
+      ]
+    },
+    {
+      "direction": 7,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1440
+        }
+      ]
+    },
+    {
+      "direction": 7,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1441
+        }
+      ]
+    },
+    {
+      "direction": 8,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1434
+        }
+      ]
+    },
+    {
+      "direction": 8,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1435
+        }
+      ]
+    },
+    {
+      "direction": 8,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1436
+        }
+      ]
+    },
+    {
+      "direction": 8,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1437
+        }
+      ]
+    },
+    {
+      "direction": 8,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1438
+        }
+      ]
+    },
+    {
+      "direction": 8,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1439
+        }
+      ]
+    },
+    {
+      "direction": 8,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1440
+        }
+      ]
+    },
+    {
+      "direction": 8,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1441
+        }
+      ]
+    },
+    {
+      "direction": 9,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1442
+        }
+      ]
+    },
+    {
+      "direction": 9,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1443
+        }
+      ]
+    },
+    {
+      "direction": 9,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1444
+        }
+      ]
+    },
+    {
+      "direction": 9,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1445
+        }
+      ]
+    },
+    {
+      "direction": 9,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1446
+        }
+      ]
+    },
+    {
+      "direction": 9,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1447
+        }
+      ]
+    },
+    {
+      "direction": 9,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1448
+        }
+      ]
+    },
+    {
+      "direction": 9,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1449
+        }
+      ]
+    },
+    {
+      "direction": 10,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1442
+        }
+      ]
+    },
+    {
+      "direction": 10,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1443
+        }
+      ]
+    },
+    {
+      "direction": 10,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1444
+        }
+      ]
+    },
+    {
+      "direction": 10,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1445
+        }
+      ]
+    },
+    {
+      "direction": 10,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1446
+        }
+      ]
+    },
+    {
+      "direction": 10,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1447
+        }
+      ]
+    },
+    {
+      "direction": 10,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1448
+        }
+      ]
+    },
+    {
+      "direction": 10,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1449
+        }
+      ]
+    },
+    {
+      "direction": 11,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1450
+        }
+      ]
+    },
+    {
+      "direction": 11,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1451
+        }
+      ]
+    },
+    {
+      "direction": 11,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1452
+        }
+      ]
+    },
+    {
+      "direction": 11,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1453
+        }
+      ]
+    },
+    {
+      "direction": 11,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1454
+        }
+      ]
+    },
+    {
+      "direction": 11,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1455
+        }
+      ]
+    },
+    {
+      "direction": 11,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1456
+        }
+      ]
+    },
+    {
+      "direction": 11,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1457
+        }
+      ]
+    },
+    {
+      "direction": 12,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1450
+        }
+      ]
+    },
+    {
+      "direction": 12,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1451
+        }
+      ]
+    },
+    {
+      "direction": 12,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1452
+        }
+      ]
+    },
+    {
+      "direction": 12,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1453
+        }
+      ]
+    },
+    {
+      "direction": 12,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1454
+        }
+      ]
+    },
+    {
+      "direction": 12,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1455
+        }
+      ]
+    },
+    {
+      "direction": 12,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1456
+        }
+      ]
+    },
+    {
+      "direction": 12,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1457
+        }
+      ]
+    },
+    {
+      "direction": 13,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1458
+        }
+      ]
+    },
+    {
+      "direction": 13,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1459
+        }
+      ]
+    },
+    {
+      "direction": 13,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1460
+        }
+      ]
+    },
+    {
+      "direction": 13,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1461
+        }
+      ]
+    },
+    {
+      "direction": 13,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1462
+        }
+      ]
+    },
+    {
+      "direction": 13,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1463
+        }
+      ]
+    },
+    {
+      "direction": 13,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1464
+        }
+      ]
+    },
+    {
+      "direction": 13,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1465
+        }
+      ]
+    },
+    {
+      "direction": 14,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1458
+        }
+      ]
+    },
+    {
+      "direction": 14,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1459
+        }
+      ]
+    },
+    {
+      "direction": 14,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1460
+        }
+      ]
+    },
+    {
+      "direction": 14,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1461
+        }
+      ]
+    },
+    {
+      "direction": 14,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1462
+        }
+      ]
+    },
+    {
+      "direction": 14,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1463
+        }
+      ]
+    },
+    {
+      "direction": 14,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1464
+        }
+      ]
+    },
+    {
+      "direction": 14,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1465
+        }
+      ]
+    },
+    {
+      "direction": 15,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1466
+        }
+      ]
+    },
+    {
+      "direction": 15,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1467
+        }
+      ]
+    },
+    {
+      "direction": 15,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1468
+        }
+      ]
+    },
+    {
+      "direction": 15,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1469
+        }
+      ]
+    },
+    {
+      "direction": 15,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1470
+        }
+      ]
+    },
+    {
+      "direction": 15,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1471
+        }
+      ]
+    },
+    {
+      "direction": 15,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1472
+        }
+      ]
+    },
+    {
+      "direction": 15,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1473
+        }
+      ]
+    },
+    {
+      "direction": 16,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1466
+        }
+      ]
+    },
+    {
+      "direction": 16,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1467
+        }
+      ]
+    },
+    {
+      "direction": 16,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1468
+        }
+      ]
+    },
+    {
+      "direction": 16,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1469
+        }
+      ]
+    },
+    {
+      "direction": 16,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1470
+        }
+      ]
+    },
+    {
+      "direction": 16,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1471
+        }
+      ]
+    },
+    {
+      "direction": 16,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1472
+        }
+      ]
+    },
+    {
+      "direction": 16,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": 2,
+          "y": 26,
+          "sprite": 10784
+        },
+        {
+          "kind": "unit",
+          "x": -26,
+          "y": -26,
+          "sprite": 1473
+        }
+      ]
+    }
+  ]
+}

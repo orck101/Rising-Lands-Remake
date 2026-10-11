@@ -1,0 +1,24 @@
+using RisingLands.Monitoring;
+namespace RisingLands;
+public static class MonitorV89Tests {
+ static int checks;
+ static void Check(bool ok,string label){checks++;if(!ok)throw new Exception("FAIL monitor: "+label);Console.WriteLine("PASS monitor: "+label);}
+ public static void Run(string root,string output){
+  var s=OpponentV75Tests.Load(root);string before=s.Serialize();var snapshot=s.EconomySnapshot(999001,"fixture-monitor",1,"Jogando");
+  Check(snapshot.Enemies.Length==3&&snapshot.Enemies.Select(e=>e.Owner).SequenceEqual(new[]{1,2,3}),"three separate enemy slots");var red=snapshot.Enemies[0];Check(red.Present&&red.Food==15&&red.Stone==15&&red.Gears==0,"real reduced opening stocks exported");Check(red.Units==10&&red.Buildings==3,"real population exported");
+  foreach(var e in snapshot.Enemies)foreach(var t in e.Technologies)Check(t.Level==s.OpponentLevel(e.Owner,t.Branch)&&t.Maximum==EnemyResearchPolicy.Maximum(t.Branch)&&t.Developed.Length==Simulation.UnlockData.Technologies.Count(i=>i.Branch==t.Branch&&i.Index<t.Level),"effective technology, maximum and developed list owner "+e.Owner+" branch "+t.Branch);
+  Check(!snapshot.Enemies[1].Present&&!snapshot.Enemies[2].Present,"absent clans distinguished from zero stock");Check(red.Relation=="Hostil"&&red.Sympathy==s.Goodwill(1),"real diplomacy exported");
+  foreach(var e in snapshot.Enemies){Check(e.Military!=null&&e.Military.Sum(m=>m.Count)==s.World.Units.Count(a=>a.Owner==e.Owner&&a.Health>0&&a.Type!=10&&Simulation.AdvancedAttacks.Rules.Any(r=>r.Type==a.Type)),"live military total owner "+e.Owner);foreach(var m in e.Military!)Check(m.Count==s.World.Units.Count(a=>a.Owner==e.Owner&&a.Health>0&&a.Type==m.Type),"military type "+m.Type+" owner "+e.Owner);}
+  s.Campaign.Alliances[1]=true;s.Campaign.Goodwill[1]=23;var allied=s.EconomySnapshot(999004,"fixture-allied",1,"Pausado");Check(allied.Enemies[0].Relation=="Aliado"&&allied.Enemies[0].Sympathy==23,"alliance and numeric sympathy");s.Campaign.Alliances[1]=false;s.Campaign.Goodwill[1]=snapshot.Enemies[0].Sympathy!.Value;
+  Check(s.Serialize()==before,"monitor snapshot does not change simulation or saves");
+  MonitorFeed.Write(output,snapshot);string path=Path.Combine(output,"game-999001.json");Check(MonitorFeed.Read(path)==snapshot||System.Text.Json.JsonSerializer.Serialize(MonitorFeed.Read(path))==System.Text.Json.JsonSerializer.Serialize(snapshot),"atomic file roundtrip");Check(!File.Exists(path+".tmp"),"no partial telemetry remains");
+  for(int i=0;i<3000;i++)s.Step();var update=s.EconomySnapshot(999002,"fixture-progress",5,"Pausado");Check(update.Tick==3000&&update.Speed==5&&update.Status=="Pausado","clock speed and pause reflected");
+  foreach(var e in update.Enemies)Check(e.Food==s.World.Resources[e.Owner]&&e.Stone==s.World.Resources[4+e.Owner]&&e.Gears==s.World.Resources[8+e.Owner],"live economy owner "+e.Owner);
+  MonitorFeed.Write(output,snapshot with {UpdatedUtc=DateTimeOffset.UtcNow}); // stable initial fixture for visual checks.
+  var mixed=OpponentV75Tests.Load(root);var actors=mixed.World.Units.Where(a=>a.Owner==1).Take(4).ToArray();actors[0].Type=0;actors[0].Health=100;actors[0].LegacyState=12;actors[1].Type=8;actors[1].Health=100;actors[2].Type=0;actors[2].Health=0;actors[3].Type=10;actors[3].Health=100;string mixedBefore=mixed.Serialize();var army=mixed.EconomySnapshot(999006,"fixture-mixed",1,"Pausado");Check(army.Enemies[0].Military!.Single(m=>m.Type==0).Count==1&&army.Enemies[0].Military!.Single(m=>m.Type==8).Count==1,"stored fighters included, dead and messengers excluded");Check(mixed.Serialize()==mixedBefore,"mixed military collection is read only");MonitorFeed.Write(Path.Combine(output,"mixed"),army);
+  var legacy=snapshot with {ProcessId=999005,Enemies=snapshot.Enemies.Select(e=>e with {Relation=null,Sympathy=null,Military=null}).ToArray()};MonitorFeed.Write(Path.Combine(output,"legacy"),legacy);Check(MonitorFeed.Read(Path.Combine(output,"legacy/game-999005.json")).Enemies[0].Military==null,"legacy fields remain unavailable");MonitorFeed.Write(Path.Combine(output,"allied"),allied);
+  string bad=Path.Combine(output,"bad.json");File.WriteAllText(bad,System.Text.Json.JsonSerializer.Serialize(snapshot with {Schema=8}));try{MonitorFeed.Read(bad);throw new Exception("Unsupported feed accepted");}catch(InvalidDataException){Check(true,"unsupported schema rejected");}File.Delete(bad);
+  var three=snapshot with {ProcessId=999003,Session="fixture-three-enemies",UpdatedUtc=DateTimeOffset.UtcNow,Enemies=snapshot.Enemies.Select(e=>e with {Present=true,Food=e.Owner*11,Stone=e.Owner*22,Gears=e.Owner*33}).ToArray()};MonitorFeed.Write(Path.Combine(output,"three"),three);Check(MonitorFeed.Read(Path.Combine(output,"three/game-999003.json")).Enemies.Select(e=>e.Food).SequenceEqual(new[]{11,22,33}),"three clan feeds keep separate resources");
+  Console.WriteLine("ALL v89 MONITOR TESTS PASSED: "+checks);
+ }
+}

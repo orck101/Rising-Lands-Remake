@@ -1,0 +1,382 @@
+{
+  "units": [
+    {
+      "type": 0,
+      "radius": 7,
+      "source": {
+        "section": "SOLDAT",
+        "key": "RAYON",
+        "value": "7",
+        "line": 47,
+        "offset": 1187
+      }
+    },
+    {
+      "type": 1,
+      "radius": 7,
+      "source": {
+        "section": "GARDIEN DU FEU",
+        "key": "RAYON",
+        "value": "7",
+        "line": 60,
+        "offset": 1419
+      }
+    },
+    {
+      "type": 2,
+      "radius": 8,
+      "source": {
+        "section": "CAPITAINE",
+        "key": "RAYON",
+        "value": "8",
+        "line": 73,
+        "offset": 1647
+      }
+    },
+    {
+      "type": 3,
+      "radius": 7,
+      "source": {
+        "section": "OURS DE COMBAT",
+        "key": "RAYON",
+        "value": "7",
+        "line": 86,
+        "offset": 1879
+      }
+    },
+    {
+      "type": 4,
+      "radius": 5,
+      "source": {
+        "section": "PRETRE",
+        "key": "RAYON",
+        "value": "5",
+        "line": 112,
+        "offset": 2316
+      }
+    },
+    {
+      "type": 5,
+      "radius": 5,
+      "source": {
+        "section": "FERMIER",
+        "key": "RAYON",
+        "value": "5",
+        "line": 125,
+        "offset": 2519
+      }
+    },
+    {
+      "type": 6,
+      "radius": 5,
+      "source": {
+        "section": "MECANO",
+        "key": "RAYON",
+        "value": "5",
+        "line": 151,
+        "offset": 2928
+      }
+    },
+    {
+      "type": 7,
+      "radius": 5,
+      "source": {
+        "section": "BATISSEUR",
+        "key": "RAYON",
+        "value": "5",
+        "line": 138,
+        "offset": 2724
+      }
+    },
+    {
+      "type": 8,
+      "radius": 10,
+      "source": {
+        "section": "VOLEUR",
+        "key": "RAYON",
+        "value": "10",
+        "line": 164,
+        "offset": 3147
+      }
+    },
+    {
+      "type": 9,
+      "radius": 5,
+      "source": {
+        "section": "COLON",
+        "key": "RAYON",
+        "value": "5",
+        "line": 177,
+        "offset": 3350
+      }
+    },
+    {
+      "type": 10,
+      "radius": 5,
+      "source": {
+        "section": "MESSAGER",
+        "key": "RAYON",
+        "value": "5",
+        "line": 190,
+        "offset": 3553
+      }
+    },
+    {
+      "type": 11,
+      "radius": 7,
+      "source": {
+        "section": "SPYDER",
+        "key": "RAYON",
+        "value": "7",
+        "line": 203,
+        "offset": 3774
+      }
+    },
+    {
+      "type": 12,
+      "radius": 10,
+      "source": {
+        "section": "BUNKER",
+        "key": "RAYON",
+        "value": "10",
+        "line": 216,
+        "offset": 3987
+      }
+    },
+    {
+      "type": 13,
+      "radius": 5,
+      "source": {
+        "section": "RECOLTEUSE",
+        "key": "RAYON",
+        "value": "5",
+        "line": 229,
+        "offset": 4223
+      }
+    },
+    {
+      "type": 14,
+      "radius": 5,
+      "source": {
+        "section": "PIEGEUR",
+        "key": "RAYON",
+        "value": "5",
+        "line": 242,
+        "offset": 4428
+      }
+    },
+    {
+      "type": 15,
+      "radius": 8,
+      "source": {
+        "section": "SUN",
+        "key": "RAYON",
+        "value": "8",
+        "line": 255,
+        "offset": 4649
+      }
+    },
+    {
+      "type": 16,
+      "radius": 5,
+      "source": {
+        "section": "HELIPEDE",
+        "key": "RAYON",
+        "value": "5",
+        "line": 268,
+        "offset": 4877
+      }
+    },
+    {
+      "type": 17,
+      "radius": 10,
+      "source": {
+        "section": "ZEEPELIN",
+        "key": "RAYON",
+        "value": "10",
+        "line": 281,
+        "offset": 5109
+      }
+    },
+    {
+      "type": 18,
+      "radius": 10,
+      "source": {
+        "section": "ARAIGNEE",
+        "key": "RAYON",
+        "value": "10",
+        "line": 294,
+        "offset": 5355
+      }
+    },
+    {
+      "type": 19,
+      "radius": 10,
+      "source": {
+        "section": "FOURMI",
+        "key": "RAYON",
+        "value": "10",
+        "line": 307,
+        "offset": 5600
+      }
+    },
+    {
+      "type": 20,
+      "radius": 7,
+      "source": {
+        "section": "MASTAAR",
+        "key": "RAYON",
+        "value": "7",
+        "line": 320,
+        "offset": 5820
+      }
+    },
+    {
+      "type": 21,
+      "radius": 7,
+      "source": {
+        "section": "LEZARD",
+        "key": "RAYON",
+        "value": "7",
+        "line": 333,
+        "offset": 6032
+      }
+    },
+    {
+      "type": 22,
+      "radius": 8,
+      "source": {
+        "section": "SANGLIER",
+        "key": "RAYON",
+        "value": "8",
+        "line": 346,
+        "offset": 6244
+      }
+    },
+    {
+      "type": 23,
+      "radius": 7,
+      "source": {
+        "section": "FOOTMAN",
+        "key": "RAYON",
+        "value": "7",
+        "line": 359,
+        "offset": 6452
+      }
+    },
+    {
+      "type": 24,
+      "radius": 10,
+      "source": {
+        "section": "TORTUE",
+        "key": "RAYON",
+        "value": "10",
+        "line": 372,
+        "offset": 6653
+      }
+    },
+    {
+      "type": 25,
+      "radius": 10,
+      "source": {
+        "section": "RHINO",
+        "key": "RAYON",
+        "value": "10",
+        "line": 99,
+        "offset": 2101
+      }
+    }
+  ],
+  "buildings": [
+    {
+      "type": 0,
+      "radius": 20
+    },
+    {
+      "type": 1,
+      "radius": 8
+    },
+    {
+      "type": 2,
+      "radius": 10
+    },
+    {
+      "type": 3,
+      "radius": 8
+    },
+    {
+      "type": 4,
+      "radius": 5
+    },
+    {
+      "type": 5,
+      "radius": 8
+    },
+    {
+      "type": 6,
+      "radius": 8
+    },
+    {
+      "type": 7,
+      "radius": 8
+    },
+    {
+      "type": 8,
+      "radius": 8
+    },
+    {
+      "type": 9,
+      "radius": 0
+    },
+    {
+      "type": 10,
+      "radius": 7
+    },
+    {
+      "type": 11,
+      "radius": 7
+    },
+    {
+      "type": 12,
+      "radius": 0
+    },
+    {
+      "type": 13,
+      "radius": 8
+    },
+    {
+      "type": 14,
+      "radius": 8
+    },
+    {
+      "type": 15,
+      "radius": 8
+    },
+    {
+      "type": 16,
+      "radius": 8
+    },
+    {
+      "type": 17,
+      "radius": 4
+    },
+    {
+      "type": 18,
+      "radius": 8
+    },
+    {
+      "type": 19,
+      "radius": 4
+    },
+    {
+      "type": 20,
+      "radius": 8
+    },
+    {
+      "type": 21,
+      "radius": 4
+    }
+  ],
+  "unit_discovery_extra": 2,
+  "building_discovery_extra": 3
+}

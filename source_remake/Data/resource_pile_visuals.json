@@ -1,0 +1,746 @@
+[
+  {
+    "code": 66,
+    "quantity": 1,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10823
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 2,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10824
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 3,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10824
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 4,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10825
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 5,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10825
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 6,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10826
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 7,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10826
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 8,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10827
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 9,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10827
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 10,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10828
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 11,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10828
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 12,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10829
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 13,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10829
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 14,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10830
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 15,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10830
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 16,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10831
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 17,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10831
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 18,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10832
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 19,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10832
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 20,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10833
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 21,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10833
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 22,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10834
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 23,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10834
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 24,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10835
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 25,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10835
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 26,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10836
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 27,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10836
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 28,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10837
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 29,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10837
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 30,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10838
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "quantity": 31,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": -4,
+        "y": 0,
+        "sprite": 10838
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 1,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10855
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 2,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10856
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 3,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10856
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 4,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10857
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 5,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10857
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 6,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10858
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 7,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10858
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 8,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10859
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 9,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10859
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 10,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10860
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 11,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10860
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 12,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10861
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 13,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10861
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 14,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10862
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 15,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10862
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 16,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10863
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 17,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10863
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 18,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10864
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 19,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10864
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 20,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10865
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 21,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10865
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 22,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10866
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 23,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10866
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 24,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10867
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 25,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10867
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 26,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10868
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 27,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10868
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 28,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10869
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 29,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10869
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 30,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10870
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "quantity": 31,
+    "commands": [
+      {
+        "kind": "sprite",
+        "x": 0,
+        "y": 0,
+        "sprite": 10870
+      }
+    ]
+  }
+]

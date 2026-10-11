@@ -1,0 +1,118 @@
+{
+  "buildings": [
+    {
+      "building": 0,
+      "troops": []
+    },
+    {
+      "building": 1,
+      "troops": [
+        0,
+        1,
+        2,
+        8
+      ]
+    },
+    {
+      "building": 2,
+      "troops": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "building": 3,
+      "troops": []
+    },
+    {
+      "building": 4,
+      "troops": []
+    },
+    {
+      "building": 5,
+      "troops": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "building": 6,
+      "troops": []
+    },
+    {
+      "building": 7,
+      "troops": []
+    },
+    {
+      "building": 8,
+      "troops": []
+    },
+    {
+      "building": 9,
+      "troops": []
+    },
+    {
+      "building": 10,
+      "troops": []
+    },
+    {
+      "building": 11,
+      "troops": []
+    },
+    {
+      "building": 12,
+      "troops": []
+    },
+    {
+      "building": 13,
+      "troops": [
+        3,
+        25
+      ]
+    },
+    {
+      "building": 14,
+      "troops": []
+    },
+    {
+      "building": 15,
+      "troops": [
+        4
+      ]
+    },
+    {
+      "building": 16,
+      "troops": [
+        10
+      ]
+    },
+    {
+      "building": 17,
+      "troops": []
+    },
+    {
+      "building": 18,
+      "troops": [
+        16
+      ]
+    },
+    {
+      "building": 19,
+      "troops": []
+    },
+    {
+      "building": 20,
+      "troops": [
+        4
+      ]
+    },
+    {
+      "building": 21,
+      "troops": []
+    }
+  ]
+}

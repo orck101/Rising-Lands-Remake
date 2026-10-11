@@ -1,0 +1,9966 @@
+{
+  "map": "MONDE25",
+  "source_sha256": "d134d11c1227a6441b3dce7b452f06a649f953ce69fe74de367973b4620df70e",
+  "objects": [
+    {
+      "cell": 65,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2076,
+          "y": 0,
+          "sprite": 10830
+        }
+      ]
+    },
+    {
+      "cell": 84,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2688,
+          "y": 0,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 85,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2720,
+          "y": 0,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 86,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2752,
+          "y": 0,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 123,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3932,
+          "y": 0,
+          "sprite": 10832
+        }
+      ]
+    },
+    {
+      "cell": 340,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2688,
+          "y": 32,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 341,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2720,
+          "y": 32,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 342,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2752,
+          "y": 32,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 562,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1596,
+          "y": 64,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 577,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2080,
+          "y": 64,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 578,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2112,
+          "y": 64,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 579,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2144,
+          "y": 64,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 596,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2688,
+          "y": 64,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 597,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2720,
+          "y": 64,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 598,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2752,
+          "y": 64,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 833,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2080,
+          "y": 96,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 834,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2112,
+          "y": 96,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 835,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2144,
+          "y": 96,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 868,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3196,
+          "y": 96,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 1089,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2080,
+          "y": 128,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 1090,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2112,
+          "y": 128,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 1091,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2144,
+          "y": 128,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 1293,
+      "object_code": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": 266,
+          "y": 67,
+          "sprite": 7032
+        },
+        {
+          "kind": "player",
+          "x": 340,
+          "y": 72,
+          "sprite": 7051
+        },
+        {
+          "kind": "sprite",
+          "x": 355,
+          "y": 162,
+          "sprite": 7038
+        },
+        {
+          "kind": "sprite",
+          "x": 417,
+          "y": 198,
+          "sprite": 7046
+        },
+        {
+          "kind": "player",
+          "x": 314,
+          "y": 131,
+          "sprite": 7059
+        },
+        {
+          "kind": "player",
+          "x": 410,
+          "y": 141,
+          "sprite": 7067
+        },
+        {
+          "kind": "sprite",
+          "x": 284,
+          "y": 130,
+          "sprite": 7058
+        }
+      ]
+    },
+    {
+      "cell": 1303,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 732,
+          "y": 160,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 1324,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1408,
+          "y": 160,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 1325,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1440,
+          "y": 160,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 1326,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1472,
+          "y": 160,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 1420,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4480,
+          "y": 160,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 1421,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4512,
+          "y": 160,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 1422,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4544,
+          "y": 160,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 1580,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1408,
+          "y": 192,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 1581,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1440,
+          "y": 192,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 1582,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1472,
+          "y": 192,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 1644,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3456,
+          "y": 192,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 1645,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3488,
+          "y": 192,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 1646,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3520,
+          "y": 192,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 1676,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4480,
+          "y": 192,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 1677,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4512,
+          "y": 192,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 1678,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4544,
+          "y": 192,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 1836,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1408,
+          "y": 224,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 1837,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1440,
+          "y": 224,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 1900,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3456,
+          "y": 224,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 1901,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3488,
+          "y": 224,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 1902,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3520,
+          "y": 224,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 1932,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4480,
+          "y": 224,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 1933,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4512,
+          "y": 224,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 1934,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4544,
+          "y": 224,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 1947,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4956,
+          "y": 224,
+          "sprite": 10826
+        }
+      ]
+    },
+    {
+      "cell": 1966,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5564,
+          "y": 224,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 2156,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3456,
+          "y": 256,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 2157,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3488,
+          "y": 256,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 2158,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3520,
+          "y": 256,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 2306,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 60,
+          "y": 288,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 2432,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4096,
+          "y": 288,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 2433,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4128,
+          "y": 288,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 2434,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4160,
+          "y": 288,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 2622,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1980,
+          "y": 320,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 2688,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4096,
+          "y": 320,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 2689,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4128,
+          "y": 320,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 2690,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4160,
+          "y": 320,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 2734,
+      "object_code": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": 5418,
+          "y": 227,
+          "sprite": 7032
+        },
+        {
+          "kind": "player",
+          "x": 5492,
+          "y": 232,
+          "sprite": 7052
+        },
+        {
+          "kind": "sprite",
+          "x": 5507,
+          "y": 322,
+          "sprite": 7039
+        },
+        {
+          "kind": "sprite",
+          "x": 5569,
+          "y": 358,
+          "sprite": 7047
+        },
+        {
+          "kind": "player",
+          "x": 5466,
+          "y": 291,
+          "sprite": 7059
+        },
+        {
+          "kind": "player",
+          "x": 5562,
+          "y": 301,
+          "sprite": 7067
+        },
+        {
+          "kind": "sprite",
+          "x": 5436,
+          "y": 290,
+          "sprite": 7057
+        }
+      ]
+    },
+    {
+      "cell": 2847,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 992,
+          "y": 352,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 2848,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1024,
+          "y": 352,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 2849,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1056,
+          "y": 352,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 2874,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1856,
+          "y": 352,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 2875,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1888,
+          "y": 352,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 2876,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1920,
+          "y": 352,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 2944,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4096,
+          "y": 352,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 2945,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4128,
+          "y": 352,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 2946,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4160,
+          "y": 352,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 3103,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 992,
+          "y": 384,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 3104,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1024,
+          "y": 384,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 3105,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1056,
+          "y": 384,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 3130,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1856,
+          "y": 384,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 3131,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1888,
+          "y": 384,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 3132,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1920,
+          "y": 384,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 3359,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 992,
+          "y": 416,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 3360,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1024,
+          "y": 416,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 3361,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1056,
+          "y": 416,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 3366,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1212,
+          "y": 416,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 3386,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1856,
+          "y": 416,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 3387,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1888,
+          "y": 416,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 3388,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1920,
+          "y": 416,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 3642,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1856,
+          "y": 448,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 3643,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1888,
+          "y": 448,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 3644,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1920,
+          "y": 448,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 3688,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3324,
+          "y": 448,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 3922,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2620,
+          "y": 480,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 4491,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4444,
+          "y": 544,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 4908,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1408,
+          "y": 608,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 4909,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1440,
+          "y": 608,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 4910,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1472,
+          "y": 608,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 5164,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1408,
+          "y": 640,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 5165,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1440,
+          "y": 640,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 5166,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1472,
+          "y": 640,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 5278,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5052,
+          "y": 640,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 5394,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 572,
+          "y": 672,
+          "sprite": 10826
+        }
+      ]
+    },
+    {
+      "cell": 5420,
+      "object_code": 34,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1408,
+          "y": 672,
+          "sprite": 10590
+        }
+      ]
+    },
+    {
+      "cell": 5421,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1440,
+          "y": 672,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 5479,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3296,
+          "y": 672,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 5495,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3804,
+          "y": 672,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 5709,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2464,
+          "y": 704,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 5799,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5344,
+          "y": 704,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 5800,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5376,
+          "y": 704,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 5801,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5408,
+          "y": 704,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 5901,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 416,
+          "y": 736,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 5902,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 448,
+          "y": 736,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 5903,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 480,
+          "y": 736,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 6055,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5344,
+          "y": 736,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 6056,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5376,
+          "y": 736,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 6057,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5408,
+          "y": 736,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 6157,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 416,
+          "y": 768,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 6158,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 448,
+          "y": 768,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 6159,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 480,
+          "y": 768,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 6311,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5344,
+          "y": 768,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 6312,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5376,
+          "y": 768,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 6313,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5408,
+          "y": 768,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 6413,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 416,
+          "y": 800,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 6414,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 448,
+          "y": 800,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 6415,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 480,
+          "y": 800,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 7286,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3776,
+          "y": 896,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 7450,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 832,
+          "y": 928,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 7451,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 864,
+          "y": 928,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 7452,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 896,
+          "y": 928,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 7706,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 832,
+          "y": 960,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 7707,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 864,
+          "y": 960,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 7708,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 896,
+          "y": 960,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 7766,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2748,
+          "y": 960,
+          "sprite": 10828
+        }
+      ]
+    },
+    {
+      "cell": 7841,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5148,
+          "y": 960,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 7962,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 832,
+          "y": 992,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 7963,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 864,
+          "y": 992,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 7964,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 896,
+          "y": 992,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 7968,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1020,
+          "y": 992,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 8327,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4320,
+          "y": 1024,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 8328,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4352,
+          "y": 1024,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 8329,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4384,
+          "y": 1024,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 8542,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3008,
+          "y": 1056,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 8543,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3040,
+          "y": 1056,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 8544,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3072,
+          "y": 1056,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 8583,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4320,
+          "y": 1056,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 8584,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4352,
+          "y": 1056,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 8585,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4384,
+          "y": 1056,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 8610,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5184,
+          "y": 1056,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 8611,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5216,
+          "y": 1056,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 8612,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5248,
+          "y": 1056,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 8783,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2528,
+          "y": 1088,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 8784,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2560,
+          "y": 1088,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 8785,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2592,
+          "y": 1088,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 8798,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3008,
+          "y": 1088,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 8799,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3040,
+          "y": 1088,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 8800,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3072,
+          "y": 1088,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 8839,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4320,
+          "y": 1088,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 8840,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4352,
+          "y": 1088,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 8841,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4384,
+          "y": 1088,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 8866,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5184,
+          "y": 1088,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 8867,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5216,
+          "y": 1088,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 8868,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5248,
+          "y": 1088,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 8965,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 160,
+          "y": 1120,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 8966,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 192,
+          "y": 1120,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 8967,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 224,
+          "y": 1120,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 9008,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1536,
+          "y": 1120,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 9010,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1596,
+          "y": 1120,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 9039,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2528,
+          "y": 1120,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 9040,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2560,
+          "y": 1120,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 9041,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2592,
+          "y": 1120,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 9054,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3008,
+          "y": 1120,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 9055,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3040,
+          "y": 1120,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 9056,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3072,
+          "y": 1120,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 9122,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5184,
+          "y": 1120,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 9123,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5216,
+          "y": 1120,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 9124,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5248,
+          "y": 1120,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 9134,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5568,
+          "y": 1120,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 9135,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5600,
+          "y": 1120,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 9136,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5632,
+          "y": 1120,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 9221,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 160,
+          "y": 1152,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 9222,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 192,
+          "y": 1152,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 9223,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 224,
+          "y": 1152,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 9295,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2528,
+          "y": 1152,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 9296,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2560,
+          "y": 1152,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 9297,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2592,
+          "y": 1152,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 9319,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3292,
+          "y": 1152,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 9356,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4476,
+          "y": 1152,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 9390,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5568,
+          "y": 1152,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 9391,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5600,
+          "y": 1152,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 9392,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5632,
+          "y": 1152,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 9395,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5724,
+          "y": 1152,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 9477,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 160,
+          "y": 1184,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 9478,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 192,
+          "y": 1184,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 9479,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 224,
+          "y": 1184,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 9541,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2204,
+          "y": 1184,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 9646,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5568,
+          "y": 1184,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 9647,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5600,
+          "y": 1184,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 9648,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5632,
+          "y": 1184,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 9842,
+      "object_code": 34,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3648,
+          "y": 1216,
+          "sprite": 10590
+        }
+      ]
+    },
+    {
+      "cell": 9843,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3680,
+          "y": 1216,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 9844,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3712,
+          "y": 1216,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 10098,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3648,
+          "y": 1248,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 10099,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3680,
+          "y": 1248,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 10100,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3712,
+          "y": 1248,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 10104,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3840,
+          "y": 1248,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 10105,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3872,
+          "y": 1248,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 10106,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3904,
+          "y": 1248,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 10307,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2144,
+          "y": 1280,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 10308,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2176,
+          "y": 1280,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 10309,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2208,
+          "y": 1280,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 10354,
+      "object_code": 41,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3648,
+          "y": 1280,
+          "sprite": 10597
+        }
+      ]
+    },
+    {
+      "cell": 10355,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3680,
+          "y": 1280,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 10356,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3712,
+          "y": 1280,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 10360,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3840,
+          "y": 1280,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 10361,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3872,
+          "y": 1280,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 10362,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3904,
+          "y": 1280,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 10550,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1724,
+          "y": 1312,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 10563,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2144,
+          "y": 1312,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 10564,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2176,
+          "y": 1312,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 10565,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2208,
+          "y": 1312,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 10616,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3840,
+          "y": 1312,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 10617,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3872,
+          "y": 1312,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 10618,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3904,
+          "y": 1312,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 10819,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2144,
+          "y": 1344,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 10820,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2176,
+          "y": 1344,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 10821,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2208,
+          "y": 1344,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 11400,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4348,
+          "y": 1408,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 11443,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5728,
+          "y": 1408,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 11444,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5760,
+          "y": 1408,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 11445,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5792,
+          "y": 1408,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 11699,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5728,
+          "y": 1440,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 11700,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5760,
+          "y": 1440,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 11701,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5792,
+          "y": 1440,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 11837,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1952,
+          "y": 1472,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 11838,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1984,
+          "y": 1472,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 11839,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2016,
+          "y": 1472,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 11901,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4000,
+          "y": 1472,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 11902,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4032,
+          "y": 1472,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 11903,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4064,
+          "y": 1472,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 11955,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5728,
+          "y": 1472,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 11956,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5760,
+          "y": 1472,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 11957,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5792,
+          "y": 1472,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 12044,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 380,
+          "y": 1504,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 12093,
+      "object_code": 34,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1952,
+          "y": 1504,
+          "sprite": 10590
+        }
+      ]
+    },
+    {
+      "cell": 12094,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1984,
+          "y": 1504,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 12095,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2016,
+          "y": 1504,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 12157,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4000,
+          "y": 1504,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 12158,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4032,
+          "y": 1504,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 12159,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4064,
+          "y": 1504,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 12349,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1952,
+          "y": 1536,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 12350,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1984,
+          "y": 1536,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 12351,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2016,
+          "y": 1536,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 12413,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4000,
+          "y": 1536,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 12414,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4032,
+          "y": 1536,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 12415,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4064,
+          "y": 1536,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 12461,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5532,
+          "y": 1536,
+          "sprite": 10830
+        }
+      ]
+    },
+    {
+      "cell": 12694,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4796,
+          "y": 1568,
+          "sprite": 10826
+        }
+      ]
+    },
+    {
+      "cell": 12855,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1760,
+          "y": 1600,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 12856,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1792,
+          "y": 1600,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 12857,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1824,
+          "y": 1600,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 13088,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1020,
+          "y": 1632,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 13111,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1760,
+          "y": 1632,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 13112,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1792,
+          "y": 1632,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 13113,
+      "object_code": 34,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1824,
+          "y": 1632,
+          "sprite": 10590
+        }
+      ]
+    },
+    {
+      "cell": 13142,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2748,
+          "y": 1632,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 13172,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3708,
+          "y": 1632,
+          "sprite": 10826
+        }
+      ]
+    },
+    {
+      "cell": 13367,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1760,
+          "y": 1664,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 13368,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1792,
+          "y": 1664,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 13369,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1824,
+          "y": 1664,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 13447,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4320,
+          "y": 1664,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 13448,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4352,
+          "y": 1664,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 13449,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4384,
+          "y": 1664,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 13703,
+      "object_code": 29,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4320,
+          "y": 1696,
+          "sprite": 10585
+        }
+      ]
+    },
+    {
+      "cell": 13704,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4352,
+          "y": 1696,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 13705,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4384,
+          "y": 1696,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 13757,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6048,
+          "y": 1696,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 13758,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6080,
+          "y": 1696,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 13759,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6112,
+          "y": 1696,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 13959,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4320,
+          "y": 1728,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 13960,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4352,
+          "y": 1728,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 13961,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4384,
+          "y": 1728,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 13998,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5568,
+          "y": 1728,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 13999,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5600,
+          "y": 1728,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 14000,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5632,
+          "y": 1728,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 14013,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6048,
+          "y": 1728,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 14014,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6080,
+          "y": 1728,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 14015,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6112,
+          "y": 1728,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 14254,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5568,
+          "y": 1760,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 14255,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5600,
+          "y": 1760,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 14256,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5632,
+          "y": 1760,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 14269,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6048,
+          "y": 1760,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 14270,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6080,
+          "y": 1760,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 14271,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6112,
+          "y": 1760,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 14510,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5568,
+          "y": 1792,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 14511,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5600,
+          "y": 1792,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 14512,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5632,
+          "y": 1792,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 15362,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 64,
+          "y": 1920,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 15363,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 96,
+          "y": 1920,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 15364,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 128,
+          "y": 1920,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 15407,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1500,
+          "y": 1920,
+          "sprite": 10826
+        }
+      ]
+    },
+    {
+      "cell": 15618,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 64,
+          "y": 1952,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 15619,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 96,
+          "y": 1952,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 15620,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 128,
+          "y": 1952,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 15655,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1248,
+          "y": 1952,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 15656,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1280,
+          "y": 1952,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 15657,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1312,
+          "y": 1952,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 15754,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4412,
+          "y": 1952,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 15756,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4480,
+          "y": 1952,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 15757,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4512,
+          "y": 1952,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 15758,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4544,
+          "y": 1952,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 15795,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5728,
+          "y": 1952,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 15796,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5760,
+          "y": 1952,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 15797,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5792,
+          "y": 1952,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 15874,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 64,
+          "y": 1984,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 15875,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 96,
+          "y": 1984,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 15876,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 128,
+          "y": 1984,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 15911,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1248,
+          "y": 1984,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 15912,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1280,
+          "y": 1984,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 15913,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1312,
+          "y": 1984,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 15943,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2268,
+          "y": 1984,
+          "sprite": 10826
+        }
+      ]
+    },
+    {
+      "cell": 15978,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3388,
+          "y": 1984,
+          "sprite": 10827
+        }
+      ]
+    },
+    {
+      "cell": 16012,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4480,
+          "y": 1984,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 16013,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4512,
+          "y": 1984,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 16014,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4544,
+          "y": 1984,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 16051,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5728,
+          "y": 1984,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 16052,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5760,
+          "y": 1984,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 16053,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5792,
+          "y": 1984,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 16167,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1248,
+          "y": 2016,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 16168,
+      "object_code": 41,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1280,
+          "y": 2016,
+          "sprite": 10597
+        }
+      ]
+    },
+    {
+      "cell": 16169,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1312,
+          "y": 2016,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 16269,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4512,
+          "y": 2016,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 16270,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4544,
+          "y": 2016,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 16308,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5760,
+          "y": 2016,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 16309,
+      "object_code": 34,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5792,
+          "y": 2016,
+          "sprite": 10590
+        }
+      ]
+    },
+    {
+      "cell": 16388,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 124,
+          "y": 2048,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 16707,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2140,
+          "y": 2080,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 17153,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 28,
+          "y": 2144,
+          "sprite": 10833
+        }
+      ]
+    },
+    {
+      "cell": 17556,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4736,
+          "y": 2176,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 17557,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4768,
+          "y": 2176,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 17558,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4800,
+          "y": 2176,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 17812,
+      "object_code": 34,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4736,
+          "y": 2208,
+          "sprite": 10590
+        }
+      ]
+    },
+    {
+      "cell": 17813,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4768,
+          "y": 2208,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 17814,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4800,
+          "y": 2208,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 18069,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4768,
+          "y": 2240,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 18070,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4800,
+          "y": 2240,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 18213,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1184,
+          "y": 2272,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 18214,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1216,
+          "y": 2272,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 18215,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1248,
+          "y": 2272,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 18339,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5212,
+          "y": 2272,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 18365,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6048,
+          "y": 2272,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 18366,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6080,
+          "y": 2272,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 18367,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6112,
+          "y": 2272,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 18459,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 860,
+          "y": 2304,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 18469,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1184,
+          "y": 2304,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 18470,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1216,
+          "y": 2304,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 18471,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1248,
+          "y": 2304,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 18621,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6048,
+          "y": 2304,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 18622,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6080,
+          "y": 2304,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 18623,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6112,
+          "y": 2304,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 18725,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1184,
+          "y": 2336,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 18726,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1216,
+          "y": 2336,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 18727,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1248,
+          "y": 2336,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 18809,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3868,
+          "y": 2336,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 18877,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6048,
+          "y": 2336,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 18878,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6080,
+          "y": 2336,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 18879,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6112,
+          "y": 2336,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 19094,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4800,
+          "y": 2368,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 19095,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4832,
+          "y": 2368,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 19096,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4864,
+          "y": 2368,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 19247,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1500,
+          "y": 2400,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 19285,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2716,
+          "y": 2400,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 19350,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4800,
+          "y": 2400,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 19351,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4832,
+          "y": 2400,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 19352,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4864,
+          "y": 2400,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 19606,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4800,
+          "y": 2432,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 19607,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4832,
+          "y": 2432,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 19608,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4864,
+          "y": 2432,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 20114,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4668,
+          "y": 2496,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 20326,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3260,
+          "y": 2528,
+          "sprite": 10826
+        }
+      ]
+    },
+    {
+      "cell": 20403,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5724,
+          "y": 2528,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 20896,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5120,
+          "y": 2592,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 20897,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5152,
+          "y": 2592,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 20898,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5184,
+          "y": 2592,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 21152,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5120,
+          "y": 2624,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 21153,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5152,
+          "y": 2624,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 21154,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5184,
+          "y": 2624,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 21250,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 60,
+          "y": 2656,
+          "sprite": 10833
+        }
+      ]
+    },
+    {
+      "cell": 21274,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 832,
+          "y": 2656,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 21275,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 864,
+          "y": 2656,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 21276,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 896,
+          "y": 2656,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 21408,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5120,
+          "y": 2656,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 21409,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5152,
+          "y": 2656,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 21410,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5184,
+          "y": 2656,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 21530,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 832,
+          "y": 2688,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 21531,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 864,
+          "y": 2688,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 21532,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 896,
+          "y": 2688,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 21662,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5056,
+          "y": 2688,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 21663,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5088,
+          "y": 2688,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 21664,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5120,
+          "y": 2688,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 21786,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 832,
+          "y": 2720,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 21787,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 864,
+          "y": 2720,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 21788,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 896,
+          "y": 2720,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 21821,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1948,
+          "y": 2720,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 21918,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5056,
+          "y": 2720,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 21919,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5088,
+          "y": 2720,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 21920,
+      "object_code": 34,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5120,
+          "y": 2720,
+          "sprite": 10590
+        }
+      ]
+    },
+    {
+      "cell": 22174,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5056,
+          "y": 2752,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 22175,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5088,
+          "y": 2752,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 22176,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5120,
+          "y": 2752,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 22413,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4508,
+          "y": 2784,
+          "sprite": 10826
+        }
+      ]
+    },
+    {
+      "cell": 22804,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 636,
+          "y": 2848,
+          "sprite": 10826
+        }
+      ]
+    },
+    {
+      "cell": 22956,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5504,
+          "y": 2848,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 22957,
+      "object_code": 34,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5536,
+          "y": 2848,
+          "sprite": 10590
+        }
+      ]
+    },
+    {
+      "cell": 22958,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5568,
+          "y": 2848,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 23212,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5504,
+          "y": 2880,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 23213,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5536,
+          "y": 2880,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 23214,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5568,
+          "y": 2880,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 23230,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6076,
+          "y": 2880,
+          "sprite": 10832
+        }
+      ]
+    },
+    {
+      "cell": 23380,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2684,
+          "y": 2912,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 23454,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5052,
+          "y": 2912,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 23468,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5504,
+          "y": 2912,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 23469,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5536,
+          "y": 2912,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 23470,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5568,
+          "y": 2912,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 23579,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 864,
+          "y": 2944,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 23580,
+      "object_code": 34,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 896,
+          "y": 2944,
+          "sprite": 10590
+        }
+      ]
+    },
+    {
+      "cell": 23581,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 928,
+          "y": 2944,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 23591,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1244,
+          "y": 2944,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 23835,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 864,
+          "y": 2976,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 23836,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 896,
+          "y": 2976,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 23837,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 928,
+          "y": 2976,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 24091,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 864,
+          "y": 3008,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 24092,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 896,
+          "y": 3008,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 24093,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 928,
+          "y": 3008,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 24185,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3868,
+          "y": 3008,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 24480,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5120,
+          "y": 3040,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 24481,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5152,
+          "y": 3040,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 24482,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5184,
+          "y": 3040,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 24736,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5120,
+          "y": 3072,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 24737,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5152,
+          "y": 3072,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 24738,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5184,
+          "y": 3072,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 24907,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2396,
+          "y": 3104,
+          "sprite": 10826
+        }
+      ]
+    },
+    {
+      "cell": 24992,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5120,
+          "y": 3104,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 24993,
+      "object_code": 29,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5152,
+          "y": 3104,
+          "sprite": 10585
+        }
+      ]
+    },
+    {
+      "cell": 24994,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5184,
+          "y": 3104,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 25344,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -4,
+          "y": 3168,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 25345,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 28,
+          "y": 3168,
+          "sprite": 10832
+        }
+      ]
+    },
+    {
+      "cell": 26149,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1184,
+          "y": 3264,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 26405,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1184,
+          "y": 3296,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 26406,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1216,
+          "y": 3296,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 26407,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1248,
+          "y": 3296,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 26472,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3324,
+          "y": 3296,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 26545,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5660,
+          "y": 3296,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 26661,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1184,
+          "y": 3328,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 26662,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1216,
+          "y": 3328,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 26663,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1248,
+          "y": 3328,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 26676,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1660,
+          "y": 3328,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 26792,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5376,
+          "y": 3328,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 26793,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5408,
+          "y": 3328,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 26794,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5440,
+          "y": 3328,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 26795,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5472,
+          "y": 3328,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 27019,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4444,
+          "y": 3360,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 27038,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5056,
+          "y": 3360,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 27039,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5088,
+          "y": 3360,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 27040,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5120,
+          "y": 3360,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 27048,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5376,
+          "y": 3360,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 27049,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5408,
+          "y": 3360,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 27050,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5440,
+          "y": 3360,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 27051,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5472,
+          "y": 3360,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 27069,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6044,
+          "y": 3360,
+          "sprite": 10830
+        }
+      ]
+    },
+    {
+      "cell": 27294,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5056,
+          "y": 3392,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 27295,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5088,
+          "y": 3392,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 27296,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5120,
+          "y": 3392,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 27304,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5376,
+          "y": 3392,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 27305,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5408,
+          "y": 3392,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 27306,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5440,
+          "y": 3392,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 27307,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5472,
+          "y": 3392,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 27550,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5056,
+          "y": 3424,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 27551,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5088,
+          "y": 3424,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 27552,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5120,
+          "y": 3424,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 27650,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 64,
+          "y": 3456,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 27651,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 96,
+          "y": 3456,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 27652,
+      "object_code": 29,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 128,
+          "y": 3456,
+          "sprite": 10585
+        }
+      ]
+    },
+    {
+      "cell": 27678,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 956,
+          "y": 3456,
+          "sprite": 10828
+        }
+      ]
+    },
+    {
+      "cell": 27906,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 64,
+          "y": 3488,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 27907,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 96,
+          "y": 3488,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 27908,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 128,
+          "y": 3488,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 28162,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 64,
+          "y": 3520,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 28163,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 96,
+          "y": 3520,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 28164,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 128,
+          "y": 3520,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 28306,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4668,
+          "y": 3520,
+          "sprite": 10826
+        }
+      ]
+    },
+    {
+      "cell": 28520,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3324,
+          "y": 3552,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 28713,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1312,
+          "y": 3584,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 28714,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1344,
+          "y": 3584,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 28715,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1376,
+          "y": 3584,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 28969,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1312,
+          "y": 3616,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 28970,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1344,
+          "y": 3616,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 28971,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1376,
+          "y": 3616,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 28973,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1436,
+          "y": 3616,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 29190,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 188,
+          "y": 3648,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 29225,
+      "object_code": 34,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1312,
+          "y": 3648,
+          "sprite": 10590
+        }
+      ]
+    },
+    {
+      "cell": 29226,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1344,
+          "y": 3648,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 29227,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1376,
+          "y": 3648,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 29760,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2044,
+          "y": 3712,
+          "sprite": 10827
+        }
+      ]
+    },
+    {
+      "cell": 29859,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5212,
+          "y": 3712,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 30005,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1692,
+          "y": 3744,
+          "sprite": 10826
+        }
+      ]
+    },
+    {
+      "cell": 30585,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3868,
+          "y": 3808,
+          "sprite": 10826
+        }
+      ]
+    },
+    {
+      "cell": 30804,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2684,
+          "y": 3840,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 30868,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4736,
+          "y": 3840,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 30869,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4768,
+          "y": 3840,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 31025,
+      "object_code": 41,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1568,
+          "y": 3872,
+          "sprite": 10597
+        }
+      ]
+    },
+    {
+      "cell": 31026,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1600,
+          "y": 3872,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 31123,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4704,
+          "y": 3872,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 31124,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4736,
+          "y": 3872,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 31125,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4768,
+          "y": 3872,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 31165,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6044,
+          "y": 3872,
+          "sprite": 10833
+        }
+      ]
+    },
+    {
+      "cell": 31281,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1568,
+          "y": 3904,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 31282,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1600,
+          "y": 3904,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 31283,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1632,
+          "y": 3904,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 31379,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4704,
+          "y": 3904,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 31380,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4736,
+          "y": 3904,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 31381,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4768,
+          "y": 3904,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 31537,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1568,
+          "y": 3936,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 31538,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1600,
+          "y": 3936,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 31539,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1632,
+          "y": 3936,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 31635,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4704,
+          "y": 3936,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 31636,
+      "object_code": 29,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4736,
+          "y": 3936,
+          "sprite": 10585
+        }
+      ]
+    },
+    {
+      "cell": 31637,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4768,
+          "y": 3936,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 32030,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 956,
+          "y": 4000,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 32296,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1280,
+          "y": 4032,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 32512,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 4064,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 32513,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 32,
+          "y": 4064,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 32514,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 64,
+          "y": 4064,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 32648,
+      "object_code": 41,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4352,
+          "y": 4064,
+          "sprite": 10597
+        }
+      ]
+    },
+    {
+      "cell": 32649,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4384,
+          "y": 4064,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 32650,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4416,
+          "y": 4064,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 32673,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5152,
+          "y": 4064,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 32768,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 4096,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 32769,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 32,
+          "y": 4096,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 32770,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 64,
+          "y": 4096,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 32904,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4352,
+          "y": 4096,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 32905,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4384,
+          "y": 4096,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 32906,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4416,
+          "y": 4096,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 32954,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5948,
+          "y": 4096,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 33024,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 4128,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 33025,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 32,
+          "y": 4128,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 33026,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 64,
+          "y": 4128,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 33125,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3228,
+          "y": 4128,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 33160,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4352,
+          "y": 4128,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 33161,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4384,
+          "y": 4128,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 33162,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4416,
+          "y": 4128,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 33282,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 64,
+          "y": 4160,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 33298,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 576,
+          "y": 4160,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 33299,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 608,
+          "y": 4160,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 33300,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 640,
+          "y": 4160,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 33421,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4508,
+          "y": 4160,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 33554,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 576,
+          "y": 4192,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 33555,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 608,
+          "y": 4192,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 33556,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 640,
+          "y": 4192,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 33810,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 576,
+          "y": 4224,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 33811,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 608,
+          "y": 4224,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 33812,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 640,
+          "y": 4224,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 34107,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1888,
+          "y": 4256,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 34108,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1920,
+          "y": 4256,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 34175,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4064,
+          "y": 4256,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 34176,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4096,
+          "y": 4256,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 34177,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4128,
+          "y": 4256,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 34353,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1564,
+          "y": 4288,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 34363,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1888,
+          "y": 4288,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 34364,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1920,
+          "y": 4288,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 34365,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1952,
+          "y": 4288,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 34431,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4064,
+          "y": 4288,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 34432,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4096,
+          "y": 4288,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 34433,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4128,
+          "y": 4288,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 34465,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5148,
+          "y": 4288,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 34564,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 124,
+          "y": 4320,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 34619,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1888,
+          "y": 4320,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 34620,
+      "object_code": 34,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1920,
+          "y": 4320,
+          "sprite": 10590
+        }
+      ]
+    },
+    {
+      "cell": 34621,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1952,
+          "y": 4320,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 34687,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4064,
+          "y": 4320,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 34688,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4096,
+          "y": 4320,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 34689,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4128,
+          "y": 4320,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 35095,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 736,
+          "y": 4384,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 35406,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2496,
+          "y": 4416,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 35407,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2528,
+          "y": 4416,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 35408,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2560,
+          "y": 4416,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 35435,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3420,
+          "y": 4416,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 35662,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2496,
+          "y": 4448,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 35663,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2528,
+          "y": 4448,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 35664,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2560,
+          "y": 4448,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 35908,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2172,
+          "y": 4480,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 35918,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2496,
+          "y": 4480,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 35919,
+      "object_code": 41,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2528,
+          "y": 4480,
+          "sprite": 10597
+        }
+      ]
+    },
+    {
+      "cell": 35920,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2560,
+          "y": 4480,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 35957,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3744,
+          "y": 4480,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 35958,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3776,
+          "y": 4480,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 35959,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3808,
+          "y": 4480,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 36213,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3744,
+          "y": 4512,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 36214,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3776,
+          "y": 4512,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 36215,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3808,
+          "y": 4512,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 36271,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5600,
+          "y": 4512,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 36272,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5632,
+          "y": 4512,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 36273,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5664,
+          "y": 4512,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 36378,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 828,
+          "y": 4544,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 36469,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3744,
+          "y": 4544,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 36470,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3776,
+          "y": 4544,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 36471,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3808,
+          "y": 4544,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 36480,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4092,
+          "y": 4544,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 36527,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5600,
+          "y": 4544,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 36528,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5632,
+          "y": 4544,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 36529,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5664,
+          "y": 4544,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 36619,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 352,
+          "y": 4576,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 36620,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 384,
+          "y": 4576,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 36621,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 416,
+          "y": 4576,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 36684,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2428,
+          "y": 4576,
+          "sprite": 10829
+        }
+      ]
+    },
+    {
+      "cell": 36783,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5600,
+          "y": 4576,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 36784,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5632,
+          "y": 4576,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 36785,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5664,
+          "y": 4576,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 36875,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 352,
+          "y": 4608,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 36876,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 384,
+          "y": 4608,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 36877,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 416,
+          "y": 4608,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 36945,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2588,
+          "y": 4608,
+          "sprite": 10828
+        }
+      ]
+    },
+    {
+      "cell": 36973,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3488,
+          "y": 4608,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 36974,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3520,
+          "y": 4608,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 36975,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3552,
+          "y": 4608,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 37131,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 352,
+          "y": 4640,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 37132,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 384,
+          "y": 4640,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 37133,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 416,
+          "y": 4640,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 37221,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3232,
+          "y": 4640,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 37222,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3264,
+          "y": 4640,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 37223,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3296,
+          "y": 4640,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 37229,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3488,
+          "y": 4640,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 37230,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3520,
+          "y": 4640,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 37231,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3552,
+          "y": 4640,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 37425,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1564,
+          "y": 4672,
+          "sprite": 10826
+        }
+      ]
+    },
+    {
+      "cell": 37465,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2848,
+          "y": 4672,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 37466,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2880,
+          "y": 4672,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 37467,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2912,
+          "y": 4672,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 37477,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3232,
+          "y": 4672,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 37478,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3264,
+          "y": 4672,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 37479,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3296,
+          "y": 4672,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 37485,
+      "object_code": 41,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3488,
+          "y": 4672,
+          "sprite": 10597
+        }
+      ]
+    },
+    {
+      "cell": 37486,
+      "object_code": 42,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3520,
+          "y": 4672,
+          "sprite": 10598
+        }
+      ]
+    },
+    {
+      "cell": 37487,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3552,
+          "y": 4672,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 37637,
+      "object_code": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": 10,
+          "y": 4611,
+          "sprite": 7032
+        },
+        {
+          "kind": "player",
+          "x": 84,
+          "y": 4616,
+          "sprite": 7051
+        },
+        {
+          "kind": "sprite",
+          "x": 99,
+          "y": 4706,
+          "sprite": 7038
+        },
+        {
+          "kind": "sprite",
+          "x": 161,
+          "y": 4742,
+          "sprite": 7046
+        },
+        {
+          "kind": "player",
+          "x": 58,
+          "y": 4675,
+          "sprite": 7059
+        },
+        {
+          "kind": "player",
+          "x": 154,
+          "y": 4685,
+          "sprite": 7067
+        },
+        {
+          "kind": "sprite",
+          "x": 28,
+          "y": 4674,
+          "sprite": 7058
+        }
+      ]
+    },
+    {
+      "cell": 37721,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2848,
+          "y": 4704,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 37722,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2880,
+          "y": 4704,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 37723,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2912,
+          "y": 4704,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 37733,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3232,
+          "y": 4704,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 37734,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3264,
+          "y": 4704,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 37735,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3296,
+          "y": 4704,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 37820,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 6012,
+          "y": 4704,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 37919,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 992,
+          "y": 4736,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 37920,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1024,
+          "y": 4736,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 37921,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1056,
+          "y": 4736,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 37977,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2848,
+          "y": 4736,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 37978,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2880,
+          "y": 4736,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 37979,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2912,
+          "y": 4736,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 38031,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4572,
+          "y": 4736,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 38175,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 992,
+          "y": 4768,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 38176,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1024,
+          "y": 4768,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 38177,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1056,
+          "y": 4768,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 38285,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4512,
+          "y": 4768,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 38312,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5372,
+          "y": 4768,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 38431,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 992,
+          "y": 4800,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 38432,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1024,
+          "y": 4800,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 38433,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1056,
+          "y": 4800,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 38687,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 992,
+          "y": 4832,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 38769,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3612,
+          "y": 4832,
+          "sprite": 10827
+        }
+      ]
+    },
+    {
+      "cell": 38977,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2080,
+          "y": 4864,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 38978,
+      "object_code": 33,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2112,
+          "y": 4864,
+          "sprite": 10589
+        }
+      ]
+    },
+    {
+      "cell": 38979,
+      "object_code": 46,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2144,
+          "y": 4864,
+          "sprite": 10602
+        }
+      ]
+    },
+    {
+      "cell": 39233,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2080,
+          "y": 4896,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 39234,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2112,
+          "y": 4896,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 39235,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2144,
+          "y": 4896,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 39269,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3228,
+          "y": 4896,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 39481,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1820,
+          "y": 4928,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 39489,
+      "object_code": 37,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2080,
+          "y": 4928,
+          "sprite": 10593
+        }
+      ]
+    },
+    {
+      "cell": 39490,
+      "object_code": 43,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2112,
+          "y": 4928,
+          "sprite": 10599
+        }
+      ]
+    },
+    {
+      "cell": 39491,
+      "object_code": 31,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2144,
+          "y": 4928,
+          "sprite": 10587
+        }
+      ]
+    },
+    {
+      "cell": 39857,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5664,
+          "y": 4960,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 39858,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5696,
+          "y": 4960,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 39970,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1084,
+          "y": 4992,
+          "sprite": 10829
+        }
+      ]
+    },
+    {
+      "cell": 40113,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5664,
+          "y": 4992,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 40114,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5696,
+          "y": 4992,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 40369,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5664,
+          "y": 5024,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 40370,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5696,
+          "y": 5024,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 40716,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 380,
+          "y": 5088,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 41049,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2848,
+          "y": 5120,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 41083,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3932,
+          "y": 5120,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 41760,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1024,
+          "y": 5216,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 41761,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1056,
+          "y": 5216,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 41762,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1088,
+          "y": 5216,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 41834,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3392,
+          "y": 5216,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 41919,
+      "object_code": 0,
+      "commands": [
+        {
+          "kind": "player",
+          "x": 5962,
+          "y": 5123,
+          "sprite": 7032
+        },
+        {
+          "kind": "player",
+          "x": 6036,
+          "y": 5128,
+          "sprite": 7053
+        },
+        {
+          "kind": "sprite",
+          "x": 6051,
+          "y": 5218,
+          "sprite": 7040
+        },
+        {
+          "kind": "sprite",
+          "x": 6113,
+          "y": 5254,
+          "sprite": 7048
+        },
+        {
+          "kind": "player",
+          "x": 6010,
+          "y": 5187,
+          "sprite": 7059
+        },
+        {
+          "kind": "player",
+          "x": 6106,
+          "y": 5197,
+          "sprite": 7067
+        },
+        {
+          "kind": "sprite",
+          "x": 5980,
+          "y": 5186,
+          "sprite": 7058
+        }
+      ]
+    },
+    {
+      "cell": 42016,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1024,
+          "y": 5248,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 42017,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1056,
+          "y": 5248,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 42018,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1088,
+          "y": 5248,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 42135,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4832,
+          "y": 5248,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 42146,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5180,
+          "y": 5248,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 42272,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1024,
+          "y": 5280,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 42273,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1056,
+          "y": 5280,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 42274,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1088,
+          "y": 5280,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 42288,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1532,
+          "y": 5280,
+          "sprite": 10827
+        }
+      ]
+    },
+    {
+      "cell": 42818,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2112,
+          "y": 5344,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 42819,
+      "object_code": 35,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2144,
+          "y": 5344,
+          "sprite": 10591
+        }
+      ]
+    },
+    {
+      "cell": 42820,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2176,
+          "y": 5344,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 42850,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3132,
+          "y": 5344,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 43041,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1052,
+          "y": 5376,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 43074,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2112,
+          "y": 5376,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 43075,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2144,
+          "y": 5376,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 43076,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2176,
+          "y": 5376,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 43330,
+      "object_code": 47,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2112,
+          "y": 5408,
+          "sprite": 10603
+        }
+      ]
+    },
+    {
+      "cell": 43331,
+      "object_code": 32,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2144,
+          "y": 5408,
+          "sprite": 10588
+        }
+      ]
+    },
+    {
+      "cell": 43332,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2176,
+          "y": 5408,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 43400,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4352,
+          "y": 5408,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 43401,
+      "object_code": 41,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4384,
+          "y": 5408,
+          "sprite": 10597
+        }
+      ]
+    },
+    {
+      "cell": 43402,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4416,
+          "y": 5408,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 43403,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4448,
+          "y": 5408,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 43646,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4032,
+          "y": 5440,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 43647,
+      "object_code": 45,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4064,
+          "y": 5440,
+          "sprite": 10601
+        }
+      ]
+    },
+    {
+      "cell": 43648,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4096,
+          "y": 5440,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 43656,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4352,
+          "y": 5440,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 43657,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4384,
+          "y": 5440,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 43658,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4416,
+          "y": 5440,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 43847,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2268,
+          "y": 5472,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 43902,
+      "object_code": 34,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4032,
+          "y": 5472,
+          "sprite": 10590
+        }
+      ]
+    },
+    {
+      "cell": 43903,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4064,
+          "y": 5472,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 43904,
+      "object_code": 30,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4096,
+          "y": 5472,
+          "sprite": 10586
+        }
+      ]
+    },
+    {
+      "cell": 43912,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4352,
+          "y": 5472,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 43913,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4384,
+          "y": 5472,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 43914,
+      "object_code": 36,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4416,
+          "y": 5472,
+          "sprite": 10592
+        }
+      ]
+    },
+    {
+      "cell": 43938,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5184,
+          "y": 5472,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 43939,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5216,
+          "y": 5472,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 43940,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5248,
+          "y": 5472,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 44073,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1312,
+          "y": 5504,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 44074,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1344,
+          "y": 5504,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 44075,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1376,
+          "y": 5504,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 44158,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4032,
+          "y": 5504,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 44159,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4064,
+          "y": 5504,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 44160,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4096,
+          "y": 5504,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 44194,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5184,
+          "y": 5504,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 44195,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5216,
+          "y": 5504,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 44196,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5248,
+          "y": 5504,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 44329,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1312,
+          "y": 5536,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 44330,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1344,
+          "y": 5536,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 44331,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1376,
+          "y": 5536,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 44414,
+      "object_code": 44,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4032,
+          "y": 5536,
+          "sprite": 10600
+        }
+      ]
+    },
+    {
+      "cell": 44429,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4508,
+          "y": 5536,
+          "sprite": 10828
+        }
+      ]
+    },
+    {
+      "cell": 44450,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5184,
+          "y": 5536,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 44451,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5216,
+          "y": 5536,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 44452,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5248,
+          "y": 5536,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 44585,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1312,
+          "y": 5568,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 44586,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1344,
+          "y": 5568,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 44587,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1376,
+          "y": 5568,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 44728,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5884,
+          "y": 5568,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 45136,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2560,
+          "y": 5632,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 45205,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4764,
+          "y": 5632,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 45382,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2236,
+          "y": 5664,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 45621,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1696,
+          "y": 5696,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 45622,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1728,
+          "y": 5696,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 45623,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1760,
+          "y": 5696,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 45877,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1696,
+          "y": 5728,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 45878,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1728,
+          "y": 5728,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 45879,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1760,
+          "y": 5728,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 45930,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3392,
+          "y": 5728,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 46133,
+      "object_code": 51,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1696,
+          "y": 5760,
+          "sprite": 10607
+        }
+      ]
+    },
+    {
+      "cell": 46134,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1728,
+          "y": 5760,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 46135,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1760,
+          "y": 5760,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 46362,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 828,
+          "y": 5792,
+          "sprite": 10824
+        }
+      ]
+    },
+    {
+      "cell": 46458,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3904,
+          "y": 5792,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 46459,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3936,
+          "y": 5792,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 46460,
+      "object_code": 40,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3968,
+          "y": 5792,
+          "sprite": 10596
+        }
+      ]
+    },
+    {
+      "cell": 46461,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 4000,
+          "y": 5792,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 46654,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1984,
+          "y": 5824,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 46655,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2016,
+          "y": 5824,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 46656,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2048,
+          "y": 5824,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 46714,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3904,
+          "y": 5824,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 46715,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3936,
+          "y": 5824,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 46716,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3968,
+          "y": 5824,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 46759,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 5340,
+          "y": 5824,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 46910,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1984,
+          "y": 5856,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 46911,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2016,
+          "y": 5856,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 46912,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2048,
+          "y": 5856,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 46970,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3904,
+          "y": 5856,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 46971,
+      "object_code": 48,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3936,
+          "y": 5856,
+          "sprite": 10604
+        }
+      ]
+    },
+    {
+      "cell": 46972,
+      "object_code": 49,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3968,
+          "y": 5856,
+          "sprite": 10605
+        }
+      ]
+    },
+    {
+      "cell": 47166,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1984,
+          "y": 5888,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 47167,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2016,
+          "y": 5888,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 47168,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2048,
+          "y": 5888,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 47220,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3708,
+          "y": 5888,
+          "sprite": 10830
+        }
+      ]
+    },
+    {
+      "cell": 47485,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 3996,
+          "y": 5920,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 47687,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2272,
+          "y": 5952,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 47688,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2304,
+          "y": 5952,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 47689,
+      "object_code": 50,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2336,
+          "y": 5952,
+          "sprite": 10606
+        }
+      ]
+    },
+    {
+      "cell": 47943,
+      "object_code": 38,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2272,
+          "y": 5984,
+          "sprite": 10594
+        }
+      ]
+    },
+    {
+      "cell": 47944,
+      "object_code": 28,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2304,
+          "y": 5984,
+          "sprite": 10584
+        }
+      ]
+    },
+    {
+      "cell": 47945,
+      "object_code": 39,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2336,
+          "y": 5984,
+          "sprite": 10595
+        }
+      ]
+    },
+    {
+      "cell": 48174,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 1468,
+          "y": 6016,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 48216,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 2812,
+          "y": 6016,
+          "sprite": 10825
+        }
+      ]
+    },
+    {
+      "cell": 48390,
+      "object_code": 66,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 188,
+          "y": 6048,
+          "sprite": 10825
+        }
+      ]
+    }
+  ],
+  "tile_changes": [],
+  "limits": "Original PlaceBatiment executed; occupancy populated from type footprint; path cache intercepted. Original render routines under all-visible/time0, clipping suppressed; not full game initialization.",
+  "collision_changes": [
+    {
+      "cell": 777,
+      "value": 1
+    },
+    {
+      "cell": 778,
+      "value": 1
+    },
+    {
+      "cell": 779,
+      "value": 1
+    },
+    {
+      "cell": 780,
+      "value": 1
+    },
+    {
+      "cell": 1032,
+      "value": 1
+    },
+    {
+      "cell": 1033,
+      "value": 1
+    },
+    {
+      "cell": 1034,
+      "value": 1
+    },
+    {
+      "cell": 1035,
+      "value": 1
+    },
+    {
+      "cell": 1036,
+      "value": 1
+    },
+    {
+      "cell": 1037,
+      "value": 1
+    },
+    {
+      "cell": 1288,
+      "value": 1
+    },
+    {
+      "cell": 1289,
+      "value": 1
+    },
+    {
+      "cell": 1290,
+      "value": 1
+    },
+    {
+      "cell": 1291,
+      "value": 1
+    },
+    {
+      "cell": 1292,
+      "value": 1
+    },
+    {
+      "cell": 1293,
+      "value": 1
+    },
+    {
+      "cell": 1549,
+      "value": 1
+    },
+    {
+      "cell": 2218,
+      "value": 1
+    },
+    {
+      "cell": 2219,
+      "value": 1
+    },
+    {
+      "cell": 2220,
+      "value": 1
+    },
+    {
+      "cell": 2221,
+      "value": 1
+    },
+    {
+      "cell": 2473,
+      "value": 1
+    },
+    {
+      "cell": 2474,
+      "value": 1
+    },
+    {
+      "cell": 2475,
+      "value": 1
+    },
+    {
+      "cell": 2476,
+      "value": 1
+    },
+    {
+      "cell": 2477,
+      "value": 1
+    },
+    {
+      "cell": 2478,
+      "value": 1
+    },
+    {
+      "cell": 2729,
+      "value": 1
+    },
+    {
+      "cell": 2730,
+      "value": 1
+    },
+    {
+      "cell": 2731,
+      "value": 1
+    },
+    {
+      "cell": 2732,
+      "value": 1
+    },
+    {
+      "cell": 2733,
+      "value": 1
+    },
+    {
+      "cell": 2734,
+      "value": 1
+    },
+    {
+      "cell": 2990,
+      "value": 1
+    },
+    {
+      "cell": 37121,
+      "value": 1
+    },
+    {
+      "cell": 37122,
+      "value": 1
+    },
+    {
+      "cell": 37123,
+      "value": 1
+    },
+    {
+      "cell": 37124,
+      "value": 1
+    },
+    {
+      "cell": 37376,
+      "value": 1
+    },
+    {
+      "cell": 37377,
+      "value": 1
+    },
+    {
+      "cell": 37378,
+      "value": 1
+    },
+    {
+      "cell": 37379,
+      "value": 1
+    },
+    {
+      "cell": 37380,
+      "value": 1
+    },
+    {
+      "cell": 37381,
+      "value": 1
+    },
+    {
+      "cell": 37632,
+      "value": 1
+    },
+    {
+      "cell": 37633,
+      "value": 1
+    },
+    {
+      "cell": 37634,
+      "value": 1
+    },
+    {
+      "cell": 37635,
+      "value": 1
+    },
+    {
+      "cell": 37636,
+      "value": 1
+    },
+    {
+      "cell": 37637,
+      "value": 1
+    },
+    {
+      "cell": 37893,
+      "value": 1
+    },
+    {
+      "cell": 41403,
+      "value": 1
+    },
+    {
+      "cell": 41404,
+      "value": 1
+    },
+    {
+      "cell": 41405,
+      "value": 1
+    },
+    {
+      "cell": 41406,
+      "value": 1
+    },
+    {
+      "cell": 41658,
+      "value": 1
+    },
+    {
+      "cell": 41659,
+      "value": 1
+    },
+    {
+      "cell": 41660,
+      "value": 1
+    },
+    {
+      "cell": 41661,
+      "value": 1
+    },
+    {
+      "cell": 41662,
+      "value": 1
+    },
+    {
+      "cell": 41663,
+      "value": 1
+    },
+    {
+      "cell": 41914,
+      "value": 1
+    },
+    {
+      "cell": 41915,
+      "value": 1
+    },
+    {
+      "cell": 41916,
+      "value": 1
+    },
+    {
+      "cell": 41917,
+      "value": 1
+    },
+    {
+      "cell": 41918,
+      "value": 1
+    },
+    {
+      "cell": 41919,
+      "value": 1
+    },
+    {
+      "cell": 42175,
+      "value": 1
+    }
+  ]
+}

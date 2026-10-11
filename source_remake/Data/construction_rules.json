@@ -1,0 +1,5555 @@
+{
+  "buildings": [
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 1,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 5,
+                  "y": -93,
+                  "sprite": 7076
+                },
+                {
+                  "kind": "sprite",
+                  "x": 18,
+                  "y": -70,
+                  "sprite": 7085
+                },
+                {
+                  "kind": "gray",
+                  "x": 5,
+                  "y": -93,
+                  "sprite": 7076
+                },
+                {
+                  "kind": "gray",
+                  "x": 18,
+                  "y": -70,
+                  "sprite": 7085
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 1,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 5,
+                  "y": -93,
+                  "sprite": 7076
+                },
+                {
+                  "kind": "sprite",
+                  "x": 18,
+                  "y": -70,
+                  "sprite": 7085
+                },
+                {
+                  "kind": "gray",
+                  "x": 5,
+                  "y": -93,
+                  "sprite": 7076
+                },
+                {
+                  "kind": "gray",
+                  "x": 18,
+                  "y": -70,
+                  "sprite": 7085
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 1,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 5,
+                  "y": -93,
+                  "sprite": 7076
+                },
+                {
+                  "kind": "sprite",
+                  "x": 18,
+                  "y": -70,
+                  "sprite": 7085
+                },
+                {
+                  "kind": "gray",
+                  "x": 5,
+                  "y": -93,
+                  "sprite": 7076
+                },
+                {
+                  "kind": "gray",
+                  "x": 18,
+                  "y": -70,
+                  "sprite": 7085
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 0,
+      "width": 3,
+      "height": 4,
+      "food": 12,
+      "rock": 4,
+      "parts": 0,
+      "duration": 200,
+      "objects": [
+        {
+          "cell": 1,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 5,
+              "y": -93,
+              "sprite": 7076
+            },
+            {
+              "kind": "sprite",
+              "x": 18,
+              "y": -70,
+              "sprite": 7085
+            },
+            {
+              "kind": "gray",
+              "x": 5,
+              "y": -93,
+              "sprite": 7076
+            },
+            {
+              "kind": "gray",
+              "x": 18,
+              "y": -70,
+              "sprite": 7085
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 762
+        },
+        {
+          "cell": 1,
+          "tile": 763
+        },
+        {
+          "cell": 2,
+          "tile": 764
+        },
+        {
+          "cell": 256,
+          "tile": 765
+        },
+        {
+          "cell": 257,
+          "tile": 766
+        },
+        {
+          "cell": 258,
+          "tile": 767
+        },
+        {
+          "cell": 512,
+          "tile": 768
+        },
+        {
+          "cell": 513,
+          "tile": 769
+        },
+        {
+          "cell": 514,
+          "tile": 770
+        },
+        {
+          "cell": 768,
+          "tile": 771
+        },
+        {
+          "cell": 769,
+          "tile": 772
+        },
+        {
+          "cell": 770,
+          "tile": 773
+        }
+      ],
+      "collision": [
+        0,
+        1,
+        256,
+        257
+      ],
+      "sample_map": null,
+      "sample_record": "0000101000040000000062000100020000000d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000010000000000ffff01ff0000000000000000c800ffffffff0101000000000100ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 515,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 2,
+                  "y": -90,
+                  "sprite": 7030
+                },
+                {
+                  "kind": "gray",
+                  "x": 2,
+                  "y": -90,
+                  "sprite": 7030
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 515,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 2,
+                  "y": -90,
+                  "sprite": 7030
+                },
+                {
+                  "kind": "gray",
+                  "x": 2,
+                  "y": -90,
+                  "sprite": 7030
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 515,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 2,
+                  "y": -90,
+                  "sprite": 7030
+                },
+                {
+                  "kind": "gray",
+                  "x": 2,
+                  "y": -90,
+                  "sprite": 7030
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 1,
+      "width": 5,
+      "height": 6,
+      "food": 16,
+      "rock": 14,
+      "parts": 0,
+      "duration": 400,
+      "objects": [
+        {
+          "cell": 515,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 2,
+              "y": -90,
+              "sprite": 7030
+            },
+            {
+              "kind": "gray",
+              "x": 2,
+              "y": -90,
+              "sprite": 7030
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 702
+        },
+        {
+          "cell": 1,
+          "tile": 703
+        },
+        {
+          "cell": 2,
+          "tile": 704
+        },
+        {
+          "cell": 3,
+          "tile": 705
+        },
+        {
+          "cell": 4,
+          "tile": 706
+        },
+        {
+          "cell": 256,
+          "tile": 707
+        },
+        {
+          "cell": 257,
+          "tile": 708
+        },
+        {
+          "cell": 258,
+          "tile": 709
+        },
+        {
+          "cell": 259,
+          "tile": 710
+        },
+        {
+          "cell": 260,
+          "tile": 711
+        },
+        {
+          "cell": 512,
+          "tile": 712
+        },
+        {
+          "cell": 513,
+          "tile": 713
+        },
+        {
+          "cell": 514,
+          "tile": 714
+        },
+        {
+          "cell": 515,
+          "tile": 715
+        },
+        {
+          "cell": 516,
+          "tile": 716
+        },
+        {
+          "cell": 768,
+          "tile": 717
+        },
+        {
+          "cell": 769,
+          "tile": 718
+        },
+        {
+          "cell": 770,
+          "tile": 719
+        },
+        {
+          "cell": 771,
+          "tile": 720
+        },
+        {
+          "cell": 772,
+          "tile": 721
+        },
+        {
+          "cell": 1024,
+          "tile": 722
+        },
+        {
+          "cell": 1025,
+          "tile": 723
+        },
+        {
+          "cell": 1026,
+          "tile": 724
+        },
+        {
+          "cell": 1027,
+          "tile": 725
+        },
+        {
+          "cell": 1028,
+          "tile": 726
+        },
+        {
+          "cell": 1280,
+          "tile": 727
+        },
+        {
+          "cell": 1281,
+          "tile": 728
+        },
+        {
+          "cell": 1282,
+          "tile": 729
+        },
+        {
+          "cell": 1283,
+          "tile": 730
+        },
+        {
+          "cell": 1284,
+          "tile": 731
+        }
+      ],
+      "collision": [
+        1,
+        2,
+        3,
+        256,
+        257,
+        258,
+        259,
+        260,
+        512,
+        513,
+        514,
+        515
+      ],
+      "sample_map": null,
+      "sample_record": "0000101000040000010062000800080000001c001f002000210022002300240025000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010101010101010100000000000000000000000000000000000000000000000000000000080000000000ffff01ff0000000000000000c800ffffffff0101000000000100ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 517,
+              "commands": [
+                {
+                  "kind": "player",
+                  "x": 10,
+                  "y": -29,
+                  "sprite": 7032
+                },
+                {
+                  "kind": "player",
+                  "x": 84,
+                  "y": -24,
+                  "sprite": 7051
+                },
+                {
+                  "kind": "sprite",
+                  "x": 99,
+                  "y": 66,
+                  "sprite": 7038
+                },
+                {
+                  "kind": "sprite",
+                  "x": 161,
+                  "y": 102,
+                  "sprite": 7046
+                },
+                {
+                  "kind": "player",
+                  "x": 58,
+                  "y": 35,
+                  "sprite": 7059
+                },
+                {
+                  "kind": "player",
+                  "x": 154,
+                  "y": 45,
+                  "sprite": 7067
+                },
+                {
+                  "kind": "sprite",
+                  "x": 28,
+                  "y": 34,
+                  "sprite": 7058
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 517,
+              "commands": [
+                {
+                  "kind": "player",
+                  "x": 10,
+                  "y": -29,
+                  "sprite": 7032
+                },
+                {
+                  "kind": "player",
+                  "x": 84,
+                  "y": -24,
+                  "sprite": 7051
+                },
+                {
+                  "kind": "sprite",
+                  "x": 99,
+                  "y": 66,
+                  "sprite": 7038
+                },
+                {
+                  "kind": "sprite",
+                  "x": 161,
+                  "y": 102,
+                  "sprite": 7046
+                },
+                {
+                  "kind": "player",
+                  "x": 58,
+                  "y": 35,
+                  "sprite": 7059
+                },
+                {
+                  "kind": "player",
+                  "x": 154,
+                  "y": 45,
+                  "sprite": 7067
+                },
+                {
+                  "kind": "sprite",
+                  "x": 28,
+                  "y": 34,
+                  "sprite": 7058
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 517,
+              "commands": [
+                {
+                  "kind": "player",
+                  "x": 10,
+                  "y": -29,
+                  "sprite": 7032
+                },
+                {
+                  "kind": "player",
+                  "x": 84,
+                  "y": -24,
+                  "sprite": 7051
+                },
+                {
+                  "kind": "sprite",
+                  "x": 99,
+                  "y": 66,
+                  "sprite": 7038
+                },
+                {
+                  "kind": "sprite",
+                  "x": 161,
+                  "y": 102,
+                  "sprite": 7046
+                },
+                {
+                  "kind": "player",
+                  "x": 58,
+                  "y": 35,
+                  "sprite": 7059
+                },
+                {
+                  "kind": "player",
+                  "x": 154,
+                  "y": 45,
+                  "sprite": 7067
+                },
+                {
+                  "kind": "sprite",
+                  "x": 28,
+                  "y": 34,
+                  "sprite": 7058
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 2,
+      "width": 6,
+      "height": 5,
+      "food": 50,
+      "rock": 30,
+      "parts": 0,
+      "duration": 600,
+      "objects": [
+        {
+          "cell": 517,
+          "commands": [
+            {
+              "kind": "player",
+              "x": 10,
+              "y": -29,
+              "sprite": 7032
+            },
+            {
+              "kind": "player",
+              "x": 84,
+              "y": -24,
+              "sprite": 7051
+            },
+            {
+              "kind": "sprite",
+              "x": 99,
+              "y": 66,
+              "sprite": 7038
+            },
+            {
+              "kind": "sprite",
+              "x": 161,
+              "y": 102,
+              "sprite": 7046
+            },
+            {
+              "kind": "player",
+              "x": 58,
+              "y": 35,
+              "sprite": 7059
+            },
+            {
+              "kind": "player",
+              "x": 154,
+              "y": 45,
+              "sprite": 7067
+            },
+            {
+              "kind": "sprite",
+              "x": 28,
+              "y": 34,
+              "sprite": 7058
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 732
+        },
+        {
+          "cell": 1,
+          "tile": 733
+        },
+        {
+          "cell": 2,
+          "tile": 734
+        },
+        {
+          "cell": 3,
+          "tile": 735
+        },
+        {
+          "cell": 4,
+          "tile": 736
+        },
+        {
+          "cell": 5,
+          "tile": 737
+        },
+        {
+          "cell": 256,
+          "tile": 738
+        },
+        {
+          "cell": 257,
+          "tile": 739
+        },
+        {
+          "cell": 258,
+          "tile": 740
+        },
+        {
+          "cell": 259,
+          "tile": 741
+        },
+        {
+          "cell": 260,
+          "tile": 742
+        },
+        {
+          "cell": 261,
+          "tile": 743
+        },
+        {
+          "cell": 512,
+          "tile": 744
+        },
+        {
+          "cell": 513,
+          "tile": 745
+        },
+        {
+          "cell": 514,
+          "tile": 746
+        },
+        {
+          "cell": 515,
+          "tile": 747
+        },
+        {
+          "cell": 516,
+          "tile": 748
+        },
+        {
+          "cell": 517,
+          "tile": 749
+        },
+        {
+          "cell": 768,
+          "tile": 750
+        },
+        {
+          "cell": 769,
+          "tile": 751
+        },
+        {
+          "cell": 770,
+          "tile": 752
+        },
+        {
+          "cell": 771,
+          "tile": 753
+        },
+        {
+          "cell": 772,
+          "tile": 754
+        },
+        {
+          "cell": 773,
+          "tile": 755
+        },
+        {
+          "cell": 1024,
+          "tile": 756
+        },
+        {
+          "cell": 1025,
+          "tile": 757
+        },
+        {
+          "cell": 1026,
+          "tile": 758
+        },
+        {
+          "cell": 1027,
+          "tile": 759
+        },
+        {
+          "cell": 1028,
+          "tile": 760
+        },
+        {
+          "cell": 1029,
+          "tile": 761
+        }
+      ],
+      "collision": [
+        1,
+        2,
+        3,
+        4,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        773
+      ],
+      "sample_map": null,
+      "sample_record": "00001010000400000200620008001000000003000400050006000700080009000a000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010101010101010100000000000000000000000000000000000000000000000000000000080000000000ffff01ff0000000000000000c800ffffffff0101000000000100ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 258,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 7,
+                  "y": -15,
+                  "sprite": 7094
+                },
+                {
+                  "kind": "sprite",
+                  "x": 10,
+                  "y": -5,
+                  "sprite": 7095
+                },
+                {
+                  "kind": "sprite",
+                  "x": 50,
+                  "y": -15,
+                  "sprite": 7103
+                },
+                {
+                  "kind": "sprite",
+                  "x": 67,
+                  "y": 8,
+                  "sprite": 7111
+                },
+                {
+                  "kind": "sprite",
+                  "x": 71,
+                  "y": 26,
+                  "sprite": 7119
+                },
+                {
+                  "kind": "sprite",
+                  "x": 19,
+                  "y": 31,
+                  "sprite": 7127
+                },
+                {
+                  "kind": "sprite",
+                  "x": 28,
+                  "y": 1,
+                  "sprite": 7135
+                },
+                {
+                  "kind": "gray",
+                  "x": 7,
+                  "y": -15,
+                  "sprite": 7094
+                },
+                {
+                  "kind": "gray",
+                  "x": 10,
+                  "y": -5,
+                  "sprite": 7095
+                },
+                {
+                  "kind": "gray",
+                  "x": 50,
+                  "y": -15,
+                  "sprite": 7103
+                },
+                {
+                  "kind": "gray",
+                  "x": 67,
+                  "y": 8,
+                  "sprite": 7111
+                },
+                {
+                  "kind": "gray",
+                  "x": 71,
+                  "y": 23,
+                  "sprite": 7119
+                },
+                {
+                  "kind": "gray",
+                  "x": 19,
+                  "y": 31,
+                  "sprite": 7127
+                },
+                {
+                  "kind": "gray",
+                  "x": 28,
+                  "y": 1,
+                  "sprite": 7135
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 258,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 7,
+                  "y": -15,
+                  "sprite": 7094
+                },
+                {
+                  "kind": "sprite",
+                  "x": 10,
+                  "y": -5,
+                  "sprite": 7095
+                },
+                {
+                  "kind": "sprite",
+                  "x": 50,
+                  "y": -15,
+                  "sprite": 7103
+                },
+                {
+                  "kind": "sprite",
+                  "x": 67,
+                  "y": 8,
+                  "sprite": 7111
+                },
+                {
+                  "kind": "sprite",
+                  "x": 71,
+                  "y": 26,
+                  "sprite": 7119
+                },
+                {
+                  "kind": "sprite",
+                  "x": 19,
+                  "y": 31,
+                  "sprite": 7127
+                },
+                {
+                  "kind": "sprite",
+                  "x": 28,
+                  "y": 1,
+                  "sprite": 7135
+                },
+                {
+                  "kind": "gray",
+                  "x": 7,
+                  "y": -15,
+                  "sprite": 7094
+                },
+                {
+                  "kind": "gray",
+                  "x": 10,
+                  "y": -5,
+                  "sprite": 7095
+                },
+                {
+                  "kind": "gray",
+                  "x": 50,
+                  "y": -15,
+                  "sprite": 7103
+                },
+                {
+                  "kind": "gray",
+                  "x": 67,
+                  "y": 8,
+                  "sprite": 7111
+                },
+                {
+                  "kind": "gray",
+                  "x": 71,
+                  "y": 23,
+                  "sprite": 7119
+                },
+                {
+                  "kind": "gray",
+                  "x": 19,
+                  "y": 31,
+                  "sprite": 7127
+                },
+                {
+                  "kind": "gray",
+                  "x": 28,
+                  "y": 1,
+                  "sprite": 7135
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 258,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 7,
+                  "y": -15,
+                  "sprite": 7094
+                },
+                {
+                  "kind": "sprite",
+                  "x": 10,
+                  "y": -5,
+                  "sprite": 7095
+                },
+                {
+                  "kind": "sprite",
+                  "x": 50,
+                  "y": -15,
+                  "sprite": 7103
+                },
+                {
+                  "kind": "sprite",
+                  "x": 67,
+                  "y": 8,
+                  "sprite": 7111
+                },
+                {
+                  "kind": "sprite",
+                  "x": 71,
+                  "y": 26,
+                  "sprite": 7119
+                },
+                {
+                  "kind": "sprite",
+                  "x": 19,
+                  "y": 31,
+                  "sprite": 7127
+                },
+                {
+                  "kind": "sprite",
+                  "x": 28,
+                  "y": 1,
+                  "sprite": 7135
+                },
+                {
+                  "kind": "gray",
+                  "x": 7,
+                  "y": -15,
+                  "sprite": 7094
+                },
+                {
+                  "kind": "gray",
+                  "x": 10,
+                  "y": -5,
+                  "sprite": 7095
+                },
+                {
+                  "kind": "gray",
+                  "x": 50,
+                  "y": -15,
+                  "sprite": 7103
+                },
+                {
+                  "kind": "gray",
+                  "x": 67,
+                  "y": 8,
+                  "sprite": 7111
+                },
+                {
+                  "kind": "gray",
+                  "x": 71,
+                  "y": 23,
+                  "sprite": 7119
+                },
+                {
+                  "kind": "gray",
+                  "x": 19,
+                  "y": 31,
+                  "sprite": 7127
+                },
+                {
+                  "kind": "gray",
+                  "x": 28,
+                  "y": 1,
+                  "sprite": 7135
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 3,
+      "width": 5,
+      "height": 5,
+      "food": 10,
+      "rock": 6,
+      "parts": 0,
+      "duration": 100,
+      "objects": [
+        {
+          "cell": 258,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 7,
+              "y": -15,
+              "sprite": 7094
+            },
+            {
+              "kind": "sprite",
+              "x": 10,
+              "y": -5,
+              "sprite": 7095
+            },
+            {
+              "kind": "sprite",
+              "x": 50,
+              "y": -15,
+              "sprite": 7103
+            },
+            {
+              "kind": "sprite",
+              "x": 67,
+              "y": 8,
+              "sprite": 7111
+            },
+            {
+              "kind": "sprite",
+              "x": 71,
+              "y": 26,
+              "sprite": 7119
+            },
+            {
+              "kind": "sprite",
+              "x": 19,
+              "y": 31,
+              "sprite": 7127
+            },
+            {
+              "kind": "sprite",
+              "x": 28,
+              "y": 1,
+              "sprite": 7135
+            },
+            {
+              "kind": "gray",
+              "x": 7,
+              "y": -15,
+              "sprite": 7094
+            },
+            {
+              "kind": "gray",
+              "x": 10,
+              "y": -5,
+              "sprite": 7095
+            },
+            {
+              "kind": "gray",
+              "x": 50,
+              "y": -15,
+              "sprite": 7103
+            },
+            {
+              "kind": "gray",
+              "x": 67,
+              "y": 8,
+              "sprite": 7111
+            },
+            {
+              "kind": "gray",
+              "x": 71,
+              "y": 23,
+              "sprite": 7119
+            },
+            {
+              "kind": "gray",
+              "x": 19,
+              "y": 31,
+              "sprite": 7127
+            },
+            {
+              "kind": "gray",
+              "x": 28,
+              "y": 1,
+              "sprite": 7135
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 774
+        },
+        {
+          "cell": 1,
+          "tile": 775
+        },
+        {
+          "cell": 2,
+          "tile": 776
+        },
+        {
+          "cell": 3,
+          "tile": 777
+        },
+        {
+          "cell": 4,
+          "tile": 778
+        },
+        {
+          "cell": 256,
+          "tile": 779
+        },
+        {
+          "cell": 257,
+          "tile": 780
+        },
+        {
+          "cell": 258,
+          "tile": 781
+        },
+        {
+          "cell": 259,
+          "tile": 782
+        },
+        {
+          "cell": 260,
+          "tile": 783
+        },
+        {
+          "cell": 512,
+          "tile": 784
+        },
+        {
+          "cell": 513,
+          "tile": 785
+        },
+        {
+          "cell": 514,
+          "tile": 786
+        },
+        {
+          "cell": 515,
+          "tile": 787
+        },
+        {
+          "cell": 516,
+          "tile": 788
+        },
+        {
+          "cell": 768,
+          "tile": 789
+        },
+        {
+          "cell": 769,
+          "tile": 790
+        },
+        {
+          "cell": 770,
+          "tile": 791
+        },
+        {
+          "cell": 771,
+          "tile": 792
+        },
+        {
+          "cell": 772,
+          "tile": 793
+        },
+        {
+          "cell": 1024,
+          "tile": 794
+        },
+        {
+          "cell": 1025,
+          "tile": 795
+        },
+        {
+          "cell": 1026,
+          "tile": 796
+        },
+        {
+          "cell": 1027,
+          "tile": 797
+        },
+        {
+          "cell": 1028,
+          "tile": 798
+        }
+      ],
+      "collision": [
+        0,
+        1,
+        2,
+        256,
+        257,
+        258
+      ],
+      "sample_map": null,
+      "sample_record": "ff0010100004000003006200010002000000260000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000010000000000ffff00ff0000000000000000c800ffffffff0101000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 258,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 17,
+                  "y": -12,
+                  "sprite": 7289
+                },
+                {
+                  "kind": "gray",
+                  "x": 17,
+                  "y": -12,
+                  "sprite": 7289
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 258,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 17,
+                  "y": -12,
+                  "sprite": 7289
+                },
+                {
+                  "kind": "gray",
+                  "x": 17,
+                  "y": -12,
+                  "sprite": 7289
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 258,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 17,
+                  "y": -12,
+                  "sprite": 7289
+                },
+                {
+                  "kind": "gray",
+                  "x": 17,
+                  "y": -12,
+                  "sprite": 7289
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 4,
+      "width": 3,
+      "height": 4,
+      "food": 12,
+      "rock": 6,
+      "parts": 0,
+      "duration": 200,
+      "objects": [
+        {
+          "cell": 258,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 17,
+              "y": -12,
+              "sprite": 7289
+            },
+            {
+              "kind": "gray",
+              "x": 17,
+              "y": -12,
+              "sprite": 7289
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 915
+        },
+        {
+          "cell": 1,
+          "tile": 916
+        },
+        {
+          "cell": 2,
+          "tile": 917
+        },
+        {
+          "cell": 256,
+          "tile": 918
+        },
+        {
+          "cell": 257,
+          "tile": 919
+        },
+        {
+          "cell": 258,
+          "tile": 920
+        },
+        {
+          "cell": 512,
+          "tile": 921
+        },
+        {
+          "cell": 513,
+          "tile": 922
+        },
+        {
+          "cell": 514,
+          "tile": 923
+        },
+        {
+          "cell": 768,
+          "tile": 924
+        },
+        {
+          "cell": 769,
+          "tile": 925
+        },
+        {
+          "cell": 770,
+          "tile": 926
+        }
+      ],
+      "collision": [
+        1,
+        2,
+        256,
+        257,
+        258
+      ],
+      "sample_map": null,
+      "sample_record": "000010100004000004006200010005000000270000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000010000000000000001ff0000000000000000c800ffffffff0101000000000100ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 516,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 6,
+                  "y": -42,
+                  "sprite": 7178
+                },
+                {
+                  "kind": "sprite",
+                  "x": 13,
+                  "y": -14,
+                  "sprite": 7211
+                },
+                {
+                  "kind": "sprite",
+                  "x": 56,
+                  "y": -90,
+                  "sprite": 7179
+                },
+                {
+                  "kind": "sprite",
+                  "x": 92,
+                  "y": 6,
+                  "sprite": 7221
+                },
+                {
+                  "kind": "sprite",
+                  "x": 45,
+                  "y": 50,
+                  "sprite": 7219
+                },
+                {
+                  "kind": "gray",
+                  "x": 6,
+                  "y": -42,
+                  "sprite": 7178
+                },
+                {
+                  "kind": "gray",
+                  "x": 13,
+                  "y": -14,
+                  "sprite": 7211
+                },
+                {
+                  "kind": "gray",
+                  "x": 56,
+                  "y": -90,
+                  "sprite": 7179
+                },
+                {
+                  "kind": "gray",
+                  "x": 92,
+                  "y": 6,
+                  "sprite": 7221
+                },
+                {
+                  "kind": "gray",
+                  "x": 45,
+                  "y": 50,
+                  "sprite": 7219
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 516,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 6,
+                  "y": -42,
+                  "sprite": 7178
+                },
+                {
+                  "kind": "sprite",
+                  "x": 13,
+                  "y": -14,
+                  "sprite": 7211
+                },
+                {
+                  "kind": "sprite",
+                  "x": 56,
+                  "y": -90,
+                  "sprite": 7179
+                },
+                {
+                  "kind": "sprite",
+                  "x": 92,
+                  "y": 6,
+                  "sprite": 7221
+                },
+                {
+                  "kind": "sprite",
+                  "x": 45,
+                  "y": 50,
+                  "sprite": 7219
+                },
+                {
+                  "kind": "gray",
+                  "x": 6,
+                  "y": -42,
+                  "sprite": 7178
+                },
+                {
+                  "kind": "gray",
+                  "x": 13,
+                  "y": -14,
+                  "sprite": 7211
+                },
+                {
+                  "kind": "gray",
+                  "x": 56,
+                  "y": -90,
+                  "sprite": 7179
+                },
+                {
+                  "kind": "gray",
+                  "x": 92,
+                  "y": 6,
+                  "sprite": 7221
+                },
+                {
+                  "kind": "gray",
+                  "x": 45,
+                  "y": 50,
+                  "sprite": 7219
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 516,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 6,
+                  "y": -42,
+                  "sprite": 7178
+                },
+                {
+                  "kind": "sprite",
+                  "x": 13,
+                  "y": -14,
+                  "sprite": 7211
+                },
+                {
+                  "kind": "sprite",
+                  "x": 56,
+                  "y": -90,
+                  "sprite": 7179
+                },
+                {
+                  "kind": "sprite",
+                  "x": 92,
+                  "y": 6,
+                  "sprite": 7221
+                },
+                {
+                  "kind": "sprite",
+                  "x": 45,
+                  "y": 50,
+                  "sprite": 7219
+                },
+                {
+                  "kind": "gray",
+                  "x": 6,
+                  "y": -42,
+                  "sprite": 7178
+                },
+                {
+                  "kind": "gray",
+                  "x": 13,
+                  "y": -14,
+                  "sprite": 7211
+                },
+                {
+                  "kind": "gray",
+                  "x": 56,
+                  "y": -90,
+                  "sprite": 7179
+                },
+                {
+                  "kind": "gray",
+                  "x": 92,
+                  "y": 6,
+                  "sprite": 7221
+                },
+                {
+                  "kind": "gray",
+                  "x": 45,
+                  "y": 50,
+                  "sprite": 7219
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 5,
+      "width": 6,
+      "height": 6,
+      "food": 30,
+      "rock": 20,
+      "parts": 0,
+      "duration": 300,
+      "objects": [
+        {
+          "cell": 516,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 6,
+              "y": -42,
+              "sprite": 7178
+            },
+            {
+              "kind": "sprite",
+              "x": 13,
+              "y": -14,
+              "sprite": 7211
+            },
+            {
+              "kind": "sprite",
+              "x": 56,
+              "y": -90,
+              "sprite": 7179
+            },
+            {
+              "kind": "sprite",
+              "x": 92,
+              "y": 6,
+              "sprite": 7221
+            },
+            {
+              "kind": "sprite",
+              "x": 45,
+              "y": 50,
+              "sprite": 7219
+            },
+            {
+              "kind": "gray",
+              "x": 6,
+              "y": -42,
+              "sprite": 7178
+            },
+            {
+              "kind": "gray",
+              "x": 13,
+              "y": -14,
+              "sprite": 7211
+            },
+            {
+              "kind": "gray",
+              "x": 56,
+              "y": -90,
+              "sprite": 7179
+            },
+            {
+              "kind": "gray",
+              "x": 92,
+              "y": 6,
+              "sprite": 7221
+            },
+            {
+              "kind": "gray",
+              "x": 45,
+              "y": 50,
+              "sprite": 7219
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 819
+        },
+        {
+          "cell": 1,
+          "tile": 820
+        },
+        {
+          "cell": 2,
+          "tile": 821
+        },
+        {
+          "cell": 3,
+          "tile": 822
+        },
+        {
+          "cell": 4,
+          "tile": 823
+        },
+        {
+          "cell": 5,
+          "tile": 824
+        },
+        {
+          "cell": 256,
+          "tile": 825
+        },
+        {
+          "cell": 257,
+          "tile": 826
+        },
+        {
+          "cell": 258,
+          "tile": 827
+        },
+        {
+          "cell": 259,
+          "tile": 828
+        },
+        {
+          "cell": 260,
+          "tile": 829
+        },
+        {
+          "cell": 261,
+          "tile": 830
+        },
+        {
+          "cell": 512,
+          "tile": 831
+        },
+        {
+          "cell": 513,
+          "tile": 832
+        },
+        {
+          "cell": 514,
+          "tile": 833
+        },
+        {
+          "cell": 515,
+          "tile": 834
+        },
+        {
+          "cell": 516,
+          "tile": 835
+        },
+        {
+          "cell": 517,
+          "tile": 836
+        },
+        {
+          "cell": 768,
+          "tile": 837
+        },
+        {
+          "cell": 769,
+          "tile": 838
+        },
+        {
+          "cell": 770,
+          "tile": 839
+        },
+        {
+          "cell": 771,
+          "tile": 840
+        },
+        {
+          "cell": 772,
+          "tile": 841
+        },
+        {
+          "cell": 773,
+          "tile": 842
+        },
+        {
+          "cell": 1024,
+          "tile": 843
+        },
+        {
+          "cell": 1025,
+          "tile": 844
+        },
+        {
+          "cell": 1026,
+          "tile": 845
+        },
+        {
+          "cell": 1027,
+          "tile": 846
+        },
+        {
+          "cell": 1028,
+          "tile": 847
+        },
+        {
+          "cell": 1029,
+          "tile": 848
+        },
+        {
+          "cell": 1280,
+          "tile": 849
+        },
+        {
+          "cell": 1281,
+          "tile": 850
+        },
+        {
+          "cell": 1282,
+          "tile": 851
+        },
+        {
+          "cell": 1283,
+          "tile": 852
+        },
+        {
+          "cell": 1284,
+          "tile": 853
+        },
+        {
+          "cell": 1285,
+          "tile": 854
+        }
+      ],
+      "collision": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        256,
+        257,
+        258,
+        259,
+        260,
+        512,
+        513,
+        514,
+        515,
+        516
+      ],
+      "sample_map": null,
+      "sample_record": "000010100004000005006200020008000000140015000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000000000000020000000000ffff01ff0000000000000000c800ffffffff0101000000000100ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 771,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 48,
+                  "y": -1,
+                  "sprite": 7350
+                },
+                {
+                  "kind": "sprite",
+                  "x": 63,
+                  "y": 44,
+                  "sprite": 7351
+                },
+                {
+                  "kind": "sprite",
+                  "x": 123,
+                  "y": 48,
+                  "sprite": 7353
+                },
+                {
+                  "kind": "sprite",
+                  "x": 142,
+                  "y": 68,
+                  "sprite": 7355
+                },
+                {
+                  "kind": "sprite",
+                  "x": 96,
+                  "y": 96,
+                  "sprite": 7357
+                },
+                {
+                  "kind": "gray",
+                  "x": 48,
+                  "y": -1,
+                  "sprite": 7350
+                },
+                {
+                  "kind": "gray",
+                  "x": 63,
+                  "y": 44,
+                  "sprite": 7351
+                },
+                {
+                  "kind": "gray",
+                  "x": 123,
+                  "y": 48,
+                  "sprite": 7353
+                },
+                {
+                  "kind": "gray",
+                  "x": 142,
+                  "y": 68,
+                  "sprite": 7355
+                },
+                {
+                  "kind": "gray",
+                  "x": 96,
+                  "y": 96,
+                  "sprite": 7357
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 771,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 48,
+                  "y": -1,
+                  "sprite": 7350
+                },
+                {
+                  "kind": "sprite",
+                  "x": 63,
+                  "y": 44,
+                  "sprite": 7351
+                },
+                {
+                  "kind": "sprite",
+                  "x": 123,
+                  "y": 48,
+                  "sprite": 7353
+                },
+                {
+                  "kind": "sprite",
+                  "x": 142,
+                  "y": 68,
+                  "sprite": 7355
+                },
+                {
+                  "kind": "sprite",
+                  "x": 96,
+                  "y": 96,
+                  "sprite": 7357
+                },
+                {
+                  "kind": "gray",
+                  "x": 48,
+                  "y": -1,
+                  "sprite": 7350
+                },
+                {
+                  "kind": "gray",
+                  "x": 63,
+                  "y": 44,
+                  "sprite": 7351
+                },
+                {
+                  "kind": "gray",
+                  "x": 123,
+                  "y": 48,
+                  "sprite": 7353
+                },
+                {
+                  "kind": "gray",
+                  "x": 142,
+                  "y": 68,
+                  "sprite": 7355
+                },
+                {
+                  "kind": "gray",
+                  "x": 96,
+                  "y": 96,
+                  "sprite": 7357
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 771,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 48,
+                  "y": -1,
+                  "sprite": 7350
+                },
+                {
+                  "kind": "sprite",
+                  "x": 63,
+                  "y": 44,
+                  "sprite": 7351
+                },
+                {
+                  "kind": "sprite",
+                  "x": 123,
+                  "y": 48,
+                  "sprite": 7353
+                },
+                {
+                  "kind": "sprite",
+                  "x": 142,
+                  "y": 68,
+                  "sprite": 7355
+                },
+                {
+                  "kind": "sprite",
+                  "x": 96,
+                  "y": 96,
+                  "sprite": 7357
+                },
+                {
+                  "kind": "gray",
+                  "x": 48,
+                  "y": -1,
+                  "sprite": 7350
+                },
+                {
+                  "kind": "gray",
+                  "x": 63,
+                  "y": 44,
+                  "sprite": 7351
+                },
+                {
+                  "kind": "gray",
+                  "x": 123,
+                  "y": 48,
+                  "sprite": 7353
+                },
+                {
+                  "kind": "gray",
+                  "x": 142,
+                  "y": 68,
+                  "sprite": 7355
+                },
+                {
+                  "kind": "gray",
+                  "x": 96,
+                  "y": 96,
+                  "sprite": 7357
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 6,
+      "width": 6,
+      "height": 5,
+      "food": 20,
+      "rock": 20,
+      "parts": 0,
+      "duration": 500,
+      "objects": [
+        {
+          "cell": 771,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 48,
+              "y": -1,
+              "sprite": 7350
+            },
+            {
+              "kind": "sprite",
+              "x": 63,
+              "y": 44,
+              "sprite": 7351
+            },
+            {
+              "kind": "sprite",
+              "x": 123,
+              "y": 48,
+              "sprite": 7353
+            },
+            {
+              "kind": "sprite",
+              "x": 142,
+              "y": 68,
+              "sprite": 7355
+            },
+            {
+              "kind": "sprite",
+              "x": 96,
+              "y": 96,
+              "sprite": 7357
+            },
+            {
+              "kind": "gray",
+              "x": 48,
+              "y": -1,
+              "sprite": 7350
+            },
+            {
+              "kind": "gray",
+              "x": 63,
+              "y": 44,
+              "sprite": 7351
+            },
+            {
+              "kind": "gray",
+              "x": 123,
+              "y": 48,
+              "sprite": 7353
+            },
+            {
+              "kind": "gray",
+              "x": 142,
+              "y": 68,
+              "sprite": 7355
+            },
+            {
+              "kind": "gray",
+              "x": 96,
+              "y": 96,
+              "sprite": 7357
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 1045
+        },
+        {
+          "cell": 1,
+          "tile": 1046
+        },
+        {
+          "cell": 2,
+          "tile": 1047
+        },
+        {
+          "cell": 3,
+          "tile": 1048
+        },
+        {
+          "cell": 4,
+          "tile": 1049
+        },
+        {
+          "cell": 5,
+          "tile": 1050
+        },
+        {
+          "cell": 256,
+          "tile": 1051
+        },
+        {
+          "cell": 257,
+          "tile": 1052
+        },
+        {
+          "cell": 258,
+          "tile": 1053
+        },
+        {
+          "cell": 259,
+          "tile": 1054
+        },
+        {
+          "cell": 260,
+          "tile": 1055
+        },
+        {
+          "cell": 261,
+          "tile": 1056
+        },
+        {
+          "cell": 512,
+          "tile": 1057
+        },
+        {
+          "cell": 513,
+          "tile": 1058
+        },
+        {
+          "cell": 514,
+          "tile": 1059
+        },
+        {
+          "cell": 515,
+          "tile": 1060
+        },
+        {
+          "cell": 516,
+          "tile": 1061
+        },
+        {
+          "cell": 517,
+          "tile": 1062
+        },
+        {
+          "cell": 768,
+          "tile": 1063
+        },
+        {
+          "cell": 769,
+          "tile": 1064
+        },
+        {
+          "cell": 770,
+          "tile": 1065
+        },
+        {
+          "cell": 771,
+          "tile": 1066
+        },
+        {
+          "cell": 772,
+          "tile": 1067
+        },
+        {
+          "cell": 773,
+          "tile": 1068
+        },
+        {
+          "cell": 1024,
+          "tile": 1069
+        },
+        {
+          "cell": 1025,
+          "tile": 1070
+        },
+        {
+          "cell": 1026,
+          "tile": 1071
+        },
+        {
+          "cell": 1027,
+          "tile": 1072
+        },
+        {
+          "cell": 1028,
+          "tile": 1073
+        },
+        {
+          "cell": 1029,
+          "tile": 1074
+        }
+      ],
+      "collision": [
+        3,
+        257,
+        258,
+        259,
+        260,
+        513,
+        514,
+        515,
+        516,
+        517,
+        770,
+        771
+      ],
+      "sample_map": null,
+      "sample_record": "0000101000040000060062000100030000001f0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000010000000000ffff01ff0000000000000000c800ffffffff0101000000000100ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 514,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 12,
+                  "y": -12,
+                  "sprite": 7337
+                },
+                {
+                  "kind": "sprite",
+                  "x": 15,
+                  "y": 1,
+                  "sprite": 7338
+                },
+                {
+                  "kind": "sprite",
+                  "x": 18,
+                  "y": 42,
+                  "sprite": 7340
+                },
+                {
+                  "kind": "gray",
+                  "x": 12,
+                  "y": -12,
+                  "sprite": 7337
+                },
+                {
+                  "kind": "gray",
+                  "x": 15,
+                  "y": 1,
+                  "sprite": 7338
+                },
+                {
+                  "kind": "gray",
+                  "x": 18,
+                  "y": 42,
+                  "sprite": 7340
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 514,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 12,
+                  "y": -12,
+                  "sprite": 7337
+                },
+                {
+                  "kind": "sprite",
+                  "x": 15,
+                  "y": 1,
+                  "sprite": 7338
+                },
+                {
+                  "kind": "sprite",
+                  "x": 18,
+                  "y": 42,
+                  "sprite": 7340
+                },
+                {
+                  "kind": "gray",
+                  "x": 12,
+                  "y": -12,
+                  "sprite": 7337
+                },
+                {
+                  "kind": "gray",
+                  "x": 15,
+                  "y": 1,
+                  "sprite": 7338
+                },
+                {
+                  "kind": "gray",
+                  "x": 18,
+                  "y": 42,
+                  "sprite": 7340
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 514,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 12,
+                  "y": -12,
+                  "sprite": 7337
+                },
+                {
+                  "kind": "sprite",
+                  "x": 15,
+                  "y": 1,
+                  "sprite": 7338
+                },
+                {
+                  "kind": "sprite",
+                  "x": 18,
+                  "y": 42,
+                  "sprite": 7340
+                },
+                {
+                  "kind": "gray",
+                  "x": 12,
+                  "y": -12,
+                  "sprite": 7337
+                },
+                {
+                  "kind": "gray",
+                  "x": 15,
+                  "y": 1,
+                  "sprite": 7338
+                },
+                {
+                  "kind": "gray",
+                  "x": 18,
+                  "y": 42,
+                  "sprite": 7340
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 7,
+      "width": 4,
+      "height": 6,
+      "food": 24,
+      "rock": 12,
+      "parts": 0,
+      "duration": 400,
+      "objects": [
+        {
+          "cell": 514,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 12,
+              "y": -12,
+              "sprite": 7337
+            },
+            {
+              "kind": "sprite",
+              "x": 15,
+              "y": 1,
+              "sprite": 7338
+            },
+            {
+              "kind": "sprite",
+              "x": 18,
+              "y": 42,
+              "sprite": 7340
+            },
+            {
+              "kind": "gray",
+              "x": 12,
+              "y": -12,
+              "sprite": 7337
+            },
+            {
+              "kind": "gray",
+              "x": 15,
+              "y": 1,
+              "sprite": 7338
+            },
+            {
+              "kind": "gray",
+              "x": 18,
+              "y": 42,
+              "sprite": 7340
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 983
+        },
+        {
+          "cell": 1,
+          "tile": 984
+        },
+        {
+          "cell": 2,
+          "tile": 985
+        },
+        {
+          "cell": 3,
+          "tile": 986
+        },
+        {
+          "cell": 256,
+          "tile": 987
+        },
+        {
+          "cell": 257,
+          "tile": 988
+        },
+        {
+          "cell": 258,
+          "tile": 989
+        },
+        {
+          "cell": 259,
+          "tile": 990
+        },
+        {
+          "cell": 512,
+          "tile": 991
+        },
+        {
+          "cell": 513,
+          "tile": 992
+        },
+        {
+          "cell": 514,
+          "tile": 993
+        },
+        {
+          "cell": 515,
+          "tile": 994
+        },
+        {
+          "cell": 768,
+          "tile": 995
+        },
+        {
+          "cell": 769,
+          "tile": 996
+        },
+        {
+          "cell": 770,
+          "tile": 997
+        },
+        {
+          "cell": 771,
+          "tile": 998
+        },
+        {
+          "cell": 1024,
+          "tile": 999
+        },
+        {
+          "cell": 1025,
+          "tile": 1000
+        },
+        {
+          "cell": 1026,
+          "tile": 1001
+        },
+        {
+          "cell": 1027,
+          "tile": 1002
+        },
+        {
+          "cell": 1280,
+          "tile": 1003
+        },
+        {
+          "cell": 1281,
+          "tile": 1004
+        },
+        {
+          "cell": 1282,
+          "tile": 1005
+        },
+        {
+          "cell": 1283,
+          "tile": 1006
+        }
+      ],
+      "collision": [
+        0,
+        1,
+        2,
+        3,
+        256,
+        257,
+        258,
+        259,
+        512,
+        513,
+        514
+      ],
+      "sample_map": null,
+      "sample_record": "000010100004000007006200010002000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000010000000000ffff01ff0000000000000000c800ffffffff0101000000000100ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 517,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 3,
+                  "y": 2,
+                  "sprite": 7291
+                },
+                {
+                  "kind": "sprite",
+                  "x": 3,
+                  "y": 57,
+                  "sprite": 7292
+                },
+                {
+                  "kind": "sprite",
+                  "x": 140,
+                  "y": 57,
+                  "sprite": 7300
+                },
+                {
+                  "kind": "sprite",
+                  "x": 52,
+                  "y": 42,
+                  "sprite": 7308
+                },
+                {
+                  "kind": "gray",
+                  "x": 3,
+                  "y": 2,
+                  "sprite": 7291
+                },
+                {
+                  "kind": "gray",
+                  "x": 3,
+                  "y": 57,
+                  "sprite": 7292
+                },
+                {
+                  "kind": "gray",
+                  "x": 140,
+                  "y": 57,
+                  "sprite": 7300
+                },
+                {
+                  "kind": "gray",
+                  "x": 52,
+                  "y": 42,
+                  "sprite": 7308
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 517,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 3,
+                  "y": 2,
+                  "sprite": 7291
+                },
+                {
+                  "kind": "sprite",
+                  "x": 3,
+                  "y": 57,
+                  "sprite": 7292
+                },
+                {
+                  "kind": "sprite",
+                  "x": 140,
+                  "y": 57,
+                  "sprite": 7300
+                },
+                {
+                  "kind": "sprite",
+                  "x": 52,
+                  "y": 42,
+                  "sprite": 7308
+                },
+                {
+                  "kind": "gray",
+                  "x": 3,
+                  "y": 2,
+                  "sprite": 7291
+                },
+                {
+                  "kind": "gray",
+                  "x": 3,
+                  "y": 57,
+                  "sprite": 7292
+                },
+                {
+                  "kind": "gray",
+                  "x": 140,
+                  "y": 57,
+                  "sprite": 7300
+                },
+                {
+                  "kind": "gray",
+                  "x": 52,
+                  "y": 42,
+                  "sprite": 7308
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 517,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 3,
+                  "y": 2,
+                  "sprite": 7291
+                },
+                {
+                  "kind": "sprite",
+                  "x": 3,
+                  "y": 57,
+                  "sprite": 7292
+                },
+                {
+                  "kind": "sprite",
+                  "x": 140,
+                  "y": 57,
+                  "sprite": 7300
+                },
+                {
+                  "kind": "sprite",
+                  "x": 52,
+                  "y": 42,
+                  "sprite": 7308
+                },
+                {
+                  "kind": "gray",
+                  "x": 3,
+                  "y": 2,
+                  "sprite": 7291
+                },
+                {
+                  "kind": "gray",
+                  "x": 3,
+                  "y": 57,
+                  "sprite": 7292
+                },
+                {
+                  "kind": "gray",
+                  "x": 140,
+                  "y": 57,
+                  "sprite": 7300
+                },
+                {
+                  "kind": "gray",
+                  "x": 52,
+                  "y": 42,
+                  "sprite": 7308
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 8,
+      "width": 6,
+      "height": 6,
+      "food": 12,
+      "rock": 8,
+      "parts": 0,
+      "duration": 500,
+      "objects": [
+        {
+          "cell": 517,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 3,
+              "y": 2,
+              "sprite": 7291
+            },
+            {
+              "kind": "sprite",
+              "x": 3,
+              "y": 57,
+              "sprite": 7292
+            },
+            {
+              "kind": "sprite",
+              "x": 140,
+              "y": 57,
+              "sprite": 7300
+            },
+            {
+              "kind": "sprite",
+              "x": 52,
+              "y": 42,
+              "sprite": 7308
+            },
+            {
+              "kind": "gray",
+              "x": 3,
+              "y": 2,
+              "sprite": 7291
+            },
+            {
+              "kind": "gray",
+              "x": 3,
+              "y": 57,
+              "sprite": 7292
+            },
+            {
+              "kind": "gray",
+              "x": 140,
+              "y": 57,
+              "sprite": 7300
+            },
+            {
+              "kind": "gray",
+              "x": 52,
+              "y": 42,
+              "sprite": 7308
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 927
+        },
+        {
+          "cell": 1,
+          "tile": 928
+        },
+        {
+          "cell": 2,
+          "tile": 929
+        },
+        {
+          "cell": 3,
+          "tile": 930
+        },
+        {
+          "cell": 4,
+          "tile": 931
+        },
+        {
+          "cell": 5,
+          "tile": 932
+        },
+        {
+          "cell": 256,
+          "tile": 933
+        },
+        {
+          "cell": 257,
+          "tile": 934
+        },
+        {
+          "cell": 258,
+          "tile": 935
+        },
+        {
+          "cell": 259,
+          "tile": 936
+        },
+        {
+          "cell": 260,
+          "tile": 937
+        },
+        {
+          "cell": 261,
+          "tile": 938
+        },
+        {
+          "cell": 512,
+          "tile": 939
+        },
+        {
+          "cell": 513,
+          "tile": 940
+        },
+        {
+          "cell": 514,
+          "tile": 941
+        },
+        {
+          "cell": 515,
+          "tile": 942
+        },
+        {
+          "cell": 516,
+          "tile": 943
+        },
+        {
+          "cell": 517,
+          "tile": 944
+        },
+        {
+          "cell": 768,
+          "tile": 945
+        },
+        {
+          "cell": 769,
+          "tile": 946
+        },
+        {
+          "cell": 770,
+          "tile": 947
+        },
+        {
+          "cell": 771,
+          "tile": 948
+        },
+        {
+          "cell": 772,
+          "tile": 949
+        },
+        {
+          "cell": 773,
+          "tile": 950
+        },
+        {
+          "cell": 1024,
+          "tile": 951
+        },
+        {
+          "cell": 1025,
+          "tile": 952
+        },
+        {
+          "cell": 1026,
+          "tile": 953
+        },
+        {
+          "cell": 1027,
+          "tile": 954
+        },
+        {
+          "cell": 1028,
+          "tile": 955
+        },
+        {
+          "cell": 1029,
+          "tile": 956
+        },
+        {
+          "cell": 1280,
+          "tile": 957
+        },
+        {
+          "cell": 1281,
+          "tile": 958
+        },
+        {
+          "cell": 1282,
+          "tile": 959
+        },
+        {
+          "cell": 1283,
+          "tile": 960
+        },
+        {
+          "cell": 1284,
+          "tile": 961
+        },
+        {
+          "cell": 1285,
+          "tile": 962
+        }
+      ],
+      "collision": [
+        1,
+        2,
+        3,
+        4,
+        257,
+        258,
+        259,
+        260,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517
+      ],
+      "sample_map": null,
+      "sample_record": "000010100004000008006200010011000000130000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000010000000000ffff01ff0000000000000000c800ffffffff0101000000000100ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 0,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 0,
+                  "y": 0,
+                  "sprite": 7360
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 0,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 0,
+                  "y": 0,
+                  "sprite": 7360
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 0,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 0,
+                  "y": 0,
+                  "sprite": 7360
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 9,
+      "width": 1,
+      "height": 1,
+      "food": 1,
+      "rock": 2,
+      "parts": 0,
+      "duration": 15,
+      "objects": [
+        {
+          "cell": 0,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 0,
+              "y": 0,
+              "sprite": 7360
+            }
+          ]
+        }
+      ],
+      "tiles": [],
+      "collision": [
+        0
+      ],
+      "sample_map": null,
+      "sample_record": "ff0010100004000009006200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffff00ff0500000000000000c800ffffffff0101000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 257,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 1,
+                  "y": -30,
+                  "sprite": 7376
+                },
+                {
+                  "kind": "gray",
+                  "x": 1,
+                  "y": -30,
+                  "sprite": 7376
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 257,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 1,
+                  "y": -30,
+                  "sprite": 7376
+                },
+                {
+                  "kind": "gray",
+                  "x": 1,
+                  "y": -30,
+                  "sprite": 7376
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 257,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 1,
+                  "y": -30,
+                  "sprite": 7376
+                },
+                {
+                  "kind": "gray",
+                  "x": 1,
+                  "y": -30,
+                  "sprite": 7376
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 10,
+      "width": 2,
+      "height": 3,
+      "food": 10,
+      "rock": 4,
+      "parts": 0,
+      "duration": 50,
+      "objects": [
+        {
+          "cell": 257,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 1,
+              "y": -30,
+              "sprite": 7376
+            },
+            {
+              "kind": "gray",
+              "x": 1,
+              "y": -30,
+              "sprite": 7376
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 1027
+        },
+        {
+          "cell": 1,
+          "tile": 1028
+        },
+        {
+          "cell": 256,
+          "tile": 1029
+        },
+        {
+          "cell": 257,
+          "tile": 1030
+        },
+        {
+          "cell": 512,
+          "tile": 1031
+        },
+        {
+          "cell": 513,
+          "tile": 1032
+        }
+      ],
+      "collision": [
+        0,
+        1,
+        256,
+        257
+      ],
+      "sample_map": null,
+      "sample_record": "ff001010000400000a006200010001000000050000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000010000000000ffff00ff0000000000000000c800ffffffff0101000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 257,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": -12,
+                  "y": -13,
+                  "sprite": 7504
+                },
+                {
+                  "kind": "gray",
+                  "x": -12,
+                  "y": -13,
+                  "sprite": 7504
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 257,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": -12,
+                  "y": -13,
+                  "sprite": 7504
+                },
+                {
+                  "kind": "gray",
+                  "x": -12,
+                  "y": -13,
+                  "sprite": 7504
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 257,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": -12,
+                  "y": -13,
+                  "sprite": 7504
+                },
+                {
+                  "kind": "gray",
+                  "x": -12,
+                  "y": -13,
+                  "sprite": 7504
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 11,
+      "width": 2,
+      "height": 3,
+      "food": 20,
+      "rock": 6,
+      "parts": 0,
+      "duration": 100,
+      "objects": [
+        {
+          "cell": 257,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": -12,
+              "y": -13,
+              "sprite": 7504
+            },
+            {
+              "kind": "gray",
+              "x": -12,
+              "y": -13,
+              "sprite": 7504
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 1075
+        },
+        {
+          "cell": 1,
+          "tile": 1076
+        },
+        {
+          "cell": 256,
+          "tile": 1077
+        },
+        {
+          "cell": 257,
+          "tile": 1078
+        },
+        {
+          "cell": 512,
+          "tile": 1079
+        },
+        {
+          "cell": 513,
+          "tile": 1080
+        }
+      ],
+      "collision": [
+        0,
+        1,
+        256,
+        257
+      ],
+      "sample_map": null,
+      "sample_record": "ff001010000400000b006200010002000000040000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000010000000000ffff00ff0000000000000000c800ffffffff0101000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": []
+        },
+        {
+          "progress": 50,
+          "objects": []
+        },
+        {
+          "progress": 98,
+          "objects": []
+        }
+      ],
+      "type": 12,
+      "width": 1,
+      "height": 1,
+      "food": 4,
+      "rock": 8,
+      "parts": 0,
+      "duration": 60,
+      "objects": [
+        {
+          "cell": 0,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 0,
+              "y": 0,
+              "sprite": 7591,
+              "clip": {
+                "left": 0,
+                "top": 0,
+                "right": 8191,
+                "bottom": 8191
+              }
+            }
+          ]
+        }
+      ],
+      "tiles": [],
+      "collision": [],
+      "sample_map": null,
+      "sample_record": "ff001010000400000c006200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffff00ff0000000000000000c800ffffffff0101000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 259,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 5,
+                  "y": -67,
+                  "sprite": 7160
+                },
+                {
+                  "kind": "sprite",
+                  "x": 21,
+                  "y": -35,
+                  "sprite": 7161
+                },
+                {
+                  "kind": "sprite",
+                  "x": 25,
+                  "y": 30,
+                  "sprite": 7169
+                },
+                {
+                  "kind": "gray",
+                  "x": 5,
+                  "y": -67,
+                  "sprite": 7160
+                },
+                {
+                  "kind": "gray",
+                  "x": 21,
+                  "y": -35,
+                  "sprite": 7161
+                },
+                {
+                  "kind": "gray",
+                  "x": 25,
+                  "y": 30,
+                  "sprite": 7169
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 259,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 5,
+                  "y": -67,
+                  "sprite": 7160
+                },
+                {
+                  "kind": "sprite",
+                  "x": 21,
+                  "y": -35,
+                  "sprite": 7161
+                },
+                {
+                  "kind": "sprite",
+                  "x": 25,
+                  "y": 30,
+                  "sprite": 7169
+                },
+                {
+                  "kind": "gray",
+                  "x": 5,
+                  "y": -67,
+                  "sprite": 7160
+                },
+                {
+                  "kind": "gray",
+                  "x": 21,
+                  "y": -35,
+                  "sprite": 7161
+                },
+                {
+                  "kind": "gray",
+                  "x": 25,
+                  "y": 30,
+                  "sprite": 7169
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 259,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 5,
+                  "y": -67,
+                  "sprite": 7160
+                },
+                {
+                  "kind": "sprite",
+                  "x": 21,
+                  "y": -35,
+                  "sprite": 7161
+                },
+                {
+                  "kind": "sprite",
+                  "x": 25,
+                  "y": 30,
+                  "sprite": 7169
+                },
+                {
+                  "kind": "gray",
+                  "x": 5,
+                  "y": -67,
+                  "sprite": 7160
+                },
+                {
+                  "kind": "gray",
+                  "x": 21,
+                  "y": -35,
+                  "sprite": 7161
+                },
+                {
+                  "kind": "gray",
+                  "x": 25,
+                  "y": 30,
+                  "sprite": 7169
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 13,
+      "width": 4,
+      "height": 5,
+      "food": 20,
+      "rock": 6,
+      "parts": 0,
+      "duration": 350,
+      "objects": [
+        {
+          "cell": 259,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 5,
+              "y": -67,
+              "sprite": 7160
+            },
+            {
+              "kind": "sprite",
+              "x": 21,
+              "y": -35,
+              "sprite": 7161
+            },
+            {
+              "kind": "sprite",
+              "x": 25,
+              "y": 30,
+              "sprite": 7169
+            },
+            {
+              "kind": "gray",
+              "x": 5,
+              "y": -67,
+              "sprite": 7160
+            },
+            {
+              "kind": "gray",
+              "x": 21,
+              "y": -35,
+              "sprite": 7161
+            },
+            {
+              "kind": "gray",
+              "x": 25,
+              "y": 30,
+              "sprite": 7169
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 799
+        },
+        {
+          "cell": 1,
+          "tile": 800
+        },
+        {
+          "cell": 2,
+          "tile": 801
+        },
+        {
+          "cell": 3,
+          "tile": 802
+        },
+        {
+          "cell": 256,
+          "tile": 803
+        },
+        {
+          "cell": 257,
+          "tile": 804
+        },
+        {
+          "cell": 258,
+          "tile": 805
+        },
+        {
+          "cell": 259,
+          "tile": 806
+        },
+        {
+          "cell": 512,
+          "tile": 807
+        },
+        {
+          "cell": 513,
+          "tile": 808
+        },
+        {
+          "cell": 514,
+          "tile": 809
+        },
+        {
+          "cell": 515,
+          "tile": 810
+        },
+        {
+          "cell": 768,
+          "tile": 811
+        },
+        {
+          "cell": 769,
+          "tile": 812
+        },
+        {
+          "cell": 770,
+          "tile": 813
+        },
+        {
+          "cell": 771,
+          "tile": 814
+        },
+        {
+          "cell": 1024,
+          "tile": 815
+        },
+        {
+          "cell": 1025,
+          "tile": 816
+        },
+        {
+          "cell": 1026,
+          "tile": 817
+        },
+        {
+          "cell": 1027,
+          "tile": 818
+        }
+      ],
+      "collision": [
+        0,
+        1,
+        2,
+        3,
+        256,
+        257,
+        258,
+        259
+      ],
+      "sample_map": null,
+      "sample_record": "00001010000400000d006200010006000000230000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000010000000000ffff01ff0000000000000000c800ffffffff0101000000000100ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 259,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 22,
+                  "y": -15,
+                  "sprite": 7230
+                },
+                {
+                  "kind": "sprite",
+                  "x": 62,
+                  "y": 16,
+                  "sprite": 7231
+                },
+                {
+                  "kind": "sprite",
+                  "x": 31,
+                  "y": 31,
+                  "sprite": 7239
+                },
+                {
+                  "kind": "sprite",
+                  "x": 90,
+                  "y": -12,
+                  "sprite": 7247
+                },
+                {
+                  "kind": "gray",
+                  "x": 22,
+                  "y": -15,
+                  "sprite": 7230
+                },
+                {
+                  "kind": "gray",
+                  "x": 62,
+                  "y": 16,
+                  "sprite": 7231
+                },
+                {
+                  "kind": "gray",
+                  "x": 31,
+                  "y": 31,
+                  "sprite": 7239
+                },
+                {
+                  "kind": "gray",
+                  "x": 90,
+                  "y": -12,
+                  "sprite": 7247
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 259,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 22,
+                  "y": -15,
+                  "sprite": 7230
+                },
+                {
+                  "kind": "sprite",
+                  "x": 62,
+                  "y": 16,
+                  "sprite": 7231
+                },
+                {
+                  "kind": "sprite",
+                  "x": 31,
+                  "y": 31,
+                  "sprite": 7239
+                },
+                {
+                  "kind": "sprite",
+                  "x": 90,
+                  "y": -12,
+                  "sprite": 7247
+                },
+                {
+                  "kind": "gray",
+                  "x": 22,
+                  "y": -15,
+                  "sprite": 7230
+                },
+                {
+                  "kind": "gray",
+                  "x": 62,
+                  "y": 16,
+                  "sprite": 7231
+                },
+                {
+                  "kind": "gray",
+                  "x": 31,
+                  "y": 31,
+                  "sprite": 7239
+                },
+                {
+                  "kind": "gray",
+                  "x": 90,
+                  "y": -12,
+                  "sprite": 7247
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 259,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 22,
+                  "y": -15,
+                  "sprite": 7230
+                },
+                {
+                  "kind": "sprite",
+                  "x": 62,
+                  "y": 16,
+                  "sprite": 7231
+                },
+                {
+                  "kind": "sprite",
+                  "x": 31,
+                  "y": 31,
+                  "sprite": 7239
+                },
+                {
+                  "kind": "sprite",
+                  "x": 90,
+                  "y": -12,
+                  "sprite": 7247
+                },
+                {
+                  "kind": "gray",
+                  "x": 22,
+                  "y": -15,
+                  "sprite": 7230
+                },
+                {
+                  "kind": "gray",
+                  "x": 62,
+                  "y": 16,
+                  "sprite": 7231
+                },
+                {
+                  "kind": "gray",
+                  "x": 31,
+                  "y": 31,
+                  "sprite": 7239
+                },
+                {
+                  "kind": "gray",
+                  "x": 90,
+                  "y": -12,
+                  "sprite": 7247
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 14,
+      "width": 4,
+      "height": 6,
+      "food": 24,
+      "rock": 16,
+      "parts": 0,
+      "duration": 350,
+      "objects": [
+        {
+          "cell": 259,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 22,
+              "y": -15,
+              "sprite": 7230
+            },
+            {
+              "kind": "sprite",
+              "x": 62,
+              "y": 16,
+              "sprite": 7231
+            },
+            {
+              "kind": "sprite",
+              "x": 31,
+              "y": 31,
+              "sprite": 7239
+            },
+            {
+              "kind": "sprite",
+              "x": 90,
+              "y": -12,
+              "sprite": 7247
+            },
+            {
+              "kind": "gray",
+              "x": 22,
+              "y": -15,
+              "sprite": 7230
+            },
+            {
+              "kind": "gray",
+              "x": 62,
+              "y": 16,
+              "sprite": 7231
+            },
+            {
+              "kind": "gray",
+              "x": 31,
+              "y": 31,
+              "sprite": 7239
+            },
+            {
+              "kind": "gray",
+              "x": 90,
+              "y": -12,
+              "sprite": 7247
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 855
+        },
+        {
+          "cell": 1,
+          "tile": 856
+        },
+        {
+          "cell": 2,
+          "tile": 857
+        },
+        {
+          "cell": 3,
+          "tile": 858
+        },
+        {
+          "cell": 256,
+          "tile": 859
+        },
+        {
+          "cell": 257,
+          "tile": 860
+        },
+        {
+          "cell": 258,
+          "tile": 861
+        },
+        {
+          "cell": 259,
+          "tile": 862
+        },
+        {
+          "cell": 512,
+          "tile": 863
+        },
+        {
+          "cell": 513,
+          "tile": 864
+        },
+        {
+          "cell": 514,
+          "tile": 865
+        },
+        {
+          "cell": 515,
+          "tile": 866
+        },
+        {
+          "cell": 768,
+          "tile": 867
+        },
+        {
+          "cell": 769,
+          "tile": 868
+        },
+        {
+          "cell": 770,
+          "tile": 869
+        },
+        {
+          "cell": 771,
+          "tile": 870
+        },
+        {
+          "cell": 1024,
+          "tile": 871
+        },
+        {
+          "cell": 1025,
+          "tile": 872
+        },
+        {
+          "cell": 1026,
+          "tile": 873
+        },
+        {
+          "cell": 1027,
+          "tile": 874
+        },
+        {
+          "cell": 1280,
+          "tile": 875
+        },
+        {
+          "cell": 1281,
+          "tile": 876
+        },
+        {
+          "cell": 1282,
+          "tile": 877
+        },
+        {
+          "cell": 1283,
+          "tile": 878
+        }
+      ],
+      "collision": [
+        1,
+        2,
+        3,
+        257,
+        258,
+        259,
+        513,
+        514
+      ],
+      "sample_map": null,
+      "sample_record": "00001010000400000e006200010004000000110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000010000000000ffff01ff0000000000000000c800ffffffff0101000000000100ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 515,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 35,
+                  "y": -1,
+                  "sprite": 7317
+                },
+                {
+                  "kind": "sprite",
+                  "x": 36,
+                  "y": 39,
+                  "sprite": 7320
+                },
+                {
+                  "kind": "gray",
+                  "x": 35,
+                  "y": -1,
+                  "sprite": 7317
+                },
+                {
+                  "kind": "gray",
+                  "x": 36,
+                  "y": 39,
+                  "sprite": 7320
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 515,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 35,
+                  "y": -1,
+                  "sprite": 7317
+                },
+                {
+                  "kind": "sprite",
+                  "x": 36,
+                  "y": 39,
+                  "sprite": 7320
+                },
+                {
+                  "kind": "gray",
+                  "x": 35,
+                  "y": -1,
+                  "sprite": 7317
+                },
+                {
+                  "kind": "gray",
+                  "x": 36,
+                  "y": 39,
+                  "sprite": 7320
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 515,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 35,
+                  "y": -1,
+                  "sprite": 7317
+                },
+                {
+                  "kind": "sprite",
+                  "x": 36,
+                  "y": 39,
+                  "sprite": 7320
+                },
+                {
+                  "kind": "gray",
+                  "x": 35,
+                  "y": -1,
+                  "sprite": 7317
+                },
+                {
+                  "kind": "gray",
+                  "x": 36,
+                  "y": 39,
+                  "sprite": 7320
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 15,
+      "width": 4,
+      "height": 5,
+      "food": 20,
+      "rock": 4,
+      "parts": 0,
+      "duration": 400,
+      "objects": [
+        {
+          "cell": 515,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 35,
+              "y": -1,
+              "sprite": 7317
+            },
+            {
+              "kind": "sprite",
+              "x": 36,
+              "y": 39,
+              "sprite": 7320
+            },
+            {
+              "kind": "gray",
+              "x": 35,
+              "y": -1,
+              "sprite": 7317
+            },
+            {
+              "kind": "gray",
+              "x": 36,
+              "y": 39,
+              "sprite": 7320
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 963
+        },
+        {
+          "cell": 1,
+          "tile": 964
+        },
+        {
+          "cell": 2,
+          "tile": 965
+        },
+        {
+          "cell": 3,
+          "tile": 966
+        },
+        {
+          "cell": 256,
+          "tile": 967
+        },
+        {
+          "cell": 257,
+          "tile": 968
+        },
+        {
+          "cell": 258,
+          "tile": 969
+        },
+        {
+          "cell": 259,
+          "tile": 970
+        },
+        {
+          "cell": 512,
+          "tile": 971
+        },
+        {
+          "cell": 513,
+          "tile": 972
+        },
+        {
+          "cell": 514,
+          "tile": 973
+        },
+        {
+          "cell": 515,
+          "tile": 974
+        },
+        {
+          "cell": 768,
+          "tile": 975
+        },
+        {
+          "cell": 769,
+          "tile": 976
+        },
+        {
+          "cell": 770,
+          "tile": 977
+        },
+        {
+          "cell": 771,
+          "tile": 978
+        },
+        {
+          "cell": 1024,
+          "tile": 979
+        },
+        {
+          "cell": 1025,
+          "tile": 980
+        },
+        {
+          "cell": 1026,
+          "tile": 981
+        },
+        {
+          "cell": 1027,
+          "tile": 982
+        }
+      ],
+      "collision": [
+        1,
+        2,
+        3,
+        257,
+        258,
+        259,
+        513,
+        514,
+        515,
+        770
+      ],
+      "sample_map": null,
+      "sample_record": "00001010000400000f0062000100060000001e0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000010000000000ffff01ff0000000000000000c800ffffffff0101000000000100ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 515,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 12,
+                  "y": -9,
+                  "sprite": 7251
+                },
+                {
+                  "kind": "sprite",
+                  "x": 14,
+                  "y": 19,
+                  "sprite": 7252
+                },
+                {
+                  "kind": "sprite",
+                  "x": 98,
+                  "y": 28,
+                  "sprite": 7260
+                },
+                {
+                  "kind": "gray",
+                  "x": 12,
+                  "y": -9,
+                  "sprite": 7251
+                },
+                {
+                  "kind": "gray",
+                  "x": 14,
+                  "y": 19,
+                  "sprite": 7252
+                },
+                {
+                  "kind": "gray",
+                  "x": 98,
+                  "y": 28,
+                  "sprite": 7260
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 515,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 12,
+                  "y": -9,
+                  "sprite": 7251
+                },
+                {
+                  "kind": "sprite",
+                  "x": 14,
+                  "y": 19,
+                  "sprite": 7252
+                },
+                {
+                  "kind": "sprite",
+                  "x": 98,
+                  "y": 28,
+                  "sprite": 7260
+                },
+                {
+                  "kind": "gray",
+                  "x": 12,
+                  "y": -9,
+                  "sprite": 7251
+                },
+                {
+                  "kind": "gray",
+                  "x": 14,
+                  "y": 19,
+                  "sprite": 7252
+                },
+                {
+                  "kind": "gray",
+                  "x": 98,
+                  "y": 28,
+                  "sprite": 7260
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 515,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 12,
+                  "y": -9,
+                  "sprite": 7251
+                },
+                {
+                  "kind": "sprite",
+                  "x": 14,
+                  "y": 19,
+                  "sprite": 7252
+                },
+                {
+                  "kind": "sprite",
+                  "x": 98,
+                  "y": 28,
+                  "sprite": 7260
+                },
+                {
+                  "kind": "gray",
+                  "x": 12,
+                  "y": -9,
+                  "sprite": 7251
+                },
+                {
+                  "kind": "gray",
+                  "x": 14,
+                  "y": 19,
+                  "sprite": 7252
+                },
+                {
+                  "kind": "gray",
+                  "x": 98,
+                  "y": 28,
+                  "sprite": 7260
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 16,
+      "width": 4,
+      "height": 5,
+      "food": 12,
+      "rock": 8,
+      "parts": 0,
+      "duration": 300,
+      "objects": [
+        {
+          "cell": 515,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 12,
+              "y": -9,
+              "sprite": 7251
+            },
+            {
+              "kind": "sprite",
+              "x": 14,
+              "y": 19,
+              "sprite": 7252
+            },
+            {
+              "kind": "sprite",
+              "x": 98,
+              "y": 28,
+              "sprite": 7260
+            },
+            {
+              "kind": "gray",
+              "x": 12,
+              "y": -9,
+              "sprite": 7251
+            },
+            {
+              "kind": "gray",
+              "x": 14,
+              "y": 19,
+              "sprite": 7252
+            },
+            {
+              "kind": "gray",
+              "x": 98,
+              "y": 28,
+              "sprite": 7260
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 879
+        },
+        {
+          "cell": 1,
+          "tile": 880
+        },
+        {
+          "cell": 2,
+          "tile": 881
+        },
+        {
+          "cell": 3,
+          "tile": 882
+        },
+        {
+          "cell": 256,
+          "tile": 883
+        },
+        {
+          "cell": 257,
+          "tile": 884
+        },
+        {
+          "cell": 258,
+          "tile": 885
+        },
+        {
+          "cell": 259,
+          "tile": 886
+        },
+        {
+          "cell": 512,
+          "tile": 887
+        },
+        {
+          "cell": 513,
+          "tile": 888
+        },
+        {
+          "cell": 514,
+          "tile": 889
+        },
+        {
+          "cell": 515,
+          "tile": 890
+        },
+        {
+          "cell": 768,
+          "tile": 891
+        },
+        {
+          "cell": 769,
+          "tile": 892
+        },
+        {
+          "cell": 770,
+          "tile": 893
+        },
+        {
+          "cell": 771,
+          "tile": 894
+        },
+        {
+          "cell": 1024,
+          "tile": 895
+        },
+        {
+          "cell": 1025,
+          "tile": 896
+        },
+        {
+          "cell": 1026,
+          "tile": 897
+        },
+        {
+          "cell": 1027,
+          "tile": 898
+        }
+      ],
+      "collision": [
+        256,
+        257,
+        258,
+        259,
+        512,
+        513,
+        514,
+        515
+      ],
+      "sample_map": null,
+      "sample_record": "0000101000040000100062000100020000002c0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000010000000000ffff01ff0000000000000000c800ffff00000101000000000100ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 1,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 26,
+                  "y": -33,
+                  "sprite": 7286
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 1,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 26,
+                  "y": -33,
+                  "sprite": 7286
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 1,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 26,
+                  "y": -33,
+                  "sprite": 7286
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 17,
+      "width": 2,
+      "height": 2,
+      "food": 16,
+      "rock": 6,
+      "parts": 0,
+      "duration": 300,
+      "objects": [
+        {
+          "cell": 1,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 26,
+              "y": -33,
+              "sprite": 7286
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 911
+        },
+        {
+          "cell": 1,
+          "tile": 912
+        },
+        {
+          "cell": 256,
+          "tile": 913
+        },
+        {
+          "cell": 257,
+          "tile": 914
+        }
+      ],
+      "collision": [
+        1
+      ],
+      "sample_map": null,
+      "sample_record": "ff0010100004000011006200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffff00ff0000000000000000c800ffffffff0101000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 513,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 4,
+                  "y": -4,
+                  "sprite": 7343
+                },
+                {
+                  "kind": "sprite",
+                  "x": 44,
+                  "y": 22,
+                  "sprite": 7344
+                },
+                {
+                  "kind": "gray",
+                  "x": 4,
+                  "y": -4,
+                  "sprite": 7343
+                },
+                {
+                  "kind": "gray",
+                  "x": 44,
+                  "y": 22,
+                  "sprite": 7344
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 513,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 4,
+                  "y": -4,
+                  "sprite": 7343
+                },
+                {
+                  "kind": "sprite",
+                  "x": 44,
+                  "y": 22,
+                  "sprite": 7344
+                },
+                {
+                  "kind": "gray",
+                  "x": 4,
+                  "y": -4,
+                  "sprite": 7343
+                },
+                {
+                  "kind": "gray",
+                  "x": 44,
+                  "y": 22,
+                  "sprite": 7344
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 513,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 4,
+                  "y": -4,
+                  "sprite": 7343
+                },
+                {
+                  "kind": "sprite",
+                  "x": 44,
+                  "y": 22,
+                  "sprite": 7344
+                },
+                {
+                  "kind": "gray",
+                  "x": 4,
+                  "y": -4,
+                  "sprite": 7343
+                },
+                {
+                  "kind": "gray",
+                  "x": 44,
+                  "y": 22,
+                  "sprite": 7344
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 18,
+      "width": 4,
+      "height": 5,
+      "food": 20,
+      "rock": 8,
+      "parts": 0,
+      "duration": 300,
+      "objects": [
+        {
+          "cell": 513,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 4,
+              "y": -4,
+              "sprite": 7343
+            },
+            {
+              "kind": "sprite",
+              "x": 44,
+              "y": 22,
+              "sprite": 7344
+            },
+            {
+              "kind": "gray",
+              "x": 4,
+              "y": -4,
+              "sprite": 7343
+            },
+            {
+              "kind": "gray",
+              "x": 44,
+              "y": 22,
+              "sprite": 7344
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 1007
+        },
+        {
+          "cell": 1,
+          "tile": 1008
+        },
+        {
+          "cell": 2,
+          "tile": 1009
+        },
+        {
+          "cell": 3,
+          "tile": 1010
+        },
+        {
+          "cell": 256,
+          "tile": 1011
+        },
+        {
+          "cell": 257,
+          "tile": 1012
+        },
+        {
+          "cell": 258,
+          "tile": 1013
+        },
+        {
+          "cell": 259,
+          "tile": 1014
+        },
+        {
+          "cell": 512,
+          "tile": 1015
+        },
+        {
+          "cell": 513,
+          "tile": 1016
+        },
+        {
+          "cell": 514,
+          "tile": 1017
+        },
+        {
+          "cell": 515,
+          "tile": 1018
+        },
+        {
+          "cell": 768,
+          "tile": 1019
+        },
+        {
+          "cell": 769,
+          "tile": 1020
+        },
+        {
+          "cell": 770,
+          "tile": 1021
+        },
+        {
+          "cell": 771,
+          "tile": 1022
+        },
+        {
+          "cell": 1024,
+          "tile": 1023
+        },
+        {
+          "cell": 1025,
+          "tile": 1024
+        },
+        {
+          "cell": 1026,
+          "tile": 1025
+        },
+        {
+          "cell": 1027,
+          "tile": 1026
+        }
+      ],
+      "collision": [
+        0,
+        1,
+        2,
+        3,
+        256,
+        257,
+        258,
+        259,
+        512,
+        513,
+        514,
+        515
+      ],
+      "sample_map": null,
+      "sample_record": "ff0010100004000012006200000004000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffff00ff0000000000000000c800ffffffff0101000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 258,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 17,
+                  "y": -14,
+                  "sprite": 7269
+                },
+                {
+                  "kind": "sprite",
+                  "x": 17,
+                  "y": 27,
+                  "sprite": 7270
+                },
+                {
+                  "kind": "gray",
+                  "x": 17,
+                  "y": -14,
+                  "sprite": 7269
+                },
+                {
+                  "kind": "gray",
+                  "x": 17,
+                  "y": 27,
+                  "sprite": 7270
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 258,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 17,
+                  "y": -14,
+                  "sprite": 7269
+                },
+                {
+                  "kind": "sprite",
+                  "x": 17,
+                  "y": 27,
+                  "sprite": 7270
+                },
+                {
+                  "kind": "gray",
+                  "x": 17,
+                  "y": -14,
+                  "sprite": 7269
+                },
+                {
+                  "kind": "gray",
+                  "x": 17,
+                  "y": 27,
+                  "sprite": 7270
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 258,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 17,
+                  "y": -14,
+                  "sprite": 7269
+                },
+                {
+                  "kind": "sprite",
+                  "x": 17,
+                  "y": 27,
+                  "sprite": 7270
+                },
+                {
+                  "kind": "gray",
+                  "x": 17,
+                  "y": -14,
+                  "sprite": 7269
+                },
+                {
+                  "kind": "gray",
+                  "x": 17,
+                  "y": 27,
+                  "sprite": 7270
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 19,
+      "width": 3,
+      "height": 4,
+      "food": 10,
+      "rock": 4,
+      "parts": 0,
+      "duration": 300,
+      "objects": [
+        {
+          "cell": 258,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 17,
+              "y": -14,
+              "sprite": 7269
+            },
+            {
+              "kind": "sprite",
+              "x": 17,
+              "y": 27,
+              "sprite": 7270
+            },
+            {
+              "kind": "gray",
+              "x": 17,
+              "y": -14,
+              "sprite": 7269
+            },
+            {
+              "kind": "gray",
+              "x": 17,
+              "y": 27,
+              "sprite": 7270
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 899
+        },
+        {
+          "cell": 1,
+          "tile": 900
+        },
+        {
+          "cell": 2,
+          "tile": 901
+        },
+        {
+          "cell": 256,
+          "tile": 902
+        },
+        {
+          "cell": 257,
+          "tile": 903
+        },
+        {
+          "cell": 258,
+          "tile": 904
+        },
+        {
+          "cell": 512,
+          "tile": 905
+        },
+        {
+          "cell": 513,
+          "tile": 906
+        },
+        {
+          "cell": 514,
+          "tile": 907
+        },
+        {
+          "cell": 768,
+          "tile": 908
+        },
+        {
+          "cell": 769,
+          "tile": 909
+        },
+        {
+          "cell": 770,
+          "tile": 910
+        }
+      ],
+      "collision": [
+        0,
+        1,
+        2,
+        256,
+        257,
+        258
+      ],
+      "sample_map": null,
+      "sample_record": "000010100004000013006200010007000000210000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000010000000000ffff01ff0000000000000000c800ffffffff0101000000000100ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000ffff0000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 515,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 35,
+                  "y": -1,
+                  "sprite": 7317
+                },
+                {
+                  "kind": "sprite",
+                  "x": 45,
+                  "y": -42,
+                  "sprite": 7318
+                },
+                {
+                  "kind": "sprite",
+                  "x": 36,
+                  "y": 39,
+                  "sprite": 7320
+                },
+                {
+                  "kind": "gray",
+                  "x": 35,
+                  "y": -1,
+                  "sprite": 7317
+                },
+                {
+                  "kind": "gray",
+                  "x": 36,
+                  "y": 39,
+                  "sprite": 7320
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 515,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 35,
+                  "y": -1,
+                  "sprite": 7317
+                },
+                {
+                  "kind": "sprite",
+                  "x": 45,
+                  "y": -42,
+                  "sprite": 7318
+                },
+                {
+                  "kind": "sprite",
+                  "x": 36,
+                  "y": 39,
+                  "sprite": 7320
+                },
+                {
+                  "kind": "gray",
+                  "x": 35,
+                  "y": -1,
+                  "sprite": 7317
+                },
+                {
+                  "kind": "gray",
+                  "x": 36,
+                  "y": 39,
+                  "sprite": 7320
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 515,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 35,
+                  "y": -1,
+                  "sprite": 7317
+                },
+                {
+                  "kind": "sprite",
+                  "x": 45,
+                  "y": -42,
+                  "sprite": 7318
+                },
+                {
+                  "kind": "sprite",
+                  "x": 36,
+                  "y": 39,
+                  "sprite": 7320
+                },
+                {
+                  "kind": "gray",
+                  "x": 35,
+                  "y": -1,
+                  "sprite": 7317
+                },
+                {
+                  "kind": "gray",
+                  "x": 36,
+                  "y": 39,
+                  "sprite": 7320
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 20,
+      "width": 4,
+      "height": 5,
+      "food": 20,
+      "rock": 4,
+      "parts": 0,
+      "duration": 400,
+      "objects": [
+        {
+          "cell": 515,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 35,
+              "y": -1,
+              "sprite": 7317
+            },
+            {
+              "kind": "sprite",
+              "x": 45,
+              "y": -42,
+              "sprite": 7318
+            },
+            {
+              "kind": "sprite",
+              "x": 36,
+              "y": 39,
+              "sprite": 7320
+            },
+            {
+              "kind": "gray",
+              "x": 35,
+              "y": -1,
+              "sprite": 7317
+            },
+            {
+              "kind": "gray",
+              "x": 36,
+              "y": 39,
+              "sprite": 7320
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 963
+        },
+        {
+          "cell": 1,
+          "tile": 964
+        },
+        {
+          "cell": 2,
+          "tile": 965
+        },
+        {
+          "cell": 3,
+          "tile": 966
+        },
+        {
+          "cell": 256,
+          "tile": 967
+        },
+        {
+          "cell": 257,
+          "tile": 968
+        },
+        {
+          "cell": 258,
+          "tile": 969
+        },
+        {
+          "cell": 259,
+          "tile": 970
+        },
+        {
+          "cell": 512,
+          "tile": 971
+        },
+        {
+          "cell": 513,
+          "tile": 972
+        },
+        {
+          "cell": 514,
+          "tile": 973
+        },
+        {
+          "cell": 515,
+          "tile": 974
+        },
+        {
+          "cell": 768,
+          "tile": 975
+        },
+        {
+          "cell": 769,
+          "tile": 976
+        },
+        {
+          "cell": 770,
+          "tile": 977
+        },
+        {
+          "cell": 771,
+          "tile": 978
+        },
+        {
+          "cell": 1024,
+          "tile": 979
+        },
+        {
+          "cell": 1025,
+          "tile": 980
+        },
+        {
+          "cell": 1026,
+          "tile": 981
+        },
+        {
+          "cell": 1027,
+          "tile": 982
+        }
+      ],
+      "collision": [
+        0,
+        1,
+        2,
+        3,
+        256,
+        257,
+        258,
+        259,
+        512,
+        513,
+        514,
+        515,
+        768,
+        769,
+        770,
+        771,
+        1024,
+        1025,
+        1026,
+        1027
+      ],
+      "sample_map": null,
+      "sample_record": "000010100004000014006200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "stages": [
+        {
+          "progress": 0,
+          "objects": [
+            {
+              "cell": 258,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 20,
+                  "y": -13,
+                  "sprite": 7568
+                },
+                {
+                  "kind": "gray",
+                  "x": 20,
+                  "y": -13,
+                  "sprite": 7568
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 50,
+          "objects": [
+            {
+              "cell": 258,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 20,
+                  "y": -13,
+                  "sprite": 7568
+                },
+                {
+                  "kind": "gray",
+                  "x": 20,
+                  "y": -13,
+                  "sprite": 7568
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progress": 98,
+          "objects": [
+            {
+              "cell": 258,
+              "commands": [
+                {
+                  "kind": "sprite",
+                  "x": 20,
+                  "y": -13,
+                  "sprite": 7568
+                },
+                {
+                  "kind": "gray",
+                  "x": 20,
+                  "y": -13,
+                  "sprite": 7568
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": 21,
+      "width": 3,
+      "height": 4,
+      "food": 10,
+      "rock": 4,
+      "parts": 0,
+      "duration": 300,
+      "objects": [
+        {
+          "cell": 258,
+          "commands": [
+            {
+              "kind": "sprite",
+              "x": 20,
+              "y": -13,
+              "sprite": 7568
+            },
+            {
+              "kind": "gray",
+              "x": 20,
+              "y": -13,
+              "sprite": 7568
+            }
+          ]
+        }
+      ],
+      "tiles": [
+        {
+          "cell": 0,
+          "tile": 1033
+        },
+        {
+          "cell": 1,
+          "tile": 1034
+        },
+        {
+          "cell": 2,
+          "tile": 1035
+        },
+        {
+          "cell": 256,
+          "tile": 1036
+        },
+        {
+          "cell": 257,
+          "tile": 1037
+        },
+        {
+          "cell": 258,
+          "tile": 1038
+        },
+        {
+          "cell": 512,
+          "tile": 1039
+        },
+        {
+          "cell": 513,
+          "tile": 1040
+        },
+        {
+          "cell": 514,
+          "tile": 1041
+        },
+        {
+          "cell": 768,
+          "tile": 1042
+        },
+        {
+          "cell": 769,
+          "tile": 1043
+        },
+        {
+          "cell": 770,
+          "tile": 1044
+        }
+      ],
+      "collision": [
+        0,
+        1,
+        2,
+        256,
+        257,
+        258
+      ],
+      "sample_map": null,
+      "sample_record": "ff0010100004000015006200000006000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffff00ff0000000000000000c800ffffffff0101000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffff0000"
+    }
+  ]
+}

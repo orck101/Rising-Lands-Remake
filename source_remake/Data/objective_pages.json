@@ -1,0 +1,907 @@
+[
+  {
+    "Map": "MONDE01.ETA",
+    "Pages": [
+      [
+        "- PROLOGUE -",
+        "",
+        "This chronicle is unlike any other:",
+        "It spans centuries and traces the",
+        "entire history, from the distant past",
+        "to the present... and the possible",
+        "future, of your world.",
+        "Conferred to the Leader of every",
+        "clan, it will show you what needs",
+        "to be done.",
+        "",
+        "",
+        "Read this journal with care, it will",
+        "serve as your only guide through a",
+        "perilous quest.",
+        "",
+        "",
+        ".../..."
+      ],
+      [
+        "CHAPTER I",
+        "IN THE BEGINNING:",
+        "THE DAWN OF THE",
+        "NEW WORLD",
+        "",
+        "- Mission 1 -",
+        "",
+        "Greetings mysterious visitor.",
+        "I hope you're not afraid... or do I",
+        "detect an anxious tear in your eye?",
+        "A word of warning: this venture is",
+        "not for the faint of heart!",
+        "",
+        "This world you are about to",
+        "uncover, and the challenges you",
+        "will meet there, will require you to",
+        "fight fearlessly... and intelligently.",
+        ".../..."
+      ],
+      [
+        "But I'm getting ahead of myself.",
+        "For the moment, everything is just",
+        "fine!... Aside from the fact that",
+        "your clan desperately lacks food",
+        "and ressources... and the Assassins",
+        "Guild terrorizing the region isn't",
+        "making life any easier!",
+        "",
+        "It might be a good idea to amass",
+        "a reserve of food and building",
+        "materials.",
+        "",
+        "",
+        "Synopsis:",
+        "Secure a cave",
+        "Stock 50 sacks of food and",
+        "50 sacks of stones in the cave",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE02.ETA",
+    "Pages": [
+      [
+        "- Mission 2 -",
+        "",
+        "Well, what do you know?",
+        "You're back! I guess I was right",
+        "about you, after all. ",
+        "But I'm still not convinced that",
+        "your diplomatic skills are up to par!",
+        "At one point, I thought your",
+        "indecision would put and end to",
+        "our brief friendship. This world is",
+        "now yours, and the only way",
+        "forward will be to succeed. If you",
+        "are to do so, it is crucial that your",
+        "pitiful army learn the meaning of",
+        "combat.",
+        "But let's get to the point...",
+        "",
+        ".../..."
+      ],
+      [
+        "",
+        "",
+        "Synopsis:",
+        "Build a Sanctuary.",
+        "Build a Barrack.",
+        "Stock 50 sacks of food.",
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE03.ETA",
+    "Pages": [
+      [
+        "- Mission 3 -",
+        "",
+        "Things aren't as simple as they",
+        "seem in the realm you now",
+        "possess!",
+        "",
+        "I can't help but notice that your",
+        "populace is developing rather",
+        "slowly... If you intend to get",
+        "anywhere in this life, there's an vital",
+        "element you can't afford to neglect:",
+        "KNOWLEDGE!",
+        "",
+        "It may not seem important in the",
+        "grand scope of things, but",
+        "knowledge can bring about",
+        "impressive results.",
+        ".../..."
+      ],
+      [
+        "To make the best use of your time,",
+        "I advise you to build a Laboratory",
+        "to carry out your research.",
+        "As you may have noticed, your",
+        "cave days are over!",
+        "",
+        "",
+        "Synopsis:",
+        "Build a Laboratory.",
+        "Develop a technology.",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE04.ETA",
+    "Pages": [
+      [
+        "- Mission 4 -",
+        "",
+        "You've made your first discovery?",
+        "",
+        "I wouldn't be so cocky if I were",
+        "you: a confidential report ",
+        "(yes, I have my connections...)",
+        "informed me that you're not alone",
+        "any more.",
+        "A clan not unlike your own is",
+        "established nearby.",
+        "",
+        "The first encounter will probably be",
+        "rough, but it's possible that this",
+        "confrontation could work to the",
+        "advantage of both populations.",
+        "",
+        ".../..."
+      ],
+      [
+        "",
+        "",
+        "Synopsis:",
+        "Build a Market.",
+        "Train a Messenger to forge an",
+        "alliance with the Red Clan.",
+        "Destroy the rival Clan if no alliance",
+        "is possible.",
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE05.ETA",
+    "Pages": [
+      [
+        "- Mission 5 -",
+        "",
+        "It was bound to happen: Other",
+        "Clans have entered your realm!",
+        "Consider this piece of advice, as it",
+        "may bear upon your future:",
+        "Friends can be your key to success,",
+        "but forming alliances takes talent",
+        "and finesse...",
+        "",
+        "You'll need to master the art of",
+        "diplomacy, or suffer the",
+        "consequences...",
+        "",
+        "Synopsis: ",
+        "Meet the three other Clans",
+        "Eliminate enemy Clans (any Clan",
+        "with whom you are not allied)"
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE06.ETA",
+    "Pages": [
+      [
+        "- CHAPTER II -",
+        "Today:",
+        "\"MIGHT & TERROR\"",
+        "",
+        "- Mission 6 -",
+        "",
+        "I see you have vanquished",
+        "your enemy.",
+        "It is my duty to tell you that your",
+        "every action from this point on",
+        "could work for or against you ",
+        "But don't imagine your enemies",
+        "have forgotten the bitter defeats",
+        "you dealt them!",
+        "Nor should you delude yourself",
+        "into believing that friendship",
+        "(or enmity) lasts forever...",
+        ".../... "
+      ],
+      [
+        "Or perhaps you've already noticed?",
+        "If there is one thing you will soon",
+        "understand, it is that Knowledge is",
+        "sometimes attained by treading a",
+        "Spiritual path...",
+        "An ancient parchment mentions a",
+        "cave, or an abandoned Mine, where",
+        "arcane and mystical knowledge",
+        "still resides.",
+        "",
+        "Synopsis:",
+        "- Explore the Mine, where you will",
+        "obtain Spiritual Knowledge.",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE07.ETA",
+    "Pages": [
+      [
+        "- Mission 7 -",
+        "",
+        "I've just received an alarming",
+        "report: every other Clan in the",
+        "region has been annihilated by",
+        "strange, terrifying creatures.",
+        "You absolutely must repel these",
+        "creatures' attacks and develop a",
+        "stable economy in order to leave",
+        "this accursed domain.",
+        "But don't let this setback keep your ",
+        "Clan from growing: you must ",
+        "discover new technologies if you ",
+        "want to move on to friendlier ",
+        "territory.",
+        "",
+        "Synopsis: ",
+        "Develop two technologies."
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE08.ETA",
+    "Pages": [
+      [
+        "- Mission 8 -",
+        "",
+        "The crystal has profoundly altered",
+        "people's convictions.",
+        "",
+        "You hoped the other Clans would",
+        "not discover your secret? I believe",
+        "it has already reached enemy ears!",
+        "You have led your people across",
+        "desolate lands and have finally",
+        "reached the farthest shores of this",
+        "continent. The eastern lands would",
+        "seem to be ideal for the expansion",
+        "you envisioned.",
+        "The first Clan to successfully cross",
+        "the ocean can hope to build a better",
+        "world.",
+        ".../..."
+      ],
+      [
+        "",
+        "",
+        "Synopsis: ",
+        "Cross the ocean and build a",
+        "Sanctuary.",
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE09.ETA",
+    "Pages": [
+      [
+        "- CHAPTER III -",
+        "\"A New Age\"",
+        "",
+        "- Mission 9 -",
+        "",
+        "Competition is a necessary evil,",
+        "but it can have its good points.",
+        "However, be advised that sore",
+        "losers could try to spoil this",
+        "adventure for you.",
+        "",
+        "You must establish your Clan's",
+        "authority in this unfamiliar land and",
+        "help your people acquire new",
+        "Knowledge. (Don't forget to build",
+        "a Laboratory.)",
+        "",
+        ".../..."
+      ],
+      [
+        "I've just received given a most",
+        "helpful intelligence report on the",
+        "Clans of Rising Lands. Only one",
+        "word comes to mind that describes",
+        "them: pitiful.",
+        "You surely were able to observe",
+        "this for yourself: rascals and rogues",
+        "are in the majority.",
+        "You must prove your courage but",
+        "also your skill if you want to",
+        "maintain your command of this",
+        "realm.",
+        "",
+        "",
+        "Synopsis:",
+        "Make two discoveries.",
+        "",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE10.ETA",
+    "Pages": [
+      [
+        "- Mission 10. -",
+        "",
+        "I have just received an urgent",
+        "missive from one of the clans:",
+        "they've been mercilessly routed by",
+        "repulsive and sinister monsters;",
+        "of course, they must mean",
+        "Shadow Creatures.",
+        "",
+        "This news confirms my worst fears:",
+        "dangerous forces are closing in on",
+        "you. You must show your",
+        "opponents that you are in control.",
+        "There is only one solution: total",
+        "destruction of all enemy Clans.",
+        "",
+        "Synopsis:",
+        "Destroy enemy Clans."
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE11.ETA",
+    "Pages": [
+      [
+        "- Mission 11 -",
+        "",
+        "These blasted Shadow Creatures",
+        "seem to have a talent for being",
+        "everywhere at once! ",
+        "(especially where you",
+        "don't expect them!)",
+        "",
+        "You astonish me! What nerves of",
+        "steel! Naturally, those tiny beads of",
+        "sweat running down your forehead",
+        "must stem from your considerable",
+        "efforts.",
+        "These physical and mental",
+        "challenges are teaching your people",
+        "to  \"stand on their own two feet.\"",
+        "",
+        ".../..."
+      ],
+      [
+        "You are about to cross an",
+        "impoverished land - a dreary",
+        "quagmire riddled with hidden traps.",
+        "You must conquer these swamps",
+        "and establish a strong base if you",
+        "hope to move on.",
+        "",
+        "",
+        "Synopsis:",
+        "Cross the swamps.",
+        "Produce 50 sacks of food.",
+        "Develop one technology.",
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE12.ETA",
+    "Pages": [
+      [
+        "- Mission 12 -",
+        "",
+        "I am a bit disappointed in you:",
+        "caught like a real amateur.",
+        "Wasn't my advice of any",
+        "use to you?",
+        "",
+        "You must take action - and fast!",
+        "You've got to get out of here and",
+        "establish a new Sanctuary to the",
+        "Northeast.",
+        "",
+        "Synopsis: ",
+        "Break through the enemy blocade.",
+        "Build a Sanctuary in the Northeast.",
+        "Destroy all enemy Clans.",
+        "",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE13.ETA",
+    "Pages": [
+      [
+        "- Mission 13 -",
+        "",
+        "You deserve a holiday!",
+        "",
+        "It's time for the great annual",
+        "Builders Race! ",
+        "No one can refuse to participate. ",
+        "The winner gains (or regains) the",
+        "esteem of the other Clans.",
+        "",
+        "If you emerge the victor, the other",
+        "Clans will be more inclined to",
+        "become your allies. The result of",
+        "the race will also determine where",
+        "you begin the next mission. If you",
+        "loose, your future will be dark",
+        "indeed!",
+        ".../..."
+      ],
+      [
+        "",
+        "",
+        "Synopsis: ",
+        "Build a Sanctuary, as quickly as",
+        "possible, in the East.",
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE14.ETA",
+    "Pages": [
+      [
+        "- Mission 14 -",
+        "",
+        "It seems our enemies deliberately",
+        "chose not to follow us along this",
+        "path... this doesn't bode well...",
+        "",
+        "I came across a parchment, and as I",
+        "read it aloud, I felt an indescribable",
+        "sensation... A horrifying vision",
+        "appeared before me: I'm afraid",
+        "I inadvertently awakened",
+        "Shadow Creatures!",
+        "They didn't even seem to notice",
+        "me, but ran straight in your",
+        "direction...",
+        "",
+        "",
+        ".../..."
+      ],
+      [
+        "",
+        "These frenzied creatures are",
+        "arriving by the thousands! ",
+        "You'll have to do your best to",
+        "resist them!",
+        "",
+        "",
+        "Synopsis:",
+        "Resist the creatures.",
+        "Build a Sanctuary",
+        "and a Storehouse.",
+        "Produce 50 blocks of stones",
+        "and 100 sacks of food.",
+        "",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE15.ETA",
+    "Pages": [
+      [
+        "- Mission 15 -",
+        "",
+        "The vast plains surrounding you",
+        "seem to invite your Clan to expand!",
+        "Unfortunately, the terrain is barren",
+        "and can't provide the stones and",
+        "food you'll need.",
+        "Alliances will be more difficult to",
+        "secure, but you'll need friends if",
+        "you want to achieve your goal.",
+        "",
+        "You must resolve internal problems",
+        "and manage your development...",
+        "",
+        "Synopsis:",
+        "Expand your Clan.",
+        "Destroy the enemy.",
+        ""
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE16.ETA",
+    "Pages": [
+      [
+        "- Mission 16 -",
+        "",
+        "The last place you stopped was",
+        "barren: you need to replenish your",
+        "supplies. A local chatterbox",
+        "warned me that Shadow Creatures",
+        "are roaming the area!",
+        "",
+        "I couldn't help but notice that your",
+        "neighbors seem unusually nervous;",
+        "I wouldn't hesitate to destroy any",
+        "enemy. Oh, and don't forget to",
+        "develop a new technology.",
+        "",
+        "Synopsis:",
+        "Destroy enemy Clans",
+        "Develop a new technology",
+        ""
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE17.ETA",
+    "Pages": [
+      [
+        "Mission 17 -",
+        "",
+        "",
+        "You just can't trust anyone these",
+        "days... The traitor got help from",
+        "those evil and scheming wretches:",
+        "the Shadow Creatures...",
+        "",
+        "They are preparing to annihilate",
+        "you once and for all, which is why",
+        "your people are now imprisoned.",
+        "You absolutely must escape and",
+        "return to your village",
+        "(the woods should shield",
+        "you from  prying eyes).",
+        "",
+        "",
+        ".../..."
+      ],
+      [
+        "Once you have taken your life into",
+        "your own hands again you will",
+        "have to destroy the enemy camp, to",
+        "discourage anyone else who would",
+        "dare to commit such an infamous",
+        "crime.",
+        "",
+        "Synopsis:",
+        "Escape from prison.",
+        "Return to your Clan.",
+        "Destroy enemy Clans.",
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE18.ETA",
+    "Pages": [
+      [
+        "- CHAPTER IV -",
+        "",
+        "- Mission 18 -",
+        "",
+        "It seems to be getting more and",
+        "more difficult to form alliances",
+        "with other Clans. From what my",
+        "spies have told me, the Shadow",
+        "Creatures are behind the chaos that",
+        "reigns among the Clans. Moreover,",
+        "rumors of an abandoned Sanctuary",
+        "holding a fabulous treasure has",
+        "only sharpened hostilities.",
+        "",
+        "You'd best heed this old adage:",
+        "\"Persistence can foster",
+        "any alliance\".",
+        ".../..."
+      ],
+      [
+        "",
+        "",
+        "Synopsis:",
+        "Find the hidden Sanctuary",
+        "and reactivate it.",
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE19.ETA",
+    "Pages": [
+      [
+        "- Mission 19 -",
+        "",
+        "Inside the Sanctuary, you",
+        "discovered a message saying:",
+        "\"The future lies to the Southeast\".",
+        "",
+        "You will have to cross this volcanic",
+        "terrain as fast as you can: these",
+        "desolate lands are under the",
+        "Shadow Creatures' dominion.",
+        "I detected the tracks of these",
+        "accursed creatures, along with",
+        "those of beasts I've never before",
+        "encountered! Exploring these lands",
+        "won't be easy:",
+        "Your enemies are lurking in the",
+        "shadows, ready to destroy you.",
+        ".../..."
+      ],
+      [
+        "",
+        "",
+        "Proceed Southeast with caution",
+        "and you will certainly find",
+        "the solution to your problems...",
+        "",
+        "",
+        "Synopsis:",
+        "Build your Sanctuary",
+        "to the Southeast.",
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE20.ETA",
+    "Pages": [
+      [
+        "- Mission 20 -",
+        "",
+        "This desolate place",
+        "really isn't for you!",
+        "",
+        "You must persevere and guide your",
+        "Clan across this inhospitable terrain",
+        "toward Southeast, where you will",
+        "build a Sanctuary.",
+        "But be vigilant! Your enemies are ",
+        "as treacherous as ever...",
+        "... one mistake could be your last.",
+        "",
+        "Synopsis:",
+        "Build a Sanctuary Southeast.",
+        "",
+        " ",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE21.ETA",
+    "Pages": [
+      [
+        "- Mission 21 -",
+        "",
+        "Will this dreary landscape ever",
+        "come to an end? Nothing but",
+        "molten rock and lava as far as the",
+        "eye can see...",
+        "",
+        "The further you advance, the more",
+        "violent and fearless the Creatures",
+        "grow. The only possible escape is",
+        "to continue Southeast and build a",
+        "Sanctuary there.",
+        "",
+        "Synopsis:",
+        "Build a Sanctuary to the Southeast.",
+        "Destroy all enemy Clans.",
+        "",
+        " "
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE22.ETA",
+    "Pages": [
+      [
+        "- Mission 22 -",
+        "",
+        "It would seem we have finally",
+        "come to the end of this Shadow",
+        "Creature-infested hellhole.",
+        "Courage! Just one final push to",
+        "escape these hostile lands! You'll",
+        "still have to establish a Sanctuary",
+        "Southeast of this region.",
+        "I'm confident you'll succeed:",
+        "I've had many opportunities to",
+        "appreciate your quick thinking and",
+        "sense of diplomacy.",
+        "",
+        "Synopsis:",
+        "Build a Sanctuary to the Southeast.",
+        "Destroy all enemy Clans.",
+        ""
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE23.ETA",
+    "Pages": [
+      [
+        "- Mission 23 -",
+        "",
+        "There's no doubt about it:",
+        "your desperate trek is near its end.",
+        "",
+        "You'll soon be traveling the",
+        "well-worn paths and green plains",
+        "you've dreamed of...",
+        "the Shadow Creatures' domain",
+        "but a fading memory.",
+        "But before you can frolic through",
+        "your lava-free world, you'll have to",
+        "emigrate Southeast and take",
+        "possession of the Library!",
+        "",
+        "Synopsis:",
+        "Take over the Great Library",
+        "to the Southeast."
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE24.ETA",
+    "Pages": [
+      [
+        "- Mission 24 -",
+        "",
+        "I've just received an important",
+        "message: the fertile lands you've",
+        "dreamed of since this adventure",
+        "began are located...",
+        "to the Southeast!",
+        "",
+        "You should build a Sanctuary there",
+        "as fast as possible.",
+        "As you will see for yourself, your",
+        "task won't be easy: rumors of a",
+        "massive and hostile presence to the",
+        "South East abound...",
+        "",
+        "",
+        "Synopsis:",
+        "Build a Sanctuary to the Southeast."
+      ]
+    ]
+  },
+  {
+    "Map": "MONDE25.ETA",
+    "Pages": [
+      [
+        "- Mission 25 -",
+        "",
+        "At last! The Rising Lands you've",
+        "dreamed of for so long are within",
+        "your grasp!",
+        " ",
+        "But for this adventure to come to",
+        "an end, you must ensure your",
+        "Clan's peaceful existence in these",
+        "new lands…",
+        "Be merciless and annihilate your",
+        "enemies!",
+        "",
+        "",
+        "Synopsis:",
+        "- Defeat anyone who opposes you.",
+        "",
+        " "
+      ]
+    ]
+  }
+]

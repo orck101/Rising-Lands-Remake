@@ -1,0 +1,136 @@
+{
+  "rules": [
+    {
+      "type": 0,
+      "period": 3000,
+      "fatigues": true
+    },
+    {
+      "type": 1,
+      "period": 3000,
+      "fatigues": true
+    },
+    {
+      "type": 2,
+      "period": 3000,
+      "fatigues": true
+    },
+    {
+      "type": 3,
+      "period": 3000,
+      "fatigues": true
+    },
+    {
+      "type": 4,
+      "period": 3000,
+      "fatigues": true
+    },
+    {
+      "type": 5,
+      "period": 3000,
+      "fatigues": true
+    },
+    {
+      "type": 6,
+      "period": 3000,
+      "fatigues": true
+    },
+    {
+      "type": 7,
+      "period": 3000,
+      "fatigues": true
+    },
+    {
+      "type": 8,
+      "period": 3000,
+      "fatigues": true
+    },
+    {
+      "type": 9,
+      "period": 3000,
+      "fatigues": true
+    },
+    {
+      "type": 10,
+      "period": 3000,
+      "fatigues": true
+    },
+    {
+      "type": 11,
+      "period": 3000,
+      "fatigues": false
+    },
+    {
+      "type": 12,
+      "period": 3000,
+      "fatigues": false
+    },
+    {
+      "type": 13,
+      "period": 3000,
+      "fatigues": false
+    },
+    {
+      "type": 14,
+      "period": 3000,
+      "fatigues": false
+    },
+    {
+      "type": 15,
+      "period": 3000,
+      "fatigues": false
+    },
+    {
+      "type": 16,
+      "period": 3000,
+      "fatigues": false
+    },
+    {
+      "type": 17,
+      "period": 3000,
+      "fatigues": false
+    },
+    {
+      "type": 18,
+      "period": 3000,
+      "fatigues": false
+    },
+    {
+      "type": 19,
+      "period": 3000,
+      "fatigues": false
+    },
+    {
+      "type": 20,
+      "period": 3000,
+      "fatigues": false
+    },
+    {
+      "type": 21,
+      "period": 3000,
+      "fatigues": false
+    },
+    {
+      "type": 22,
+      "period": 3000,
+      "fatigues": false
+    },
+    {
+      "type": 23,
+      "period": 3000,
+      "fatigues": false
+    },
+    {
+      "type": 24,
+      "period": 3000,
+      "fatigues": false
+    },
+    {
+      "type": 25,
+      "period": 3000,
+      "fatigues": true
+    }
+  ],
+  "starvation_damage": 20,
+  "starvation_clock_reset_fraction": 2
+}

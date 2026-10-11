@@ -1,0 +1,17 @@
+namespace RisingLands;
+public static class DefenseV78Tests {
+ public static void Run(string root){
+  int checks=0;void Check(bool value,string label){if(!value)throw new Exception("FAIL v78 defense: "+label);checks++;Console.WriteLine("PASS v78 defense: "+label);}
+  Simulation Fixture(int distance=3,bool archer=false){var baseWorld=LegacyAssets.Map(PackageLayout.Asset(root,"CD/WORLD/MONDE01.ETA"));new VisualCatalog().Apply(baseWorld);var w=Simulation.TrainingWorld(baseWorld,archer);Array.Fill(w.Collision,(byte)0);Array.Fill(w.Tiles,(ushort)349);Array.Clear(w.Objects);Array.Clear(w.Quantities);var ours=w.Units.First(a=>a.Owner==0&&a.Type==(archer?8:0));var enemy=w.Units.Single(a=>a.Owner==1);ours.X=20*1024;ours.Y=20*1024;enemy.X=(20+distance)*1024;enemy.Y=20*1024;return new(w);}
+  var s=Fixture();var ours=s.World.Units.First(a=>a.Owner==0&&a.Type==0);var enemy=s.World.Units.Single(a=>a.Owner==1);for(int i=0;i<10;i++)s.Step();Check(ours.AttackTarget==enemy.Slot&&ours.AutomaticDefense,"idle melee troop acquires visible threat outside melee range, without adversary campaign enabled");int health=enemy.Health;for(int i=0;i<180&&enemy.Health==health;i++)s.Step();Check(enemy.Health<health,"defender approaches and inflicts damage");
+  s=Fixture(1);ours=s.World.Units.First(a=>a.Owner==0&&a.Type==0);enemy=s.World.Units.Single(a=>a.Owner==1);enemy.AttackTarget=ours.Slot;for(int i=0;i<120&&ours.LastAttacker<0;i++)s.Step();Check(ours.LastAttacker==enemy.Slot&&ours.AttackTarget==enemy.Slot,"human troop records attacker and retaliates");
+  s=Fixture(3,true);ours=s.World.Units.First(a=>a.Owner==0&&a.Type==8);enemy=s.World.Units.Single(a=>a.Owner==1);Check(s.Order(ours,20,30),"player movement order accepted");for(int i=0;i<10;i++)s.Step();Check(ours.AttackTarget<0&&!ours.AutomaticDefense&&ours.Route.Count>0,"automatic defense preserves player movement");
+  s=Fixture();ours=s.World.Units.First(a=>a.Owner==0&&a.Type==0);enemy=s.World.Units.Single(a=>a.Owner==1);s.Campaign.Alliances[1]=true;for(int i=0;i<30;i++)s.Step();Check(ours.AttackTarget<0,"allies are not auto attacked");
+  s=Fixture();ours=s.World.Units.First(a=>a.Owner==0&&a.Type==0);enemy=s.World.Units.Single(a=>a.Owner==1);enemy.X=60*1024;for(int i=0;i<30;i++)s.Step();Check(ours.AttackTarget<0,"unseen opponent is not acquired");
+  s=Fixture();ours=s.World.Units.First(a=>a.Owner==0&&a.Type==0);enemy=s.World.Units.Single(a=>a.Owner==1);for(int i=0;i<10;i++)s.Step();Check(s.Order(ours,20,30)&&!ours.AutomaticDefense&&ours.AttackTarget<0,"new movement cancels automatic pursuit");
+  s=Fixture(3,true);ours=s.World.Units.First(a=>a.Owner==0&&a.Type==8);enemy=s.World.Units.Single(a=>a.Owner==1);int position=ours.X;health=enemy.Health;for(int i=0;i<100&&enemy.Health==health;i++)s.Step();Check(enemy.Health<health&&ours.X==position,"ranged defender fires without approaching a target already in range");
+  s=Fixture(2);ours=s.World.Units.First(a=>a.Owner==0&&a.Type==0);enemy=s.World.Units.Single(a=>a.Owner==1);var friend=s.World.Units.First(a=>a.Owner==0&&a.Type==5);friend.X=21*1024;friend.Y=20*1024;enemy.AttackTarget=friend.Slot;for(int i=0;i<10;i++)s.Step();Check(ours.AttackTarget==enemy.Slot,"idle army protects a nearby worker under attack");
+  s=Fixture();for(int i=0;i<11;i++)s.Step();var resumed=Fixture();resumed.Restore(s.Serialize());for(int i=0;i<120;i++){s.Step();resumed.Step();}Check(s.Serialize()==resumed.Serialize(),"defensive pursuit and retaliation resume deterministically after save/load");
+  Console.WriteLine("PASS v78 defense total "+checks);
+ }
+}

@@ -1,0 +1,23 @@
+namespace RisingLands;
+public static class GameplayV70Tests {
+ public static bool Run(string root){int count=0;bool passed=true;void Check(bool ok,string name){count++;passed&=ok;Console.WriteLine((ok?"PASS: ":"FAIL: ")+name);}
+  var research=ResearchV58Tests.Load(root);int lab=ResearchV58Tests.Staff(research,1);var job=research.LaboratoryWorkers.Single(j=>j.Stage==1);var scientist=research.World.Units.First(a=>a.Slot==job.SettlerSlot);double progress=research.AgricultureResearch.Progress;scientist.LegacyState=7;scientist.Route.Clear();
+  Check(research.Scientists()==0,"visible colonist with stale working record is not inside laboratory");for(int i=0;i<60;i++)research.Step();
+  Check(research.AgricultureResearch.Progress==progress&&!research.AgricultureResearch.Enabled,"zero actual colonists stops research and preserves progress");scientist.LegacyState=14;research.Step();Check(research.Scientists()==1&&research.AgricultureResearch.Progress>progress,"actual resident resumes existing research");
+  var released=research.ReleaseResident(lab);Check(released!=null&&research.Scientists()==0,"releasing last laboratory resident removes all working assignments");progress=research.AgricultureResearch.Progress;for(int i=0;i<60;i++)research.Step();Check(research.AgricultureResearch.Progress==progress,"empty laboratory never advances after release");
+  var empty=ResearchV58Tests.Load(root,2);foreach(var ids in empty.World.BuildingResidents.Values)ids.Clear();var gate=Simulation.UnlockData.Technologies.First(t=>t.Branch==2&&t.Mission>empty.MissionNumber&&t.Appearance<100);empty.Research.Index=gate.Index;empty.Step();Check(empty.Research.Index==gate.Index&&empty.Research.Progress==0&&empty.MissionResearchCount==0,"empty laboratory cannot silently increase levels by skipping research gates");
+  var s=ImprovementsV67Tests.Fixture(root);int known=40+40*256;foreach(var b in s.World.Buildings.Where(b=>b.Owner==0).ToArray())s.World.Buildings.Remove(b);foreach(var a in s.World.Units.Where(a=>a.Owner==0)){a.X=2*1024;a.Y=2*1024;}s.UpdateVisibility();s.Exploration.Explored[known]=1;
+  Check(!s.InSight(known)&&s.Discovered(known)&&s.CanInteractAt(known),"explored fog permits resource and building interactions without live sight");int unknown=60+60*256;s.Exploration.Explored[unknown]=0;Check(!s.CanInteractAt(unknown),"never visited terrain rejects interaction");Check(s.CanInteractAt(unknown,true),"test reveal still allows inspecting unknown terrain");Check(!s.CanInteractAt(-1,true)&&!s.CanInteractAt(65536,true),"reveal does not permit outside-map orders");
+  var farmer=s.World.Units.First(a=>a.Type==5&&a.Owner==0);Check(s.Order(farmer,60,60),"unit can receive a move order toward never visited terrain");
+  for(int y=0;y<5;y++)for(int x=0;x<5;x++)s.Exploration.Explored[known+y*256+x]=1;
+  Check(s.CanPlaceInExploredArea(3,known),"full explored building footprint needs no current sight");s.Exploration.Explored[known+4+4*256]=0;Check(!s.CanPlaceInExploredArea(3,known),"one unknown corner blocks construction footprint");
+  s=ImprovementsV67Tests.Fixture(root);var builder=s.World.Units.First(a=>a.Type==7&&a.Owner==0);for(int b=0;b<4;b++)s.Campaign.StartingLevels[b]=40;s.World.Resources[0]=s.World.Resources[4]=s.World.Resources[8]=2000;
+  s.World.Tiles[40+40*256]=1;Check(s.ConstructionTerrainAllowed(12,40+40*256),"gate shares the terrain exception even while its native graphics remain unavailable");
+  foreach(int type in new[]{9,3}){int anchor=Enumerable.Range(0,65536).First(c=>s.PlacementError(builder,type,c)==null);var rule=s.Rule(type);for(int y=0;y<rule.Height;y++)for(int x=0;x<rule.Width;x++)s.World.Tiles[anchor+y*256+x]=1;
+   Check(type==3?s.PlacementError(builder,type,anchor)!=null:s.PlacementError(builder,type,anchor)==null,type==3?"ordinary warehouse still requires green terrain":"wall or gate accepts dry walkable terrain: "+type);
+   s.World.Collision[anchor]=1;Check(s.PlacementError(builder,type,anchor)!=null,"terrain exception never bypasses blocked space: "+type);s.World.Collision[anchor]=0;
+  }
+  foreach(int type in new[]{5,6,7})foreach(int qty in new[]{0,1,2,5}){var a=new Actor{Type=type,Food=type==7?0:qty,Rock=type==7?qty:0,CargoKind=type==6?0:1};var commands=WorkerCargoVisuals.Commands(a);Check(WorkerCargoVisuals.Quantity(a)==qty&&commands.Count==qty&&commands.All(c=>c.Sprite==0x2a3d),"native cargo marker count follows current load: "+type+"/"+qty);a.Food=a.Rock=0;Check(WorkerCargoVisuals.Commands(a).Count==0,"delivery clears cargo indicators: "+type+"/"+qty);}
+  Console.WriteLine($"GAMEPLAY v70 CHECKS: {count}; PASSED: {passed}");return passed;
+ }
+}

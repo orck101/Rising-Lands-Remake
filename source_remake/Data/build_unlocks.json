@@ -1,0 +1,1606 @@
+{
+  "technologies": [
+    {
+      "key": "AGRICULTURE0",
+      "branch": 0,
+      "index": 0,
+      "cost": 1,
+      "appearance": 1,
+      "mission": 1,
+      "effect": 0,
+      "param1": 1,
+      "param2": 5,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE1",
+      "branch": 0,
+      "index": 1,
+      "cost": 1,
+      "appearance": 1,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 4,
+      "param3": 0,
+      "buildings": [
+        4
+      ]
+    },
+    {
+      "key": "AGRICULTURE2",
+      "branch": 0,
+      "index": 2,
+      "cost": 7500,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 3,
+      "param2": 5,
+      "param3": 15,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE3",
+      "branch": 0,
+      "index": 3,
+      "cost": 7500,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 3,
+      "param2": 5,
+      "param3": 20,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE4",
+      "branch": 0,
+      "index": 4,
+      "cost": 10000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 13,
+      "param3": 0,
+      "buildings": [
+        13
+      ]
+    },
+    {
+      "key": "AGRICULTURE5",
+      "branch": 0,
+      "index": 5,
+      "cost": 17000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 2,
+      "param2": 9,
+      "param3": 1,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE6",
+      "branch": 0,
+      "index": 6,
+      "cost": 12500,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 1,
+      "param2": 25,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE7",
+      "branch": 0,
+      "index": 7,
+      "cost": 15000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 1,
+      "param2": 13,
+      "param3": 0,
+      "buildings": [
+        5
+      ]
+    },
+    {
+      "key": "AGRICULTURE8",
+      "branch": 0,
+      "index": 8,
+      "cost": 12000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 1,
+      "param2": 5,
+      "param3": 1,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE9",
+      "branch": 0,
+      "index": 9,
+      "cost": 22000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 2,
+      "param2": 3,
+      "param3": 15,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE10",
+      "branch": 0,
+      "index": 10,
+      "cost": 25000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 2,
+      "param2": 25,
+      "param3": 15,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE11",
+      "branch": 0,
+      "index": 11,
+      "cost": 27000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 0,
+      "param2": 3,
+      "param3": 15,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE12",
+      "branch": 0,
+      "index": 12,
+      "cost": 27000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 0,
+      "param2": 25,
+      "param3": 15,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE13",
+      "branch": 0,
+      "index": 13,
+      "cost": 30000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 0,
+      "param2": 30,
+      "param3": 15,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE14",
+      "branch": 0,
+      "index": 14,
+      "cost": 30000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 2,
+      "param2": 9,
+      "param3": 2,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE15",
+      "branch": 0,
+      "index": 15,
+      "cost": 35000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 0,
+      "param2": 3,
+      "param3": 20,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE16",
+      "branch": 0,
+      "index": 16,
+      "cost": 40000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 0,
+      "param2": 25,
+      "param3": 20,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE17",
+      "branch": 0,
+      "index": 17,
+      "cost": 40000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 0,
+      "param2": 30,
+      "param3": 20,
+      "buildings": []
+    },
+    {
+      "key": "AGRICULTURE18",
+      "branch": 0,
+      "index": 18,
+      "cost": 45000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 7,
+      "param2": 5,
+      "param3": 1,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE0",
+      "branch": 1,
+      "index": 0,
+      "cost": 200,
+      "appearance": 1,
+      "mission": 1,
+      "effect": 0,
+      "param1": 1,
+      "param2": 0,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE1",
+      "branch": 1,
+      "index": 1,
+      "cost": 200,
+      "appearance": 1,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 1,
+      "param3": 0,
+      "buildings": [
+        1
+      ]
+    },
+    {
+      "key": "MILITAIRE2",
+      "branch": 1,
+      "index": 2,
+      "cost": 15000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 5,
+      "param2": 30,
+      "param3": 1,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE3",
+      "branch": 1,
+      "index": 3,
+      "cost": 7500,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 1,
+      "param2": 1,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE4",
+      "branch": 1,
+      "index": 4,
+      "cost": 10000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 10,
+      "param3": 0,
+      "buildings": [
+        10
+      ]
+    },
+    {
+      "key": "MILITAIRE5",
+      "branch": 1,
+      "index": 5,
+      "cost": 12000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 4,
+      "param2": 30,
+      "param3": 1,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE6",
+      "branch": 1,
+      "index": 6,
+      "cost": 12000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 1,
+      "param2": 8,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE7",
+      "branch": 1,
+      "index": 7,
+      "cost": 15000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 3,
+      "param2": 30,
+      "param3": 15,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE8",
+      "branch": 1,
+      "index": 8,
+      "cost": 17000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 2,
+      "param1": 6,
+      "param2": 30,
+      "param3": 15,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE9",
+      "branch": 1,
+      "index": 9,
+      "cost": 22000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 1,
+      "param2": 11,
+      "param3": 0,
+      "buildings": [
+        5
+      ]
+    },
+    {
+      "key": "MILITAIRE10",
+      "branch": 1,
+      "index": 10,
+      "cost": 25000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 6,
+      "param2": 30,
+      "param3": 1,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE11",
+      "branch": 1,
+      "index": 11,
+      "cost": 27000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 1,
+      "param2": 2,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE12",
+      "branch": 1,
+      "index": 12,
+      "cost": 27000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 11,
+      "param3": 0,
+      "buildings": [
+        11
+      ]
+    },
+    {
+      "key": "MILITAIRE13",
+      "branch": 1,
+      "index": 13,
+      "cost": 30000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 1,
+      "param2": 14,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE14",
+      "branch": 1,
+      "index": 14,
+      "cost": 30000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 5,
+      "param2": 30,
+      "param3": 2,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE15",
+      "branch": 1,
+      "index": 15,
+      "cost": 35000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 4,
+      "param2": 30,
+      "param3": 2,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE16",
+      "branch": 1,
+      "index": 16,
+      "cost": 40000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 1,
+      "param2": 12,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE17",
+      "branch": 1,
+      "index": 17,
+      "cost": 40000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 2,
+      "param1": 6,
+      "param2": 30,
+      "param3": 20,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE18",
+      "branch": 1,
+      "index": 18,
+      "cost": 45000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 3,
+      "param2": 30,
+      "param3": 20,
+      "buildings": []
+    },
+    {
+      "key": "MILITAIRE19",
+      "branch": 1,
+      "index": 19,
+      "cost": 45000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 6,
+      "param2": 30,
+      "param3": 2,
+      "buildings": []
+    },
+    {
+      "key": "GENIECIVIL0",
+      "branch": 2,
+      "index": 0,
+      "cost": 200,
+      "appearance": 1,
+      "mission": 1,
+      "effect": 0,
+      "param1": 1,
+      "param2": 7,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "GENIECIVIL1",
+      "branch": 2,
+      "index": 1,
+      "cost": 200,
+      "appearance": 1,
+      "mission": 1,
+      "effect": 0,
+      "param1": 1,
+      "param2": 6,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "GENIECIVIL2",
+      "branch": 2,
+      "index": 2,
+      "cost": 200,
+      "appearance": 1,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 2,
+      "param3": 0,
+      "buildings": [
+        2
+      ]
+    },
+    {
+      "key": "GENIECIVIL3",
+      "branch": 2,
+      "index": 3,
+      "cost": 200,
+      "appearance": 1,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 3,
+      "param3": 0,
+      "buildings": [
+        3
+      ]
+    },
+    {
+      "key": "GENIECIVIL4",
+      "branch": 2,
+      "index": 4,
+      "cost": 200,
+      "appearance": 3,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 7,
+      "param3": 0,
+      "buildings": [
+        7
+      ]
+    },
+    {
+      "key": "GENIECIVIL5",
+      "branch": 2,
+      "index": 5,
+      "cost": 200,
+      "appearance": 4,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 8,
+      "param3": 0,
+      "buildings": [
+        8
+      ]
+    },
+    {
+      "key": "GENIECIVIL6",
+      "branch": 2,
+      "index": 6,
+      "cost": 1,
+      "appearance": 4,
+      "mission": 4,
+      "effect": 0,
+      "param1": 3,
+      "param2": 16,
+      "param3": 0,
+      "buildings": [
+        16
+      ]
+    },
+    {
+      "key": "GENIECIVIL7",
+      "branch": 2,
+      "index": 7,
+      "cost": 7500,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 9,
+      "param3": 0,
+      "buildings": [
+        9
+      ]
+    },
+    {
+      "key": "GENIECIVIL8",
+      "branch": 2,
+      "index": 8,
+      "cost": 10000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 8,
+      "param2": 7,
+      "param3": 15,
+      "buildings": []
+    },
+    {
+      "key": "GENIECIVIL9",
+      "branch": 2,
+      "index": 9,
+      "cost": 12000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 18,
+      "param3": 0,
+      "buildings": [
+        18
+      ]
+    },
+    {
+      "key": "GENIECIVIL10",
+      "branch": 2,
+      "index": 10,
+      "cost": 12000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 2,
+      "param1": 1,
+      "param2": 30,
+      "param3": 15,
+      "buildings": []
+    },
+    {
+      "key": "GENIECIVIL11",
+      "branch": 2,
+      "index": 11,
+      "cost": 15000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 1,
+      "param2": 7,
+      "param3": 1,
+      "buildings": []
+    },
+    {
+      "key": "GENIECIVIL12",
+      "branch": 2,
+      "index": 12,
+      "cost": 17000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 3,
+      "param2": 7,
+      "param3": 15,
+      "buildings": []
+    },
+    {
+      "key": "GENIECIVIL13",
+      "branch": 2,
+      "index": 13,
+      "cost": 22000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 0,
+      "param3": 0,
+      "buildings": [
+        0
+      ]
+    },
+    {
+      "key": "GENIECIVIL14",
+      "branch": 2,
+      "index": 14,
+      "cost": 25000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 19,
+      "param3": 0,
+      "buildings": [
+        19
+      ]
+    },
+    {
+      "key": "GENIECIVIL15",
+      "branch": 2,
+      "index": 15,
+      "cost": 27000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 14,
+      "param3": 0,
+      "buildings": [
+        14
+      ]
+    },
+    {
+      "key": "GENIECIVIL16",
+      "branch": 2,
+      "index": 16,
+      "cost": 30000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 12,
+      "param3": 0,
+      "buildings": [
+        12
+      ]
+    },
+    {
+      "key": "GENIECIVIL17",
+      "branch": 2,
+      "index": 17,
+      "cost": 30000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 8,
+      "param2": 7,
+      "param3": 20,
+      "buildings": []
+    },
+    {
+      "key": "GENIECIVIL18",
+      "branch": 2,
+      "index": 18,
+      "cost": 30000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 3,
+      "param2": 7,
+      "param3": 15,
+      "buildings": []
+    },
+    {
+      "key": "GENIECIVIL19",
+      "branch": 2,
+      "index": 19,
+      "cost": 35000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 1,
+      "param2": 30,
+      "param3": 1,
+      "buildings": []
+    },
+    {
+      "key": "GENIECIVIL20",
+      "branch": 2,
+      "index": 20,
+      "cost": 40000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 2,
+      "param1": 1,
+      "param2": 30,
+      "param3": 20,
+      "buildings": []
+    },
+    {
+      "key": "GENIECIVIL21",
+      "branch": 2,
+      "index": 21,
+      "cost": 45000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 1,
+      "param2": 16,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "GENIECIVIL22",
+      "branch": 2,
+      "index": 22,
+      "cost": 40000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 0,
+      "param1": 3,
+      "param2": 21,
+      "param3": 0,
+      "buildings": [
+        21
+      ]
+    },
+    {
+      "key": "GENIECIVIL23",
+      "branch": 2,
+      "index": 23,
+      "cost": 45000,
+      "appearance": 100,
+      "mission": 1,
+      "effect": 1,
+      "param1": 1,
+      "param2": 30,
+      "param3": 2,
+      "buildings": []
+    },
+    {
+      "key": "RELIGIEUX0",
+      "branch": 3,
+      "index": 0,
+      "cost": 5,
+      "appearance": 7,
+      "mission": 7,
+      "effect": 0,
+      "param1": 1,
+      "param2": 4,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "RELIGIEUX1",
+      "branch": 3,
+      "index": 1,
+      "cost": 5,
+      "appearance": 7,
+      "mission": 7,
+      "effect": 0,
+      "param1": 3,
+      "param2": 15,
+      "param3": 0,
+      "buildings": [
+        15
+      ]
+    },
+    {
+      "key": "RELIGIEUX2",
+      "branch": 3,
+      "index": 2,
+      "cost": 200,
+      "appearance": 7,
+      "mission": 7,
+      "effect": 0,
+      "param1": 3,
+      "param2": 6,
+      "param3": 0,
+      "buildings": [
+        6
+      ]
+    },
+    {
+      "key": "RELIGIEUX3",
+      "branch": 3,
+      "index": 3,
+      "cost": 5,
+      "appearance": 7,
+      "mission": 7,
+      "effect": 0,
+      "param1": 3,
+      "param2": 17,
+      "param3": 0,
+      "buildings": [
+        17
+      ]
+    },
+    {
+      "key": "RELIGIEUX4",
+      "branch": 3,
+      "index": 4,
+      "cost": 12000,
+      "appearance": 100,
+      "mission": 7,
+      "effect": 0,
+      "param1": 4,
+      "param2": 0,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "RELIGIEUX5",
+      "branch": 3,
+      "index": 5,
+      "cost": 20000,
+      "appearance": 100,
+      "mission": 7,
+      "effect": 1,
+      "param1": 10,
+      "param2": 4,
+      "param3": 2,
+      "buildings": []
+    },
+    {
+      "key": "RELIGIEUX6",
+      "branch": 3,
+      "index": 6,
+      "cost": 25000,
+      "appearance": 100,
+      "mission": 7,
+      "effect": 0,
+      "param1": 4,
+      "param2": 1,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "RELIGIEUX7",
+      "branch": 3,
+      "index": 7,
+      "cost": 30000,
+      "appearance": 100,
+      "mission": 7,
+      "effect": 1,
+      "param1": 11,
+      "param2": 4,
+      "param3": 25,
+      "buildings": []
+    },
+    {
+      "key": "RELIGIEUX8",
+      "branch": 3,
+      "index": 8,
+      "cost": 45000,
+      "appearance": 100,
+      "mission": 7,
+      "effect": 0,
+      "param1": 1,
+      "param2": 15,
+      "param3": 0,
+      "buildings": [
+        5
+      ]
+    },
+    {
+      "key": "RELIGIEUX9",
+      "branch": 3,
+      "index": 9,
+      "cost": 30000,
+      "appearance": 100,
+      "mission": 7,
+      "effect": 0,
+      "param1": 4,
+      "param2": 2,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "RELIGIEUX10",
+      "branch": 3,
+      "index": 10,
+      "cost": 45000,
+      "appearance": 100,
+      "mission": 7,
+      "effect": 0,
+      "param1": 4,
+      "param2": 3,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "RELIGIEUX11",
+      "branch": 3,
+      "index": 11,
+      "cost": 45000,
+      "appearance": 100,
+      "mission": 7,
+      "effect": 1,
+      "param1": 12,
+      "param2": 4,
+      "param3": 15,
+      "buildings": []
+    },
+    {
+      "key": "RELIGIEUX12",
+      "branch": 3,
+      "index": 12,
+      "cost": 25000,
+      "appearance": 100,
+      "mission": 7,
+      "effect": 1,
+      "param1": 11,
+      "param2": 4,
+      "param3": 50,
+      "buildings": []
+    },
+    {
+      "key": "RELIGIEUX13",
+      "branch": 3,
+      "index": 13,
+      "cost": 35000,
+      "appearance": 100,
+      "mission": 7,
+      "effect": 0,
+      "param1": 4,
+      "param2": 4,
+      "param3": 0,
+      "buildings": []
+    },
+    {
+      "key": "RELIGIEUX14",
+      "branch": 3,
+      "index": 14,
+      "cost": 40000,
+      "appearance": 100,
+      "mission": 7,
+      "effect": 1,
+      "param1": 12,
+      "param2": 4,
+      "param3": 20,
+      "buildings": []
+    },
+    {
+      "key": "RELIGIEUX15",
+      "branch": 3,
+      "index": 15,
+      "cost": 40000,
+      "appearance": 100,
+      "mission": 7,
+      "effect": 0,
+      "param1": 3,
+      "param2": 20,
+      "param3": 0,
+      "buildings": [
+        20
+      ]
+    },
+    {
+      "key": "RELIGIEUX16",
+      "branch": 3,
+      "index": 16,
+      "cost": 45000,
+      "appearance": 100,
+      "mission": 7,
+      "effect": 1,
+      "param1": 10,
+      "param2": 4,
+      "param3": 20,
+      "buildings": []
+    },
+    {
+      "key": "RELIGIEUX17",
+      "branch": 3,
+      "index": 17,
+      "cost": 45000,
+      "appearance": 100,
+      "mission": 7,
+      "effect": 1,
+      "param1": 9,
+      "param2": 4,
+      "param3": 20,
+      "buildings": []
+    }
+  ],
+  "missions": [
+    {
+      "mission": 1,
+      "levels": [
+        2,
+        2,
+        4,
+        0
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "mission": 2,
+      "levels": [
+        2,
+        2,
+        4,
+        0
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "mission": 3,
+      "levels": [
+        2,
+        2,
+        5,
+        0
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        7
+      ]
+    },
+    {
+      "mission": 4,
+      "levels": [
+        2,
+        2,
+        7,
+        0
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        16
+      ]
+    },
+    {
+      "mission": 5,
+      "levels": [
+        2,
+        2,
+        7,
+        0
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        16
+      ]
+    },
+    {
+      "mission": 6,
+      "levels": [
+        2,
+        2,
+        7,
+        0
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        16
+      ]
+    },
+    {
+      "mission": 7,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 8,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 9,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 10,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 11,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 12,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 13,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 14,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 15,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 16,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 17,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 18,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 19,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 20,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 21,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 22,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 23,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 24,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "mission": 25,
+      "levels": [
+        2,
+        2,
+        7,
+        4
+      ],
+      "buildings": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17
+      ]
+    }
+  ]
+}

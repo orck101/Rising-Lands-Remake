@@ -1,0 +1,4 @@
+namespace RisingLands;
+public static class ExtraResearchProbe {
+ public static void Run(string root,string path){var s=OpponentV75Tests.Load(root);s.Restore(File.ReadAllText(path));Console.WriteLine($"map={s.World.MapName} scientists={s.Scientists()} count={s.MissionResearchCount} offer={s.ExtraResearchOffered} paused={s.Research.ManualPaused} stock={s.World.Resources[0]}");for(int b=0;b<4;b++){Console.WriteLine($"branch={b} next={s.ResearchInvention(b)?.Key} error={s.ExtraResearchError(b)}");var copy=OpponentV75Tests.Load(root);copy.Restore(s.Serialize());bool bought=copy.PurchaseExtraResearch(b);for(int t=0;t<300;t++)copy.Step();Console.WriteLine($"bought={bought} active={copy.ActiveResearchBranch} enabled={copy.ResearchState(b).Enabled} progress={copy.ResearchState(b).Progress} status={copy.ResearchStatus(b)}");}}
+}

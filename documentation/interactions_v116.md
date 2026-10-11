@@ -1,0 +1,4 @@
+﻿# v116 — ofensiva do verde
+2026-10-09. Verde mantém Indústria militar com prioridade ampliada para produção, apoio e ataque forte. Grupos5–8 nas fasesiniciais,8–12 nas intermediárias,10–16 nas finais; exército13/17/22 para preservar defesa. Seleção por capacidade de cerco, apoio e força, rejeição de grupo debilitado, avaliação de defesa visível e janela180s. Custos, pesquisas, abertura, alianças e demais perfis preservados. Nova regra solicitada, não IA original comprovada.
+
+Formato40/slotsv33 mantidos; grupos ativos antigos permanecem. Atalhos1–6 apontam releases/interactions-v116, v115 preservado. Ver reports/ofensiva_verde_v116.md para testes, limites, números e arquivos. Não houve partida manual completa; impacto destrutivo depende da defesa enfrentada. Aliança mais difícil com verde fica para o futuro.

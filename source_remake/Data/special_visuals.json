@@ -1,0 +1,2661 @@
+{
+  "visuals": [
+    {
+      "type": 1,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10876
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10877
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10878
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10879
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10880
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10881
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10882
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10883
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10884
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10885
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10886
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10887
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10888
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10889
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10890
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28297,
+          "y": -26631,
+          "sprite": 10891
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8373
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8374
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8375
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8376
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8377
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8378
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8379
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8380
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8381
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8382
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8383
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8384
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8385
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8386
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8387
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8388
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9061
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9062
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9063
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9064
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9065
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9066
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9067
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9068
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9069
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9070
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9071
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9072
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9073
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9074
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9075
+        }
+      ]
+    },
+    {
+      "type": 22,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28291,
+          "y": -26627,
+          "sprite": 9076
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8789
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8790
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8791
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8792
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8793
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8794
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8795
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8796
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8797
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8798
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8799
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8800
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8801
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8802
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8803
+        }
+      ]
+    },
+    {
+      "type": 25,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28379,
+          "y": -26683,
+          "sprite": 8804
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10970
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10971
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10972
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10973
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10974
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10975
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10976
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10977
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10978
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10979
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10980
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10981
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10982
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10983
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10984
+        }
+      ]
+    },
+    {
+      "type": 26,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 10985
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7853
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7854
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7855
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7856
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7857
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7858
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7859
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7860
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7861
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7862
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7863
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7864
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7865
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7866
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7867
+        }
+      ]
+    },
+    {
+      "type": 27,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28356,
+          "y": -26673,
+          "sprite": 7868
+        }
+      ]
+    },
+    {
+      "type": 28,
+      "phase": 0,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 1,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 2,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 3,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 4,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 5,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 6,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 7,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 8,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 9,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 10,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 11,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 12,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 13,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 14,
+      "commands": []
+    },
+    {
+      "type": 28,
+      "phase": 15,
+      "commands": []
+    },
+    {
+      "type": 29,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11293
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11325
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11357
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11294
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11326
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11358
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11295
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11327
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11359
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11296
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11328
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11360
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11297
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11329
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11361
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11298
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11330
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11362
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11299
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11331
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11363
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11300
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11332
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11364
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11301
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11333
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11365
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11302
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11334
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11366
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11303
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11335
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11367
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11304
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11336
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11368
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11305
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11337
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11369
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11306
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11338
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11370
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11307
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11339
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11371
+        }
+      ]
+    },
+    {
+      "type": 29,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11308
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11340
+        },
+        {
+          "kind": "sprite",
+          "x": -28296,
+          "y": -26632,
+          "sprite": 11372
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11197
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11229
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11261
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11198
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11230
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11262
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11199
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11231
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11263
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11200
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11232
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11264
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11201
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11233
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11265
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11202
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11234
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11266
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11203
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11235
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11267
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11204
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11236
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11268
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11205
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11237
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11269
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11206
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11238
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11270
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11207
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11239
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11271
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11208
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11240
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11272
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11209
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11241
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11273
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11210
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11242
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11274
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11211
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11243
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11275
+        }
+      ]
+    },
+    {
+      "type": 30,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11212
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11244
+        },
+        {
+          "kind": "sprite",
+          "x": -28321,
+          "y": -26657,
+          "sprite": 11276
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8373
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8309
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8374
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8310
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8375
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8311
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8376
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8312
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8377
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8313
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8378
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8314
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8379
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8315
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8380
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8316
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8381
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8317
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8382
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8318
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8383
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8319
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8384
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8320
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8385
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8321
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8386
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8322
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8387
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8323
+        }
+      ]
+    },
+    {
+      "type": 31,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "shadow",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8388
+        },
+        {
+          "kind": "shadow",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8324
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8373
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8309
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8374
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8310
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8375
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8311
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8376
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8312
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8377
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8313
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8378
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8314
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8379
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8315
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8380
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8316
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8381
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8317
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8382
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8318
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8383
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8319
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8384
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8320
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8385
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8321
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8386
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8322
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8387
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8323
+        }
+      ]
+    },
+    {
+      "type": 32,
+      "phase": 15,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": -28312,
+          "y": -26640,
+          "sprite": 8388
+        },
+        {
+          "kind": "sprite",
+          "x": -28288,
+          "y": -26624,
+          "sprite": 8324
+        }
+      ]
+    },
+    {
+      "type": 33,
+      "phase": 0,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 1,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 2,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 3,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 4,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 5,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 6,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 7,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 8,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 9,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 10,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 11,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 12,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 13,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 14,
+      "commands": []
+    },
+    {
+      "type": 33,
+      "phase": 15,
+      "commands": []
+    }
+  ],
+  "limits": "Native projectile renderer with controlled record phase and position; no inferred artwork."
+}

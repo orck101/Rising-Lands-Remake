@@ -1,0 +1,79 @@
+{
+  "commands": [
+    {
+      "kind": "sprite",
+      "x": 0,
+      "y": 0,
+      "sprite": 11000
+    },
+    {
+      "kind": "sprite",
+      "x": 97,
+      "y": 4,
+      "sprite": 11002
+    },
+    {
+      "kind": "sprite",
+      "x": 39,
+      "y": 49,
+      "sprite": 10736
+    },
+    {
+      "kind": "sprite",
+      "x": 100,
+      "y": 49,
+      "sprite": 10737
+    },
+    {
+      "kind": "sprite",
+      "x": 161,
+      "y": 49,
+      "sprite": 10738
+    },
+    {
+      "kind": "sprite",
+      "x": 97,
+      "y": 289,
+      "sprite": 11002
+    },
+    {
+      "kind": "sprite",
+      "x": 39,
+      "y": 218,
+      "sprite": 10736
+    },
+    {
+      "kind": "sprite",
+      "x": 100,
+      "y": 218,
+      "sprite": 10737
+    },
+    {
+      "kind": "sprite",
+      "x": 161,
+      "y": 218,
+      "sprite": 10738
+    },
+    {
+      "kind": "sprite",
+      "x": 44,
+      "y": 150,
+      "sprite": 11027
+    },
+    {
+      "kind": "player",
+      "x": 44,
+      "y": 150,
+      "sprite": 11027
+    },
+    {
+      "kind": "sprite",
+      "x": 245,
+      "y": 290,
+      "sprite": 11025
+    }
+  ],
+  "entry": "0x465a20",
+  "category": 2,
+  "limits": "Resource category; inventories, mini counters and alliance calls omitted in this visual probe."
+}

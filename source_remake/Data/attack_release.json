@@ -1,0 +1,2392 @@
+{
+  "rules": [
+    {
+      "type": 0,
+      "release_phase": 6,
+      "frame_delay": 2,
+      "frame_count": 10,
+      "release_ticks": 12,
+      "directions": [
+        {
+          "direction": 1,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 8223,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 2,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 8224,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 3,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 7967,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 4,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 8224,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 5,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 7968,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 6,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 8224,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 7,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 7969,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 8,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 8224,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 9,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 8225,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 10,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 8224,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 11,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 8481,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 12,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 8224,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 13,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 8480,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 14,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 8224,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 15,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 8479,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        },
+        {
+          "direction": 16,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [],
+          "damage_calls": [
+            {
+              "cell": 8224,
+              "source_kind": 1,
+              "source_slot": 0,
+              "extra": 0,
+              "target_flag": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "release_phase": 6,
+      "frame_delay": 2,
+      "frame_count": 10,
+      "release_ticks": 12,
+      "directions": [
+        {
+          "direction": 1,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 2,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 3,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 4,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 5,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 6,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 7,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 8,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 9,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 10,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 11,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 12,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 13,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 14,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 15,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        },
+        {
+          "direction": 16,
+          "frames": [
+            {
+              "tick": 1,
+              "phase": 0,
+              "counter": 1
+            },
+            {
+              "tick": 2,
+              "phase": 1,
+              "counter": 0
+            },
+            {
+              "tick": 3,
+              "phase": 1,
+              "counter": 1
+            },
+            {
+              "tick": 4,
+              "phase": 2,
+              "counter": 0
+            },
+            {
+              "tick": 5,
+              "phase": 2,
+              "counter": 1
+            },
+            {
+              "tick": 6,
+              "phase": 3,
+              "counter": 0
+            },
+            {
+              "tick": 7,
+              "phase": 3,
+              "counter": 1
+            },
+            {
+              "tick": 8,
+              "phase": 4,
+              "counter": 0
+            },
+            {
+              "tick": 9,
+              "phase": 4,
+              "counter": 1
+            },
+            {
+              "tick": 10,
+              "phase": 5,
+              "counter": 0
+            },
+            {
+              "tick": 11,
+              "phase": 5,
+              "counter": 1
+            },
+            {
+              "tick": 12,
+              "phase": 6,
+              "counter": 0
+            }
+          ],
+          "shots": [
+            {
+              "type": 9,
+              "source_cell": 8224,
+              "target_cell": 8228
+            }
+          ],
+          "damage_calls": []
+        }
+      ]
+    }
+  ],
+  "entry_va": "0x451914",
+  "limits": "Starts in attack substate 1, phase/counter zero; first release proven, complete cooldown cycle not emulated; calls to projectile creation/damage intercepted."
+}

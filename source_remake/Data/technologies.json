@@ -1,0 +1,3711 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "section": "AGRICULTURE0",
+      "configuration": [
+        {
+          "section": "AGRICULTURE0",
+          "key": "COUT",
+          "value": "1",
+          "line": 677,
+          "offset": 11189
+        },
+        {
+          "section": "AGRICULTURE0",
+          "key": "MISSION",
+          "value": "1",
+          "line": 678,
+          "offset": 11197
+        },
+        {
+          "section": "AGRICULTURE0",
+          "key": "EFFET",
+          "value": "0",
+          "line": 679,
+          "offset": 11208
+        },
+        {
+          "section": "AGRICULTURE0",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 680,
+          "offset": 11217
+        },
+        {
+          "section": "AGRICULTURE0",
+          "key": "PARAM2",
+          "value": "5",
+          "line": 681,
+          "offset": 11227
+        },
+        {
+          "section": "AGRICULTURE0",
+          "key": "APPARITION",
+          "value": "1",
+          "line": 682,
+          "offset": 11237
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE1",
+      "configuration": [
+        {
+          "section": "AGRICULTURE1",
+          "key": "COUT",
+          "value": "1",
+          "line": 686,
+          "offset": 11296
+        },
+        {
+          "section": "AGRICULTURE1",
+          "key": "MISSION",
+          "value": "1",
+          "line": 687,
+          "offset": 11304
+        },
+        {
+          "section": "AGRICULTURE1",
+          "key": "EFFET",
+          "value": "0",
+          "line": 688,
+          "offset": 11315
+        },
+        {
+          "section": "AGRICULTURE1",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 689,
+          "offset": 11324
+        },
+        {
+          "section": "AGRICULTURE1",
+          "key": "PARAM2",
+          "value": "4",
+          "line": 690,
+          "offset": 11334
+        },
+        {
+          "section": "AGRICULTURE1",
+          "key": "APPARITION",
+          "value": "1",
+          "line": 691,
+          "offset": 11344
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE2",
+      "configuration": [
+        {
+          "section": "AGRICULTURE2",
+          "key": "COUT",
+          "value": "7500",
+          "line": 695,
+          "offset": 11428
+        },
+        {
+          "section": "AGRICULTURE2",
+          "key": "MISSION",
+          "value": "1",
+          "line": 696,
+          "offset": 11439
+        },
+        {
+          "section": "AGRICULTURE2",
+          "key": "EFFET",
+          "value": "1",
+          "line": 698,
+          "offset": 11473
+        },
+        {
+          "section": "AGRICULTURE2",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 700,
+          "offset": 11516
+        },
+        {
+          "section": "AGRICULTURE2",
+          "key": "PARAM2",
+          "value": "5",
+          "line": 702,
+          "offset": 11566
+        },
+        {
+          "section": "AGRICULTURE2",
+          "key": "PARAM3",
+          "value": "15",
+          "line": 704,
+          "offset": 11614
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE3",
+      "configuration": [
+        {
+          "section": "AGRICULTURE3",
+          "key": "COUT",
+          "value": "7500",
+          "line": 708,
+          "offset": 11695
+        },
+        {
+          "section": "AGRICULTURE3",
+          "key": "MISSION",
+          "value": "1",
+          "line": 709,
+          "offset": 11706
+        },
+        {
+          "section": "AGRICULTURE3",
+          "key": "EFFET",
+          "value": "1",
+          "line": 711,
+          "offset": 11740
+        },
+        {
+          "section": "AGRICULTURE3",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 713,
+          "offset": 11783
+        },
+        {
+          "section": "AGRICULTURE3",
+          "key": "PARAM2",
+          "value": "5",
+          "line": 715,
+          "offset": 11833
+        },
+        {
+          "section": "AGRICULTURE3",
+          "key": "PARAM3",
+          "value": "20",
+          "line": 717,
+          "offset": 11881
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE4",
+      "configuration": [
+        {
+          "section": "AGRICULTURE4",
+          "key": "COUT",
+          "value": "10000",
+          "line": 721,
+          "offset": 11966
+        },
+        {
+          "section": "AGRICULTURE4",
+          "key": "MISSION",
+          "value": "1",
+          "line": 722,
+          "offset": 11978
+        },
+        {
+          "section": "AGRICULTURE4",
+          "key": "EFFET",
+          "value": "0",
+          "line": 723,
+          "offset": 11989
+        },
+        {
+          "section": "AGRICULTURE4",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 724,
+          "offset": 11998
+        },
+        {
+          "section": "AGRICULTURE4",
+          "key": "PARAM2",
+          "value": "13",
+          "line": 725,
+          "offset": 12008
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE5",
+      "configuration": [
+        {
+          "section": "AGRICULTURE5",
+          "key": "COUT",
+          "value": "17000",
+          "line": 729,
+          "offset": 12075
+        },
+        {
+          "section": "AGRICULTURE5",
+          "key": "MISSION",
+          "value": "1",
+          "line": 730,
+          "offset": 12087
+        },
+        {
+          "section": "AGRICULTURE5",
+          "key": "EFFET",
+          "value": "1",
+          "line": 731,
+          "offset": 12098
+        },
+        {
+          "section": "AGRICULTURE5",
+          "key": "PARAM1",
+          "value": "2",
+          "line": 733,
+          "offset": 12123
+        },
+        {
+          "section": "AGRICULTURE5",
+          "key": "PARAM2",
+          "value": "9",
+          "line": 734,
+          "offset": 12133
+        },
+        {
+          "section": "AGRICULTURE5",
+          "key": "PARAM3",
+          "value": "1",
+          "line": 735,
+          "offset": 12143
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE6",
+      "configuration": [
+        {
+          "section": "AGRICULTURE6",
+          "key": "COUT",
+          "value": "12500",
+          "line": 739,
+          "offset": 12193
+        },
+        {
+          "section": "AGRICULTURE6",
+          "key": "MISSION",
+          "value": "1",
+          "line": 740,
+          "offset": 12205
+        },
+        {
+          "section": "AGRICULTURE6",
+          "key": "EFFET",
+          "value": "0",
+          "line": 741,
+          "offset": 12216
+        },
+        {
+          "section": "AGRICULTURE6",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 742,
+          "offset": 12225
+        },
+        {
+          "section": "AGRICULTURE6",
+          "key": "PARAM2",
+          "value": "25",
+          "line": 743,
+          "offset": 12235
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE7",
+      "configuration": [
+        {
+          "section": "AGRICULTURE7",
+          "key": "COUT",
+          "value": "15000",
+          "line": 747,
+          "offset": 12294
+        },
+        {
+          "section": "AGRICULTURE7",
+          "key": "MISSION",
+          "value": "1",
+          "line": 748,
+          "offset": 12306
+        },
+        {
+          "section": "AGRICULTURE7",
+          "key": "EFFET",
+          "value": "0",
+          "line": 749,
+          "offset": 12317
+        },
+        {
+          "section": "AGRICULTURE7",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 750,
+          "offset": 12326
+        },
+        {
+          "section": "AGRICULTURE7",
+          "key": "PARAM2",
+          "value": "13",
+          "line": 751,
+          "offset": 12336
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE8",
+      "configuration": [
+        {
+          "section": "AGRICULTURE8",
+          "key": "COUT",
+          "value": "12000",
+          "line": 755,
+          "offset": 12461
+        },
+        {
+          "section": "AGRICULTURE8",
+          "key": "MISSION",
+          "value": "1",
+          "line": 756,
+          "offset": 12473
+        },
+        {
+          "section": "AGRICULTURE8",
+          "key": "EFFET",
+          "value": "1",
+          "line": 757,
+          "offset": 12484
+        },
+        {
+          "section": "AGRICULTURE8",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 759,
+          "offset": 12512
+        },
+        {
+          "section": "AGRICULTURE8",
+          "key": "PARAM2",
+          "value": "5",
+          "line": 761,
+          "offset": 12562
+        },
+        {
+          "section": "AGRICULTURE8",
+          "key": "PARAM3",
+          "value": "1",
+          "line": 762,
+          "offset": 12572
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE9",
+      "configuration": [
+        {
+          "section": "AGRICULTURE9",
+          "key": "COUT",
+          "value": "22000",
+          "line": 766,
+          "offset": 12627
+        },
+        {
+          "section": "AGRICULTURE9",
+          "key": "MISSION",
+          "value": "1",
+          "line": 767,
+          "offset": 12639
+        },
+        {
+          "section": "AGRICULTURE9",
+          "key": "EFFET",
+          "value": "1",
+          "line": 768,
+          "offset": 12650
+        },
+        {
+          "section": "AGRICULTURE9",
+          "key": "PARAM1",
+          "value": "2",
+          "line": 770,
+          "offset": 12675
+        },
+        {
+          "section": "AGRICULTURE9",
+          "key": "PARAM2",
+          "value": "3",
+          "line": 771,
+          "offset": 12685
+        },
+        {
+          "section": "AGRICULTURE9",
+          "key": "PARAM3",
+          "value": "15",
+          "line": 773,
+          "offset": 12721
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE10",
+      "configuration": [
+        {
+          "section": "AGRICULTURE10",
+          "key": "COUT",
+          "value": "25000",
+          "line": 777,
+          "offset": 12777
+        },
+        {
+          "section": "AGRICULTURE10",
+          "key": "MISSION",
+          "value": "1",
+          "line": 778,
+          "offset": 12789
+        },
+        {
+          "section": "AGRICULTURE10",
+          "key": "EFFET",
+          "value": "1",
+          "line": 779,
+          "offset": 12800
+        },
+        {
+          "section": "AGRICULTURE10",
+          "key": "PARAM1",
+          "value": "2",
+          "line": 781,
+          "offset": 12825
+        },
+        {
+          "section": "AGRICULTURE10",
+          "key": "PARAM2",
+          "value": "25",
+          "line": 782,
+          "offset": 12835
+        },
+        {
+          "section": "AGRICULTURE10",
+          "key": "PARAM3",
+          "value": "15",
+          "line": 784,
+          "offset": 12872
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE11",
+      "configuration": [
+        {
+          "section": "AGRICULTURE11",
+          "key": "COUT",
+          "value": "27000",
+          "line": 788,
+          "offset": 12942
+        },
+        {
+          "section": "AGRICULTURE11",
+          "key": "MISSION",
+          "value": "1",
+          "line": 789,
+          "offset": 12954
+        },
+        {
+          "section": "AGRICULTURE11",
+          "key": "EFFET",
+          "value": "1",
+          "line": 791,
+          "offset": 12988
+        },
+        {
+          "section": "AGRICULTURE11",
+          "key": "PARAM1",
+          "value": "0",
+          "line": 793,
+          "offset": 13019
+        },
+        {
+          "section": "AGRICULTURE11",
+          "key": "PARAM2",
+          "value": "3",
+          "line": 795,
+          "offset": 13069
+        },
+        {
+          "section": "AGRICULTURE11",
+          "key": "PARAM3",
+          "value": "15",
+          "line": 797,
+          "offset": 13117
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE12",
+      "configuration": [
+        {
+          "section": "AGRICULTURE12",
+          "key": "COUT",
+          "value": "27000",
+          "line": 801,
+          "offset": 13186
+        },
+        {
+          "section": "AGRICULTURE12",
+          "key": "MISSION",
+          "value": "1",
+          "line": 802,
+          "offset": 13198
+        },
+        {
+          "section": "AGRICULTURE12",
+          "key": "EFFET",
+          "value": "1",
+          "line": 804,
+          "offset": 13232
+        },
+        {
+          "section": "AGRICULTURE12",
+          "key": "PARAM1",
+          "value": "0",
+          "line": 806,
+          "offset": 13263
+        },
+        {
+          "section": "AGRICULTURE12",
+          "key": "PARAM2",
+          "value": "25",
+          "line": 808,
+          "offset": 13313
+        },
+        {
+          "section": "AGRICULTURE12",
+          "key": "PARAM3",
+          "value": "15",
+          "line": 810,
+          "offset": 13362
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE13",
+      "configuration": [
+        {
+          "section": "AGRICULTURE13",
+          "key": "COUT",
+          "value": "30000",
+          "line": 814,
+          "offset": 13433
+        },
+        {
+          "section": "AGRICULTURE13",
+          "key": "MISSION",
+          "value": "1",
+          "line": 815,
+          "offset": 13445
+        },
+        {
+          "section": "AGRICULTURE13",
+          "key": "EFFET",
+          "value": "1",
+          "line": 817,
+          "offset": 13479
+        },
+        {
+          "section": "AGRICULTURE13",
+          "key": "PARAM1",
+          "value": "0",
+          "line": 819,
+          "offset": 13510
+        },
+        {
+          "section": "AGRICULTURE13",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 821,
+          "offset": 13573
+        },
+        {
+          "section": "AGRICULTURE13",
+          "key": "PARAM3",
+          "value": "15",
+          "line": 823,
+          "offset": 13622
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE14",
+      "configuration": [
+        {
+          "section": "AGRICULTURE14",
+          "key": "COUT",
+          "value": "30000",
+          "line": 827,
+          "offset": 13690
+        },
+        {
+          "section": "AGRICULTURE14",
+          "key": "MISSION",
+          "value": "1",
+          "line": 828,
+          "offset": 13702
+        },
+        {
+          "section": "AGRICULTURE14",
+          "key": "EFFET",
+          "value": "1",
+          "line": 829,
+          "offset": 13713
+        },
+        {
+          "section": "AGRICULTURE14",
+          "key": "PARAM1",
+          "value": "2",
+          "line": 831,
+          "offset": 13738
+        },
+        {
+          "section": "AGRICULTURE14",
+          "key": "PARAM2",
+          "value": "9",
+          "line": 833,
+          "offset": 13765
+        },
+        {
+          "section": "AGRICULTURE14",
+          "key": "PARAM3",
+          "value": "2",
+          "line": 835,
+          "offset": 13802
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE15",
+      "configuration": [
+        {
+          "section": "AGRICULTURE15",
+          "key": "COUT",
+          "value": "35000",
+          "line": 839,
+          "offset": 13871
+        },
+        {
+          "section": "AGRICULTURE15",
+          "key": "MISSION",
+          "value": "1",
+          "line": 840,
+          "offset": 13883
+        },
+        {
+          "section": "AGRICULTURE15",
+          "key": "EFFET",
+          "value": "1",
+          "line": 842,
+          "offset": 13917
+        },
+        {
+          "section": "AGRICULTURE15",
+          "key": "PARAM1",
+          "value": "0",
+          "line": 844,
+          "offset": 13948
+        },
+        {
+          "section": "AGRICULTURE15",
+          "key": "PARAM2",
+          "value": "3",
+          "line": 846,
+          "offset": 14011
+        },
+        {
+          "section": "AGRICULTURE15",
+          "key": "PARAM3",
+          "value": "20",
+          "line": 848,
+          "offset": 14059
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE16",
+      "configuration": [
+        {
+          "section": "AGRICULTURE16",
+          "key": "COUT",
+          "value": "40000",
+          "line": 852,
+          "offset": 14128
+        },
+        {
+          "section": "AGRICULTURE16",
+          "key": "MISSION",
+          "value": "1",
+          "line": 853,
+          "offset": 14140
+        },
+        {
+          "section": "AGRICULTURE16",
+          "key": "EFFET",
+          "value": "1",
+          "line": 855,
+          "offset": 14174
+        },
+        {
+          "section": "AGRICULTURE16",
+          "key": "PARAM1",
+          "value": "0",
+          "line": 857,
+          "offset": 14205
+        },
+        {
+          "section": "AGRICULTURE16",
+          "key": "PARAM2",
+          "value": "25",
+          "line": 859,
+          "offset": 14268
+        },
+        {
+          "section": "AGRICULTURE16",
+          "key": "PARAM3",
+          "value": "20",
+          "line": 861,
+          "offset": 14317
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE17",
+      "configuration": [
+        {
+          "section": "AGRICULTURE17",
+          "key": "COUT",
+          "value": "40000",
+          "line": 865,
+          "offset": 14388
+        },
+        {
+          "section": "AGRICULTURE17",
+          "key": "MISSION",
+          "value": "1",
+          "line": 866,
+          "offset": 14400
+        },
+        {
+          "section": "AGRICULTURE17",
+          "key": "EFFET",
+          "value": "1",
+          "line": 868,
+          "offset": 14434
+        },
+        {
+          "section": "AGRICULTURE17",
+          "key": "PARAM1",
+          "value": "0",
+          "line": 870,
+          "offset": 14465
+        },
+        {
+          "section": "AGRICULTURE17",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 872,
+          "offset": 14528
+        },
+        {
+          "section": "AGRICULTURE17",
+          "key": "PARAM3",
+          "value": "20",
+          "line": 874,
+          "offset": 14577
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "AGRICULTURE18",
+      "configuration": [
+        {
+          "section": "AGRICULTURE18",
+          "key": "COUT",
+          "value": "45000",
+          "line": 878,
+          "offset": 14639
+        },
+        {
+          "section": "AGRICULTURE18",
+          "key": "MISSION",
+          "value": "1",
+          "line": 879,
+          "offset": 14651
+        },
+        {
+          "section": "AGRICULTURE18",
+          "key": "EFFET",
+          "value": "1",
+          "line": 880,
+          "offset": 14662
+        },
+        {
+          "section": "AGRICULTURE18",
+          "key": "PARAM1",
+          "value": "7",
+          "line": 882,
+          "offset": 14700
+        },
+        {
+          "section": "AGRICULTURE18",
+          "key": "PARAM2",
+          "value": "5",
+          "line": 883,
+          "offset": 14710
+        },
+        {
+          "section": "AGRICULTURE18",
+          "key": "PARAM3",
+          "value": "1",
+          "line": 884,
+          "offset": 14720
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE0",
+      "configuration": [
+        {
+          "section": "MILITAIRE0",
+          "key": "COUT",
+          "value": "200",
+          "line": 888,
+          "offset": 14769
+        },
+        {
+          "section": "MILITAIRE0",
+          "key": "MISSION",
+          "value": "1",
+          "line": 889,
+          "offset": 14779
+        },
+        {
+          "section": "MILITAIRE0",
+          "key": "EFFET",
+          "value": "0",
+          "line": 890,
+          "offset": 14790
+        },
+        {
+          "section": "MILITAIRE0",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 891,
+          "offset": 14799
+        },
+        {
+          "section": "MILITAIRE0",
+          "key": "PARAM2",
+          "value": "0",
+          "line": 892,
+          "offset": 14809
+        },
+        {
+          "section": "MILITAIRE0",
+          "key": "APPARITION",
+          "value": "1",
+          "line": 893,
+          "offset": 14819
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE1",
+      "configuration": [
+        {
+          "section": "MILITAIRE1",
+          "key": "COUT",
+          "value": "200",
+          "line": 897,
+          "offset": 14876
+        },
+        {
+          "section": "MILITAIRE1",
+          "key": "MISSION",
+          "value": "1",
+          "line": 898,
+          "offset": 14886
+        },
+        {
+          "section": "MILITAIRE1",
+          "key": "EFFET",
+          "value": "0",
+          "line": 899,
+          "offset": 14897
+        },
+        {
+          "section": "MILITAIRE1",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 900,
+          "offset": 14906
+        },
+        {
+          "section": "MILITAIRE1",
+          "key": "PARAM2",
+          "value": "1",
+          "line": 901,
+          "offset": 14916
+        },
+        {
+          "section": "MILITAIRE1",
+          "key": "APPARITION",
+          "value": "1",
+          "line": 902,
+          "offset": 14926
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE2",
+      "configuration": [
+        {
+          "section": "MILITAIRE2",
+          "key": "COUT",
+          "value": "15000",
+          "line": 906,
+          "offset": 14979
+        },
+        {
+          "section": "MILITAIRE2",
+          "key": "MISSION",
+          "value": "1",
+          "line": 907,
+          "offset": 14991
+        },
+        {
+          "section": "MILITAIRE2",
+          "key": "EFFET",
+          "value": "1",
+          "line": 908,
+          "offset": 15002
+        },
+        {
+          "section": "MILITAIRE2",
+          "key": "PARAM1",
+          "value": "5",
+          "line": 909,
+          "offset": 15011
+        },
+        {
+          "section": "MILITAIRE2",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 910,
+          "offset": 15021
+        },
+        {
+          "section": "MILITAIRE2",
+          "key": "PARAM3",
+          "value": "1",
+          "line": 912,
+          "offset": 15049
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE3",
+      "configuration": [
+        {
+          "section": "MILITAIRE3",
+          "key": "COUT",
+          "value": "7500",
+          "line": 916,
+          "offset": 15105
+        },
+        {
+          "section": "MILITAIRE3",
+          "key": "MISSION",
+          "value": "1",
+          "line": 917,
+          "offset": 15116
+        },
+        {
+          "section": "MILITAIRE3",
+          "key": "EFFET",
+          "value": "0",
+          "line": 918,
+          "offset": 15127
+        },
+        {
+          "section": "MILITAIRE3",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 919,
+          "offset": 15136
+        },
+        {
+          "section": "MILITAIRE3",
+          "key": "PARAM2",
+          "value": "1",
+          "line": 920,
+          "offset": 15146
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE4",
+      "configuration": [
+        {
+          "section": "MILITAIRE4",
+          "key": "COUT",
+          "value": "10000",
+          "line": 924,
+          "offset": 15206
+        },
+        {
+          "section": "MILITAIRE4",
+          "key": "MISSION",
+          "value": "1",
+          "line": 925,
+          "offset": 15218
+        },
+        {
+          "section": "MILITAIRE4",
+          "key": "EFFET",
+          "value": "0",
+          "line": 926,
+          "offset": 15229
+        },
+        {
+          "section": "MILITAIRE4",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 927,
+          "offset": 15238
+        },
+        {
+          "section": "MILITAIRE4",
+          "key": "PARAM2",
+          "value": "10",
+          "line": 928,
+          "offset": 15248
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE5",
+      "configuration": [
+        {
+          "section": "MILITAIRE5",
+          "key": "COUT",
+          "value": "12000",
+          "line": 932,
+          "offset": 15295
+        },
+        {
+          "section": "MILITAIRE5",
+          "key": "MISSION",
+          "value": "1",
+          "line": 933,
+          "offset": 15307
+        },
+        {
+          "section": "MILITAIRE5",
+          "key": "EFFET",
+          "value": "1",
+          "line": 934,
+          "offset": 15318
+        },
+        {
+          "section": "MILITAIRE5",
+          "key": "PARAM1",
+          "value": "4",
+          "line": 935,
+          "offset": 15327
+        },
+        {
+          "section": "MILITAIRE5",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 936,
+          "offset": 15337
+        },
+        {
+          "section": "MILITAIRE5",
+          "key": "PARAM3",
+          "value": "1",
+          "line": 938,
+          "offset": 15360
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE6",
+      "configuration": [
+        {
+          "section": "MILITAIRE6",
+          "key": "COUT",
+          "value": "12000",
+          "line": 942,
+          "offset": 15409
+        },
+        {
+          "section": "MILITAIRE6",
+          "key": "MISSION",
+          "value": "1",
+          "line": 943,
+          "offset": 15421
+        },
+        {
+          "section": "MILITAIRE6",
+          "key": "EFFET",
+          "value": "0",
+          "line": 944,
+          "offset": 15432
+        },
+        {
+          "section": "MILITAIRE6",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 945,
+          "offset": 15441
+        },
+        {
+          "section": "MILITAIRE6",
+          "key": "PARAM2",
+          "value": "8",
+          "line": 946,
+          "offset": 15451
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE7",
+      "configuration": [
+        {
+          "section": "MILITAIRE7",
+          "key": "COUT",
+          "value": "15000",
+          "line": 950,
+          "offset": 15500
+        },
+        {
+          "section": "MILITAIRE7",
+          "key": "MISSION",
+          "value": "1",
+          "line": 951,
+          "offset": 15512
+        },
+        {
+          "section": "MILITAIRE7",
+          "key": "EFFET",
+          "value": "1",
+          "line": 952,
+          "offset": 15523
+        },
+        {
+          "section": "MILITAIRE7",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 953,
+          "offset": 15532
+        },
+        {
+          "section": "MILITAIRE7",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 954,
+          "offset": 15542
+        },
+        {
+          "section": "MILITAIRE7",
+          "key": "PARAM3",
+          "value": "15",
+          "line": 955,
+          "offset": 15553
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE8",
+      "configuration": [
+        {
+          "section": "MILITAIRE8",
+          "key": "COUT",
+          "value": "17000",
+          "line": 959,
+          "offset": 15608
+        },
+        {
+          "section": "MILITAIRE8",
+          "key": "MISSION",
+          "value": "1",
+          "line": 960,
+          "offset": 15620
+        },
+        {
+          "section": "MILITAIRE8",
+          "key": "EFFET",
+          "value": "2",
+          "line": 961,
+          "offset": 15631
+        },
+        {
+          "section": "MILITAIRE8",
+          "key": "PARAM1",
+          "value": "6",
+          "line": 962,
+          "offset": 15640
+        },
+        {
+          "section": "MILITAIRE8",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 963,
+          "offset": 15650
+        },
+        {
+          "section": "MILITAIRE8",
+          "key": "PARAM3",
+          "value": "15",
+          "line": 964,
+          "offset": 15661
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE9",
+      "configuration": [
+        {
+          "section": "MILITAIRE9",
+          "key": "COUT",
+          "value": "22000",
+          "line": 968,
+          "offset": 15712
+        },
+        {
+          "section": "MILITAIRE9",
+          "key": "MISSION",
+          "value": "1",
+          "line": 969,
+          "offset": 15724
+        },
+        {
+          "section": "MILITAIRE9",
+          "key": "EFFET",
+          "value": "0",
+          "line": 970,
+          "offset": 15735
+        },
+        {
+          "section": "MILITAIRE9",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 971,
+          "offset": 15744
+        },
+        {
+          "section": "MILITAIRE9",
+          "key": "PARAM2",
+          "value": "11",
+          "line": 972,
+          "offset": 15754
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE10",
+      "configuration": [
+        {
+          "section": "MILITAIRE10",
+          "key": "COUT",
+          "value": "25000",
+          "line": 976,
+          "offset": 15808
+        },
+        {
+          "section": "MILITAIRE10",
+          "key": "MISSION",
+          "value": "1",
+          "line": 977,
+          "offset": 15820
+        },
+        {
+          "section": "MILITAIRE10",
+          "key": "EFFET",
+          "value": "1",
+          "line": 978,
+          "offset": 15831
+        },
+        {
+          "section": "MILITAIRE10",
+          "key": "PARAM1",
+          "value": "6",
+          "line": 980,
+          "offset": 15865
+        },
+        {
+          "section": "MILITAIRE10",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 981,
+          "offset": 15875
+        },
+        {
+          "section": "MILITAIRE10",
+          "key": "PARAM3",
+          "value": "1",
+          "line": 982,
+          "offset": 15886
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE11",
+      "configuration": [
+        {
+          "section": "MILITAIRE11",
+          "key": "COUT",
+          "value": "27000",
+          "line": 986,
+          "offset": 15939
+        },
+        {
+          "section": "MILITAIRE11",
+          "key": "MISSION",
+          "value": "1",
+          "line": 987,
+          "offset": 15951
+        },
+        {
+          "section": "MILITAIRE11",
+          "key": "EFFET",
+          "value": "0",
+          "line": 988,
+          "offset": 15962
+        },
+        {
+          "section": "MILITAIRE11",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 989,
+          "offset": 15971
+        },
+        {
+          "section": "MILITAIRE11",
+          "key": "PARAM2",
+          "value": "2",
+          "line": 990,
+          "offset": 15981
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE12",
+      "configuration": [
+        {
+          "section": "MILITAIRE12",
+          "key": "COUT",
+          "value": "27000",
+          "line": 994,
+          "offset": 16038
+        },
+        {
+          "section": "MILITAIRE12",
+          "key": "MISSION",
+          "value": "1",
+          "line": 995,
+          "offset": 16050
+        },
+        {
+          "section": "MILITAIRE12",
+          "key": "EFFET",
+          "value": "0",
+          "line": 996,
+          "offset": 16061
+        },
+        {
+          "section": "MILITAIRE12",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 997,
+          "offset": 16070
+        },
+        {
+          "section": "MILITAIRE12",
+          "key": "PARAM2",
+          "value": "11",
+          "line": 998,
+          "offset": 16080
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE13",
+      "configuration": [
+        {
+          "section": "MILITAIRE13",
+          "key": "COUT",
+          "value": "30000",
+          "line": 1002,
+          "offset": 16132
+        },
+        {
+          "section": "MILITAIRE13",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1003,
+          "offset": 16144
+        },
+        {
+          "section": "MILITAIRE13",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1004,
+          "offset": 16155
+        },
+        {
+          "section": "MILITAIRE13",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 1005,
+          "offset": 16164
+        },
+        {
+          "section": "MILITAIRE13",
+          "key": "PARAM2",
+          "value": "14",
+          "line": 1006,
+          "offset": 16174
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE14",
+      "configuration": [
+        {
+          "section": "MILITAIRE14",
+          "key": "COUT",
+          "value": "30000",
+          "line": 1010,
+          "offset": 16228
+        },
+        {
+          "section": "MILITAIRE14",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1011,
+          "offset": 16240
+        },
+        {
+          "section": "MILITAIRE14",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1012,
+          "offset": 16251
+        },
+        {
+          "section": "MILITAIRE14",
+          "key": "PARAM1",
+          "value": "5",
+          "line": 1013,
+          "offset": 16260
+        },
+        {
+          "section": "MILITAIRE14",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 1014,
+          "offset": 16270
+        },
+        {
+          "section": "MILITAIRE14",
+          "key": "PARAM3",
+          "value": "2",
+          "line": 1016,
+          "offset": 16298
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE15",
+      "configuration": [
+        {
+          "section": "MILITAIRE15",
+          "key": "COUT",
+          "value": "35000",
+          "line": 1020,
+          "offset": 16345
+        },
+        {
+          "section": "MILITAIRE15",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1021,
+          "offset": 16357
+        },
+        {
+          "section": "MILITAIRE15",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1022,
+          "offset": 16368
+        },
+        {
+          "section": "MILITAIRE15",
+          "key": "PARAM1",
+          "value": "4",
+          "line": 1023,
+          "offset": 16377
+        },
+        {
+          "section": "MILITAIRE15",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 1024,
+          "offset": 16387
+        },
+        {
+          "section": "MILITAIRE15",
+          "key": "PARAM3",
+          "value": "2",
+          "line": 1025,
+          "offset": 16398
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE16",
+      "configuration": [
+        {
+          "section": "MILITAIRE16",
+          "key": "COUT",
+          "value": "40000",
+          "line": 1029,
+          "offset": 16448
+        },
+        {
+          "section": "MILITAIRE16",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1030,
+          "offset": 16460
+        },
+        {
+          "section": "MILITAIRE16",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1031,
+          "offset": 16471
+        },
+        {
+          "section": "MILITAIRE16",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 1032,
+          "offset": 16480
+        },
+        {
+          "section": "MILITAIRE16",
+          "key": "PARAM2",
+          "value": "12",
+          "line": 1033,
+          "offset": 16490
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE17",
+      "configuration": [
+        {
+          "section": "MILITAIRE17",
+          "key": "COUT",
+          "value": "40000",
+          "line": 1037,
+          "offset": 16551
+        },
+        {
+          "section": "MILITAIRE17",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1038,
+          "offset": 16563
+        },
+        {
+          "section": "MILITAIRE17",
+          "key": "EFFET",
+          "value": "2",
+          "line": 1039,
+          "offset": 16574
+        },
+        {
+          "section": "MILITAIRE17",
+          "key": "PARAM1",
+          "value": "6",
+          "line": 1040,
+          "offset": 16583
+        },
+        {
+          "section": "MILITAIRE17",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 1041,
+          "offset": 16593
+        },
+        {
+          "section": "MILITAIRE17",
+          "key": "PARAM3",
+          "value": "20",
+          "line": 1042,
+          "offset": 16604
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE18",
+      "configuration": [
+        {
+          "section": "MILITAIRE18",
+          "key": "COUT",
+          "value": "45000",
+          "line": 1046,
+          "offset": 16653
+        },
+        {
+          "section": "MILITAIRE18",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1047,
+          "offset": 16665
+        },
+        {
+          "section": "MILITAIRE18",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1048,
+          "offset": 16676
+        },
+        {
+          "section": "MILITAIRE18",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1049,
+          "offset": 16685
+        },
+        {
+          "section": "MILITAIRE18",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 1050,
+          "offset": 16695
+        },
+        {
+          "section": "MILITAIRE18",
+          "key": "PARAM3",
+          "value": "20",
+          "line": 1051,
+          "offset": 16706
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "MILITAIRE19",
+      "configuration": [
+        {
+          "section": "MILITAIRE19",
+          "key": "COUT",
+          "value": "45000",
+          "line": 1055,
+          "offset": 16765
+        },
+        {
+          "section": "MILITAIRE19",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1056,
+          "offset": 16777
+        },
+        {
+          "section": "MILITAIRE19",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1057,
+          "offset": 16788
+        },
+        {
+          "section": "MILITAIRE19",
+          "key": "PARAM1",
+          "value": "6",
+          "line": 1058,
+          "offset": 16797
+        },
+        {
+          "section": "MILITAIRE19",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 1059,
+          "offset": 16807
+        },
+        {
+          "section": "MILITAIRE19",
+          "key": "PARAM3",
+          "value": "2",
+          "line": 1060,
+          "offset": 16818
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL0",
+      "configuration": [
+        {
+          "section": "GENIECIVIL0",
+          "key": "COUT",
+          "value": "200",
+          "line": 1064,
+          "offset": 16871
+        },
+        {
+          "section": "GENIECIVIL0",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1065,
+          "offset": 16881
+        },
+        {
+          "section": "GENIECIVIL0",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1066,
+          "offset": 16892
+        },
+        {
+          "section": "GENIECIVIL0",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 1067,
+          "offset": 16901
+        },
+        {
+          "section": "GENIECIVIL0",
+          "key": "PARAM2",
+          "value": "7",
+          "line": 1068,
+          "offset": 16911
+        },
+        {
+          "section": "GENIECIVIL0",
+          "key": "APPARITION",
+          "value": "1",
+          "line": 1069,
+          "offset": 16921
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL1",
+      "configuration": [
+        {
+          "section": "GENIECIVIL1",
+          "key": "COUT",
+          "value": "200",
+          "line": 1073,
+          "offset": 16975
+        },
+        {
+          "section": "GENIECIVIL1",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1074,
+          "offset": 16985
+        },
+        {
+          "section": "GENIECIVIL1",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1075,
+          "offset": 16996
+        },
+        {
+          "section": "GENIECIVIL1",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 1076,
+          "offset": 17005
+        },
+        {
+          "section": "GENIECIVIL1",
+          "key": "PARAM2",
+          "value": "6",
+          "line": 1077,
+          "offset": 17015
+        },
+        {
+          "section": "GENIECIVIL1",
+          "key": "APPARITION",
+          "value": "1",
+          "line": 1078,
+          "offset": 17025
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL2",
+      "configuration": [
+        {
+          "section": "GENIECIVIL2",
+          "key": "COUT",
+          "value": "200",
+          "line": 1082,
+          "offset": 17083
+        },
+        {
+          "section": "GENIECIVIL2",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1083,
+          "offset": 17093
+        },
+        {
+          "section": "GENIECIVIL2",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1084,
+          "offset": 17104
+        },
+        {
+          "section": "GENIECIVIL2",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1085,
+          "offset": 17113
+        },
+        {
+          "section": "GENIECIVIL2",
+          "key": "PARAM2",
+          "value": "2",
+          "line": 1086,
+          "offset": 17123
+        },
+        {
+          "section": "GENIECIVIL2",
+          "key": "APPARITION",
+          "value": "1",
+          "line": 1087,
+          "offset": 17133
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL3",
+      "configuration": [
+        {
+          "section": "GENIECIVIL3",
+          "key": "COUT",
+          "value": "200",
+          "line": 1091,
+          "offset": 17188
+        },
+        {
+          "section": "GENIECIVIL3",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1092,
+          "offset": 17198
+        },
+        {
+          "section": "GENIECIVIL3",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1093,
+          "offset": 17209
+        },
+        {
+          "section": "GENIECIVIL3",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1094,
+          "offset": 17218
+        },
+        {
+          "section": "GENIECIVIL3",
+          "key": "PARAM2",
+          "value": "3",
+          "line": 1095,
+          "offset": 17228
+        },
+        {
+          "section": "GENIECIVIL3",
+          "key": "APPARITION",
+          "value": "1",
+          "line": 1096,
+          "offset": 17238
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL4",
+      "configuration": [
+        {
+          "section": "GENIECIVIL4",
+          "key": "COUT",
+          "value": "200",
+          "line": 1100,
+          "offset": 17297
+        },
+        {
+          "section": "GENIECIVIL4",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1101,
+          "offset": 17307
+        },
+        {
+          "section": "GENIECIVIL4",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1102,
+          "offset": 17318
+        },
+        {
+          "section": "GENIECIVIL4",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1103,
+          "offset": 17327
+        },
+        {
+          "section": "GENIECIVIL4",
+          "key": "PARAM2",
+          "value": "7",
+          "line": 1104,
+          "offset": 17337
+        },
+        {
+          "section": "GENIECIVIL4",
+          "key": "APPARITION",
+          "value": "3",
+          "line": 1105,
+          "offset": 17347
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL5",
+      "configuration": [
+        {
+          "section": "GENIECIVIL5",
+          "key": "COUT",
+          "value": "200",
+          "line": 1109,
+          "offset": 17401
+        },
+        {
+          "section": "GENIECIVIL5",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1110,
+          "offset": 17411
+        },
+        {
+          "section": "GENIECIVIL5",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1111,
+          "offset": 17422
+        },
+        {
+          "section": "GENIECIVIL5",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1112,
+          "offset": 17431
+        },
+        {
+          "section": "GENIECIVIL5",
+          "key": "PARAM2",
+          "value": "8",
+          "line": 1113,
+          "offset": 17441
+        },
+        {
+          "section": "GENIECIVIL5",
+          "key": "APPARITION",
+          "value": "4",
+          "line": 1114,
+          "offset": 17451
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL6",
+      "configuration": [
+        {
+          "section": "GENIECIVIL6",
+          "key": "COUT",
+          "value": "1",
+          "line": 1118,
+          "offset": 17505
+        },
+        {
+          "section": "GENIECIVIL6",
+          "key": "MISSION",
+          "value": "4",
+          "line": 1119,
+          "offset": 17513
+        },
+        {
+          "section": "GENIECIVIL6",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1120,
+          "offset": 17524
+        },
+        {
+          "section": "GENIECIVIL6",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1121,
+          "offset": 17533
+        },
+        {
+          "section": "GENIECIVIL6",
+          "key": "PARAM2",
+          "value": "16",
+          "line": 1122,
+          "offset": 17543
+        },
+        {
+          "section": "GENIECIVIL6",
+          "key": "APPARITION",
+          "value": "4",
+          "line": 1123,
+          "offset": 17554
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL7",
+      "configuration": [
+        {
+          "section": "GENIECIVIL7",
+          "key": "COUT",
+          "value": "7500",
+          "line": 1127,
+          "offset": 17616
+        },
+        {
+          "section": "GENIECIVIL7",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1128,
+          "offset": 17627
+        },
+        {
+          "section": "GENIECIVIL7",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1129,
+          "offset": 17638
+        },
+        {
+          "section": "GENIECIVIL7",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1130,
+          "offset": 17647
+        },
+        {
+          "section": "GENIECIVIL7",
+          "key": "PARAM2",
+          "value": "9",
+          "line": 1131,
+          "offset": 17657
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL8",
+      "configuration": [
+        {
+          "section": "GENIECIVIL8",
+          "key": "COUT",
+          "value": "10000",
+          "line": 1135,
+          "offset": 17713
+        },
+        {
+          "section": "GENIECIVIL8",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1136,
+          "offset": 17725
+        },
+        {
+          "section": "GENIECIVIL8",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1137,
+          "offset": 17736
+        },
+        {
+          "section": "GENIECIVIL8",
+          "key": "PARAM1",
+          "value": "8",
+          "line": 1138,
+          "offset": 17745
+        },
+        {
+          "section": "GENIECIVIL8",
+          "key": "PARAM2",
+          "value": "7",
+          "line": 1139,
+          "offset": 17755
+        },
+        {
+          "section": "GENIECIVIL8",
+          "key": "PARAM3",
+          "value": "15",
+          "line": 1140,
+          "offset": 17765
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL9",
+      "configuration": [
+        {
+          "section": "GENIECIVIL9",
+          "key": "COUT",
+          "value": "12000",
+          "line": 1144,
+          "offset": 17834
+        },
+        {
+          "section": "GENIECIVIL9",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1145,
+          "offset": 17846
+        },
+        {
+          "section": "GENIECIVIL9",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1146,
+          "offset": 17857
+        },
+        {
+          "section": "GENIECIVIL9",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1147,
+          "offset": 17866
+        },
+        {
+          "section": "GENIECIVIL9",
+          "key": "PARAM2",
+          "value": "18",
+          "line": 1148,
+          "offset": 17876
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL10",
+      "configuration": [
+        {
+          "section": "GENIECIVIL10",
+          "key": "COUT",
+          "value": "12000",
+          "line": 1152,
+          "offset": 17946
+        },
+        {
+          "section": "GENIECIVIL10",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1153,
+          "offset": 17958
+        },
+        {
+          "section": "GENIECIVIL10",
+          "key": "EFFET",
+          "value": "2",
+          "line": 1154,
+          "offset": 17969
+        },
+        {
+          "section": "GENIECIVIL10",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 1155,
+          "offset": 17978
+        },
+        {
+          "section": "GENIECIVIL10",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 1156,
+          "offset": 17988
+        },
+        {
+          "section": "GENIECIVIL10",
+          "key": "PARAM3",
+          "value": "15",
+          "line": 1157,
+          "offset": 17999
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL11",
+      "configuration": [
+        {
+          "section": "GENIECIVIL11",
+          "key": "COUT",
+          "value": "15000",
+          "line": 1161,
+          "offset": 18053
+        },
+        {
+          "section": "GENIECIVIL11",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1162,
+          "offset": 18065
+        },
+        {
+          "section": "GENIECIVIL11",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1163,
+          "offset": 18076
+        },
+        {
+          "section": "GENIECIVIL11",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 1164,
+          "offset": 18085
+        },
+        {
+          "section": "GENIECIVIL11",
+          "key": "PARAM2",
+          "value": "7",
+          "line": 1165,
+          "offset": 18095
+        },
+        {
+          "section": "GENIECIVIL11",
+          "key": "PARAM3",
+          "value": "1",
+          "line": 1166,
+          "offset": 18105
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL12",
+      "configuration": [
+        {
+          "section": "GENIECIVIL12",
+          "key": "COUT",
+          "value": "17000",
+          "line": 1170,
+          "offset": 18175
+        },
+        {
+          "section": "GENIECIVIL12",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1171,
+          "offset": 18187
+        },
+        {
+          "section": "GENIECIVIL12",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1172,
+          "offset": 18198
+        },
+        {
+          "section": "GENIECIVIL12",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1173,
+          "offset": 18207
+        },
+        {
+          "section": "GENIECIVIL12",
+          "key": "PARAM2",
+          "value": "7",
+          "line": 1174,
+          "offset": 18217
+        },
+        {
+          "section": "GENIECIVIL12",
+          "key": "PARAM3",
+          "value": "15",
+          "line": 1175,
+          "offset": 18227
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL13",
+      "configuration": [
+        {
+          "section": "GENIECIVIL13",
+          "key": "COUT",
+          "value": "22000",
+          "line": 1179,
+          "offset": 18278
+        },
+        {
+          "section": "GENIECIVIL13",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1180,
+          "offset": 18290
+        },
+        {
+          "section": "GENIECIVIL13",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1181,
+          "offset": 18301
+        },
+        {
+          "section": "GENIECIVIL13",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1182,
+          "offset": 18310
+        },
+        {
+          "section": "GENIECIVIL13",
+          "key": "PARAM2",
+          "value": "0",
+          "line": 1183,
+          "offset": 18320
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL14",
+      "configuration": [
+        {
+          "section": "GENIECIVIL14",
+          "key": "COUT",
+          "value": "25000",
+          "line": 1187,
+          "offset": 18374
+        },
+        {
+          "section": "GENIECIVIL14",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1188,
+          "offset": 18386
+        },
+        {
+          "section": "GENIECIVIL14",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1189,
+          "offset": 18397
+        },
+        {
+          "section": "GENIECIVIL14",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1190,
+          "offset": 18406
+        },
+        {
+          "section": "GENIECIVIL14",
+          "key": "PARAM2",
+          "value": "19",
+          "line": 1191,
+          "offset": 18416
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL15",
+      "configuration": [
+        {
+          "section": "GENIECIVIL15",
+          "key": "COUT",
+          "value": "27000",
+          "line": 1195,
+          "offset": 18468
+        },
+        {
+          "section": "GENIECIVIL15",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1196,
+          "offset": 18480
+        },
+        {
+          "section": "GENIECIVIL15",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1197,
+          "offset": 18491
+        },
+        {
+          "section": "GENIECIVIL15",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1198,
+          "offset": 18500
+        },
+        {
+          "section": "GENIECIVIL15",
+          "key": "PARAM2",
+          "value": "14",
+          "line": 1199,
+          "offset": 18510
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL16",
+      "configuration": [
+        {
+          "section": "GENIECIVIL16",
+          "key": "COUT",
+          "value": "30000",
+          "line": 1203,
+          "offset": 18564
+        },
+        {
+          "section": "GENIECIVIL16",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1204,
+          "offset": 18576
+        },
+        {
+          "section": "GENIECIVIL16",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1205,
+          "offset": 18587
+        },
+        {
+          "section": "GENIECIVIL16",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1206,
+          "offset": 18596
+        },
+        {
+          "section": "GENIECIVIL16",
+          "key": "PARAM2",
+          "value": "12",
+          "line": 1207,
+          "offset": 18606
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL17",
+      "configuration": [
+        {
+          "section": "GENIECIVIL17",
+          "key": "COUT",
+          "value": "30000",
+          "line": 1211,
+          "offset": 18672
+        },
+        {
+          "section": "GENIECIVIL17",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1212,
+          "offset": 18684
+        },
+        {
+          "section": "GENIECIVIL17",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1213,
+          "offset": 18695
+        },
+        {
+          "section": "GENIECIVIL17",
+          "key": "PARAM1",
+          "value": "8",
+          "line": 1214,
+          "offset": 18704
+        },
+        {
+          "section": "GENIECIVIL17",
+          "key": "PARAM2",
+          "value": "7",
+          "line": 1215,
+          "offset": 18714
+        },
+        {
+          "section": "GENIECIVIL17",
+          "key": "PARAM3",
+          "value": "20",
+          "line": 1216,
+          "offset": 18724
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL18",
+      "configuration": [
+        {
+          "section": "GENIECIVIL18",
+          "key": "COUT",
+          "value": "30000",
+          "line": 1220,
+          "offset": 18784
+        },
+        {
+          "section": "GENIECIVIL18",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1221,
+          "offset": 18796
+        },
+        {
+          "section": "GENIECIVIL18",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1222,
+          "offset": 18807
+        },
+        {
+          "section": "GENIECIVIL18",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1223,
+          "offset": 18816
+        },
+        {
+          "section": "GENIECIVIL18",
+          "key": "PARAM2",
+          "value": "7",
+          "line": 1224,
+          "offset": 18826
+        },
+        {
+          "section": "GENIECIVIL18",
+          "key": "PARAM3",
+          "value": "15",
+          "line": 1225,
+          "offset": 18836
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL19",
+      "configuration": [
+        {
+          "section": "GENIECIVIL19",
+          "key": "COUT",
+          "value": "35000",
+          "line": 1229,
+          "offset": 18896
+        },
+        {
+          "section": "GENIECIVIL19",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1230,
+          "offset": 18908
+        },
+        {
+          "section": "GENIECIVIL19",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1231,
+          "offset": 18919
+        },
+        {
+          "section": "GENIECIVIL19",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 1232,
+          "offset": 18928
+        },
+        {
+          "section": "GENIECIVIL19",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 1233,
+          "offset": 18938
+        },
+        {
+          "section": "GENIECIVIL19",
+          "key": "PARAM3",
+          "value": "1",
+          "line": 1234,
+          "offset": 18949
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL20",
+      "configuration": [
+        {
+          "section": "GENIECIVIL20",
+          "key": "COUT",
+          "value": "40000",
+          "line": 1238,
+          "offset": 18997
+        },
+        {
+          "section": "GENIECIVIL20",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1239,
+          "offset": 19009
+        },
+        {
+          "section": "GENIECIVIL20",
+          "key": "EFFET",
+          "value": "2",
+          "line": 1240,
+          "offset": 19020
+        },
+        {
+          "section": "GENIECIVIL20",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 1241,
+          "offset": 19029
+        },
+        {
+          "section": "GENIECIVIL20",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 1242,
+          "offset": 19039
+        },
+        {
+          "section": "GENIECIVIL20",
+          "key": "PARAM3",
+          "value": "20",
+          "line": 1243,
+          "offset": 19050
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL21",
+      "configuration": [
+        {
+          "section": "GENIECIVIL21",
+          "key": "COUT",
+          "value": "45000",
+          "line": 1247,
+          "offset": 19105
+        },
+        {
+          "section": "GENIECIVIL21",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1248,
+          "offset": 19117
+        },
+        {
+          "section": "GENIECIVIL21",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1249,
+          "offset": 19128
+        },
+        {
+          "section": "GENIECIVIL21",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 1250,
+          "offset": 19137
+        },
+        {
+          "section": "GENIECIVIL21",
+          "key": "PARAM2",
+          "value": "16",
+          "line": 1251,
+          "offset": 19147
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL22",
+      "configuration": [
+        {
+          "section": "GENIECIVIL22",
+          "key": "COUT",
+          "value": "40000",
+          "line": 1255,
+          "offset": 19201
+        },
+        {
+          "section": "GENIECIVIL22",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1256,
+          "offset": 19213
+        },
+        {
+          "section": "GENIECIVIL22",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1257,
+          "offset": 19224
+        },
+        {
+          "section": "GENIECIVIL22",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1258,
+          "offset": 19233
+        },
+        {
+          "section": "GENIECIVIL22",
+          "key": "PARAM2",
+          "value": "21",
+          "line": 1259,
+          "offset": 19243
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "GENIECIVIL23",
+      "configuration": [
+        {
+          "section": "GENIECIVIL23",
+          "key": "COUT",
+          "value": "45000",
+          "line": 1263,
+          "offset": 19303
+        },
+        {
+          "section": "GENIECIVIL23",
+          "key": "MISSION",
+          "value": "1",
+          "line": 1264,
+          "offset": 19315
+        },
+        {
+          "section": "GENIECIVIL23",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1265,
+          "offset": 19326
+        },
+        {
+          "section": "GENIECIVIL23",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 1266,
+          "offset": 19335
+        },
+        {
+          "section": "GENIECIVIL23",
+          "key": "PARAM2",
+          "value": "30",
+          "line": 1267,
+          "offset": 19345
+        },
+        {
+          "section": "GENIECIVIL23",
+          "key": "PARAM3",
+          "value": "2",
+          "line": 1268,
+          "offset": 19356
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX0",
+      "configuration": [
+        {
+          "section": "RELIGIEUX0",
+          "key": "COUT",
+          "value": "5",
+          "line": 1272,
+          "offset": 19405
+        },
+        {
+          "section": "RELIGIEUX0",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1273,
+          "offset": 19413
+        },
+        {
+          "section": "RELIGIEUX0",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1274,
+          "offset": 19424
+        },
+        {
+          "section": "RELIGIEUX0",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 1275,
+          "offset": 19433
+        },
+        {
+          "section": "RELIGIEUX0",
+          "key": "PARAM2",
+          "value": "4",
+          "line": 1276,
+          "offset": 19443
+        },
+        {
+          "section": "RELIGIEUX0",
+          "key": "APPARITION",
+          "value": "7",
+          "line": 1277,
+          "offset": 19453
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX1",
+      "configuration": [
+        {
+          "section": "RELIGIEUX1",
+          "key": "COUT",
+          "value": "5",
+          "line": 1281,
+          "offset": 19509
+        },
+        {
+          "section": "RELIGIEUX1",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1282,
+          "offset": 19517
+        },
+        {
+          "section": "RELIGIEUX1",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1283,
+          "offset": 19528
+        },
+        {
+          "section": "RELIGIEUX1",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1284,
+          "offset": 19537
+        },
+        {
+          "section": "RELIGIEUX1",
+          "key": "PARAM2",
+          "value": "15",
+          "line": 1285,
+          "offset": 19547
+        },
+        {
+          "section": "RELIGIEUX1",
+          "key": "APPARITION",
+          "value": "7",
+          "line": 1286,
+          "offset": 19558
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX2",
+      "configuration": [
+        {
+          "section": "RELIGIEUX2",
+          "key": "COUT",
+          "value": "200",
+          "line": 1290,
+          "offset": 19617
+        },
+        {
+          "section": "RELIGIEUX2",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1291,
+          "offset": 19627
+        },
+        {
+          "section": "RELIGIEUX2",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1292,
+          "offset": 19638
+        },
+        {
+          "section": "RELIGIEUX2",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1293,
+          "offset": 19647
+        },
+        {
+          "section": "RELIGIEUX2",
+          "key": "PARAM2",
+          "value": "6",
+          "line": 1294,
+          "offset": 19657
+        },
+        {
+          "section": "RELIGIEUX2",
+          "key": "APPARITION",
+          "value": "7",
+          "line": 1295,
+          "offset": 19667
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX3",
+      "configuration": [
+        {
+          "section": "RELIGIEUX3",
+          "key": "COUT",
+          "value": "5",
+          "line": 1299,
+          "offset": 19731
+        },
+        {
+          "section": "RELIGIEUX3",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1300,
+          "offset": 19739
+        },
+        {
+          "section": "RELIGIEUX3",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1301,
+          "offset": 19750
+        },
+        {
+          "section": "RELIGIEUX3",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1302,
+          "offset": 19759
+        },
+        {
+          "section": "RELIGIEUX3",
+          "key": "PARAM2",
+          "value": "17",
+          "line": 1303,
+          "offset": 19769
+        },
+        {
+          "section": "RELIGIEUX3",
+          "key": "APPARITION",
+          "value": "7",
+          "line": 1304,
+          "offset": 19780
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX4",
+      "configuration": [
+        {
+          "section": "RELIGIEUX4",
+          "key": "COUT",
+          "value": "12000",
+          "line": 1308,
+          "offset": 19838
+        },
+        {
+          "section": "RELIGIEUX4",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1309,
+          "offset": 19850
+        },
+        {
+          "section": "RELIGIEUX4",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1310,
+          "offset": 19861
+        },
+        {
+          "section": "RELIGIEUX4",
+          "key": "PARAM1",
+          "value": "4",
+          "line": 1311,
+          "offset": 19870
+        },
+        {
+          "section": "RELIGIEUX4",
+          "key": "PARAM2",
+          "value": "0",
+          "line": 1312,
+          "offset": 19880
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX5",
+      "configuration": [
+        {
+          "section": "RELIGIEUX5",
+          "key": "COUT",
+          "value": "20000",
+          "line": 1316,
+          "offset": 19930
+        },
+        {
+          "section": "RELIGIEUX5",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1317,
+          "offset": 19942
+        },
+        {
+          "section": "RELIGIEUX5",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1318,
+          "offset": 19953
+        },
+        {
+          "section": "RELIGIEUX5",
+          "key": "PARAM1",
+          "value": "10",
+          "line": 1319,
+          "offset": 19962
+        },
+        {
+          "section": "RELIGIEUX5",
+          "key": "PARAM2",
+          "value": "4",
+          "line": 1320,
+          "offset": 19973
+        },
+        {
+          "section": "RELIGIEUX5",
+          "key": "PARAM3",
+          "value": "2",
+          "line": 1322,
+          "offset": 19997
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX6",
+      "configuration": [
+        {
+          "section": "RELIGIEUX6",
+          "key": "COUT",
+          "value": "25000",
+          "line": 1326,
+          "offset": 20052
+        },
+        {
+          "section": "RELIGIEUX6",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1327,
+          "offset": 20064
+        },
+        {
+          "section": "RELIGIEUX6",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1328,
+          "offset": 20075
+        },
+        {
+          "section": "RELIGIEUX6",
+          "key": "PARAM1",
+          "value": "4",
+          "line": 1329,
+          "offset": 20084
+        },
+        {
+          "section": "RELIGIEUX6",
+          "key": "PARAM2",
+          "value": "1",
+          "line": 1330,
+          "offset": 20094
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX7",
+      "configuration": [
+        {
+          "section": "RELIGIEUX7",
+          "key": "COUT",
+          "value": "30000",
+          "line": 1334,
+          "offset": 20157
+        },
+        {
+          "section": "RELIGIEUX7",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1335,
+          "offset": 20169
+        },
+        {
+          "section": "RELIGIEUX7",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1336,
+          "offset": 20180
+        },
+        {
+          "section": "RELIGIEUX7",
+          "key": "PARAM1",
+          "value": "11",
+          "line": 1337,
+          "offset": 20189
+        },
+        {
+          "section": "RELIGIEUX7",
+          "key": "PARAM2",
+          "value": "4",
+          "line": 1338,
+          "offset": 20200
+        },
+        {
+          "section": "RELIGIEUX7",
+          "key": "PARAM3",
+          "value": "25",
+          "line": 1340,
+          "offset": 20246
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX8",
+      "configuration": [
+        {
+          "section": "RELIGIEUX8",
+          "key": "COUT",
+          "value": "45000",
+          "line": 1344,
+          "offset": 20293
+        },
+        {
+          "section": "RELIGIEUX8",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1345,
+          "offset": 20305
+        },
+        {
+          "section": "RELIGIEUX8",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1346,
+          "offset": 20316
+        },
+        {
+          "section": "RELIGIEUX8",
+          "key": "PARAM1",
+          "value": "1",
+          "line": 1347,
+          "offset": 20325
+        },
+        {
+          "section": "RELIGIEUX8",
+          "key": "PARAM2",
+          "value": "15",
+          "line": 1348,
+          "offset": 20335
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX9",
+      "configuration": [
+        {
+          "section": "RELIGIEUX9",
+          "key": "COUT",
+          "value": "30000",
+          "line": 1352,
+          "offset": 20401
+        },
+        {
+          "section": "RELIGIEUX9",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1353,
+          "offset": 20413
+        },
+        {
+          "section": "RELIGIEUX9",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1354,
+          "offset": 20424
+        },
+        {
+          "section": "RELIGIEUX9",
+          "key": "PARAM1",
+          "value": "4",
+          "line": 1355,
+          "offset": 20433
+        },
+        {
+          "section": "RELIGIEUX9",
+          "key": "PARAM2",
+          "value": "2",
+          "line": 1356,
+          "offset": 20443
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX10",
+      "configuration": [
+        {
+          "section": "RELIGIEUX10",
+          "key": "COUT",
+          "value": "45000",
+          "line": 1360,
+          "offset": 20498
+        },
+        {
+          "section": "RELIGIEUX10",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1361,
+          "offset": 20510
+        },
+        {
+          "section": "RELIGIEUX10",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1362,
+          "offset": 20521
+        },
+        {
+          "section": "RELIGIEUX10",
+          "key": "PARAM1",
+          "value": "4",
+          "line": 1363,
+          "offset": 20530
+        },
+        {
+          "section": "RELIGIEUX10",
+          "key": "PARAM2",
+          "value": "3",
+          "line": 1364,
+          "offset": 20540
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX11",
+      "configuration": [
+        {
+          "section": "RELIGIEUX11",
+          "key": "COUT",
+          "value": "45000",
+          "line": 1368,
+          "offset": 20587
+        },
+        {
+          "section": "RELIGIEUX11",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1369,
+          "offset": 20599
+        },
+        {
+          "section": "RELIGIEUX11",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1370,
+          "offset": 20610
+        },
+        {
+          "section": "RELIGIEUX11",
+          "key": "PARAM1",
+          "value": "12",
+          "line": 1371,
+          "offset": 20619
+        },
+        {
+          "section": "RELIGIEUX11",
+          "key": "PARAM2",
+          "value": "4",
+          "line": 1372,
+          "offset": 20630
+        },
+        {
+          "section": "RELIGIEUX11",
+          "key": "PARAM3",
+          "value": "15",
+          "line": 1373,
+          "offset": 20640
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX12",
+      "configuration": [
+        {
+          "section": "RELIGIEUX12",
+          "key": "COUT",
+          "value": "25000",
+          "line": 1377,
+          "offset": 20705
+        },
+        {
+          "section": "RELIGIEUX12",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1378,
+          "offset": 20717
+        },
+        {
+          "section": "RELIGIEUX12",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1379,
+          "offset": 20728
+        },
+        {
+          "section": "RELIGIEUX12",
+          "key": "PARAM1",
+          "value": "11",
+          "line": 1380,
+          "offset": 20737
+        },
+        {
+          "section": "RELIGIEUX12",
+          "key": "PARAM2",
+          "value": "4",
+          "line": 1381,
+          "offset": 20748
+        },
+        {
+          "section": "RELIGIEUX12",
+          "key": "PARAM3",
+          "value": "50",
+          "line": 1383,
+          "offset": 20794
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX13",
+      "configuration": [
+        {
+          "section": "RELIGIEUX13",
+          "key": "COUT",
+          "value": "35000",
+          "line": 1387,
+          "offset": 20848
+        },
+        {
+          "section": "RELIGIEUX13",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1388,
+          "offset": 20860
+        },
+        {
+          "section": "RELIGIEUX13",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1389,
+          "offset": 20871
+        },
+        {
+          "section": "RELIGIEUX13",
+          "key": "PARAM1",
+          "value": "4",
+          "line": 1390,
+          "offset": 20880
+        },
+        {
+          "section": "RELIGIEUX13",
+          "key": "PARAM2",
+          "value": "4",
+          "line": 1391,
+          "offset": 20890
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX14",
+      "configuration": [
+        {
+          "section": "RELIGIEUX14",
+          "key": "COUT",
+          "value": "40000",
+          "line": 1395,
+          "offset": 20940
+        },
+        {
+          "section": "RELIGIEUX14",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1396,
+          "offset": 20952
+        },
+        {
+          "section": "RELIGIEUX14",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1397,
+          "offset": 20963
+        },
+        {
+          "section": "RELIGIEUX14",
+          "key": "PARAM1",
+          "value": "12",
+          "line": 1398,
+          "offset": 20972
+        },
+        {
+          "section": "RELIGIEUX14",
+          "key": "PARAM2",
+          "value": "4",
+          "line": 1399,
+          "offset": 20983
+        },
+        {
+          "section": "RELIGIEUX14",
+          "key": "PARAM3",
+          "value": "20",
+          "line": 1400,
+          "offset": 20993
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX15",
+      "configuration": [
+        {
+          "section": "RELIGIEUX15",
+          "key": "COUT",
+          "value": "40000",
+          "line": 1404,
+          "offset": 21054
+        },
+        {
+          "section": "RELIGIEUX15",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1405,
+          "offset": 21066
+        },
+        {
+          "section": "RELIGIEUX15",
+          "key": "EFFET",
+          "value": "0",
+          "line": 1406,
+          "offset": 21077
+        },
+        {
+          "section": "RELIGIEUX15",
+          "key": "PARAM1",
+          "value": "3",
+          "line": 1407,
+          "offset": 21086
+        },
+        {
+          "section": "RELIGIEUX15",
+          "key": "PARAM2",
+          "value": "20",
+          "line": 1408,
+          "offset": 21096
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX16",
+      "configuration": [
+        {
+          "section": "RELIGIEUX16",
+          "key": "COUT",
+          "value": "45000",
+          "line": 1412,
+          "offset": 21148
+        },
+        {
+          "section": "RELIGIEUX16",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1413,
+          "offset": 21160
+        },
+        {
+          "section": "RELIGIEUX16",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1414,
+          "offset": 21171
+        },
+        {
+          "section": "RELIGIEUX16",
+          "key": "PARAM1",
+          "value": "10",
+          "line": 1415,
+          "offset": 21180
+        },
+        {
+          "section": "RELIGIEUX16",
+          "key": "PARAM2",
+          "value": "4",
+          "line": 1416,
+          "offset": 21191
+        },
+        {
+          "section": "RELIGIEUX16",
+          "key": "PARAM3",
+          "value": "20",
+          "line": 1417,
+          "offset": 21201
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    },
+    {
+      "section": "RELIGIEUX17",
+      "configuration": [
+        {
+          "section": "RELIGIEUX17",
+          "key": "COUT",
+          "value": "45000",
+          "line": 1421,
+          "offset": 21264
+        },
+        {
+          "section": "RELIGIEUX17",
+          "key": "MISSION",
+          "value": "7",
+          "line": 1422,
+          "offset": 21276
+        },
+        {
+          "section": "RELIGIEUX17",
+          "key": "EFFET",
+          "value": "1",
+          "line": 1423,
+          "offset": 21287
+        },
+        {
+          "section": "RELIGIEUX17",
+          "key": "PARAM1",
+          "value": "9",
+          "line": 1424,
+          "offset": 21296
+        },
+        {
+          "section": "RELIGIEUX17",
+          "key": "PARAM2",
+          "value": "4",
+          "line": 1425,
+          "offset": 21306
+        },
+        {
+          "section": "RELIGIEUX17",
+          "key": "PARAM3",
+          "value": "20",
+          "line": 1426,
+          "offset": 21316
+        }
+      ],
+      "confidence": "CONFIRMADO: configuration; technology index/dependencies/effects pending"
+    }
+  ]
+}

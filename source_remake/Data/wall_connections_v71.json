@@ -1,0 +1,205 @@
+{
+  "source": "RISING-ORIG.EXE",
+  "combination_entry": "0x41c22a",
+  "render_entry": "0x407dd3",
+  "bits": {
+    "north": 1,
+    "east": 2,
+    "south": 4,
+    "west": 8
+  },
+  "variants": [
+    {
+      "mask": 0,
+      "variant": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7360
+        }
+      ]
+    },
+    {
+      "mask": 1,
+      "variant": 0,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7360
+        }
+      ]
+    },
+    {
+      "mask": 2,
+      "variant": 1,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7361
+        }
+      ]
+    },
+    {
+      "mask": 3,
+      "variant": 2,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7362
+        }
+      ]
+    },
+    {
+      "mask": 4,
+      "variant": 3,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7363
+        }
+      ]
+    },
+    {
+      "mask": 5,
+      "variant": 4,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7364
+        }
+      ]
+    },
+    {
+      "mask": 6,
+      "variant": 5,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7365
+        }
+      ]
+    },
+    {
+      "mask": 7,
+      "variant": 6,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7366
+        }
+      ]
+    },
+    {
+      "mask": 8,
+      "variant": 7,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7367
+        }
+      ]
+    },
+    {
+      "mask": 9,
+      "variant": 8,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7368
+        }
+      ]
+    },
+    {
+      "mask": 10,
+      "variant": 9,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7369
+        }
+      ]
+    },
+    {
+      "mask": 11,
+      "variant": 10,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7370
+        }
+      ]
+    },
+    {
+      "mask": 12,
+      "variant": 11,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7371
+        }
+      ]
+    },
+    {
+      "mask": 13,
+      "variant": 12,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7372
+        }
+      ]
+    },
+    {
+      "mask": 14,
+      "variant": 13,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7373
+        }
+      ]
+    },
+    {
+      "mask": 15,
+      "variant": 14,
+      "commands": [
+        {
+          "kind": "sprite",
+          "x": 0,
+          "y": 0,
+          "sprite": 7374
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1894 @@
+{
+  "Cases": [
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -1719,
+        -1719
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -3535,
+        -5
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -3672,
+        -13
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -422,
+        10
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        8281,
+        19
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -2208,
+        -2208
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        8215,
+        12
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -9921,
+        -3
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -9071,
+        11
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -4342,
+        -8
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        6623,
+        6623
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -4008,
+        1
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        534,
+        -13
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -7144,
+        15
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -1469,
+        14
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        5389,
+        5389
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -2608,
+        -8
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -7645,
+        -15
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -3443,
+        15
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        4340,
+        18
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        7653,
+        7653
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -6729,
+        -7
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        776,
+        -15
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -6890,
+        16
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        5113,
+        -15
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        7628,
+        7628
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -1090,
+        8
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        8089,
+        -13
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        1515,
+        13
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Egalite",
+      "Address": "0x480c48",
+      "Arguments": [
+        -8153,
+        5
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        9087,
+        9087
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        7398,
+        -5
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -2819,
+        16
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        5475,
+        5
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -5467,
+        4
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -9581,
+        -9581
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -8289,
+        11
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -8708,
+        2
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        4182,
+        -13
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -1611,
+        12
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        8442,
+        8442
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -8167,
+        10
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -6881,
+        -11
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -228,
+        13
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -6992,
+        -19
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        5909,
+        5909
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        3614,
+        16
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -9977,
+        -17
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        5775,
+        -11
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -9125,
+        -20
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -2139,
+        -2139
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        5278,
+        -13
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        2787,
+        10
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -6622,
+        -12
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -2157,
+        -4
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -3121,
+        -3121
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -4708,
+        -10
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -5113,
+        -19
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        -8345,
+        -6
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "B_Superieur",
+      "Address": "0x480c5e",
+      "Arguments": [
+        6433,
+        4
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        8892,
+        8892
+      ],
+      "Result": 17784
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        3674,
+        11
+      ],
+      "Result": 3685
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        6593,
+        -3
+      ],
+      "Result": 6590
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        9603,
+        -14
+      ],
+      "Result": 9589
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        5448,
+        19
+      ],
+      "Result": 5467
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        3599,
+        3599
+      ],
+      "Result": 7198
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        7725,
+        -3
+      ],
+      "Result": 7722
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        -575,
+        9
+      ],
+      "Result": -566
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        -3804,
+        -19
+      ],
+      "Result": -3823
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        9393,
+        11
+      ],
+      "Result": 9404
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        -7682,
+        -7682
+      ],
+      "Result": -15364
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        -9384,
+        -11
+      ],
+      "Result": -9395
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        -9711,
+        -15
+      ],
+      "Result": -9726
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        -6419,
+        12
+      ],
+      "Result": -6407
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        -3315,
+        -15
+      ],
+      "Result": -3330
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        3931,
+        3931
+      ],
+      "Result": 7862
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        -6446,
+        4
+      ],
+      "Result": -6442
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        -701,
+        9
+      ],
+      "Result": -692
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        6001,
+        14
+      ],
+      "Result": 6015
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        3180,
+        -8
+      ],
+      "Result": 3172
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        4028,
+        4028
+      ],
+      "Result": 8056
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        -710,
+        -15
+      ],
+      "Result": -725
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        7157,
+        0
+      ],
+      "Result": 7157
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        322,
+        -8
+      ],
+      "Result": 314
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        -791,
+        3
+      ],
+      "Result": -788
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        5665,
+        5665
+      ],
+      "Result": 11330
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        2906,
+        12
+      ],
+      "Result": 2918
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        7514,
+        5
+      ],
+      "Result": 7519
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        -1648,
+        4
+      ],
+      "Result": -1644
+    },
+    {
+      "Name": "I_Addition",
+      "Address": "0x480c74",
+      "Arguments": [
+        8410,
+        -1
+      ],
+      "Result": 8409
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -7415,
+        -7415
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -6622,
+        -11
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -5493,
+        3
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -8395,
+        -7
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        9295,
+        19
+      ],
+      "Result": 9276
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        8383,
+        8383
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        8997,
+        -17
+      ],
+      "Result": 9014
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        7291,
+        -19
+      ],
+      "Result": 7310
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        9219,
+        -13
+      ],
+      "Result": 9232
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -5812,
+        -3
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -4727,
+        -4727
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -8019,
+        13
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        9100,
+        4
+      ],
+      "Result": 9096
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -7161,
+        -1
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -7418,
+        3
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        4870,
+        4870
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -9834,
+        -17
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        4740,
+        -11
+      ],
+      "Result": 4751
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        6237,
+        5
+      ],
+      "Result": 6232
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        7469,
+        -16
+      ],
+      "Result": 7485
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        4085,
+        4085
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -6410,
+        -18
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        2316,
+        -12
+      ],
+      "Result": 2328
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -8744,
+        -4
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        9631,
+        -4
+      ],
+      "Result": 9635
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -4284,
+        -4284
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -7124,
+        -16
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -8524,
+        15
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        2718,
+        12
+      ],
+      "Result": 2706
+    },
+    {
+      "Name": "I_Soustraction",
+      "Address": "0x480c81",
+      "Arguments": [
+        -7656,
+        -9
+      ],
+      "Result": 0
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        5782,
+        5782
+      ],
+      "Result": 100
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        7743,
+        16
+      ],
+      "Result": 48300
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        566,
+        1
+      ],
+      "Result": 56600
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        5360,
+        -6
+      ],
+      "Result": -89300
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        -3778,
+        11
+      ],
+      "Result": -34300
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        8920,
+        8920
+      ],
+      "Result": 100
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        8533,
+        4
+      ],
+      "Result": 213300
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        8242,
+        -8
+      ],
+      "Result": -103000
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        3169,
+        -14
+      ],
+      "Result": -22600
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        -3064,
+        19
+      ],
+      "Result": -16100
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        50,
+        50
+      ],
+      "Result": 100
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        1127,
+        7
+      ],
+      "Result": 16100
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        -3731,
+        12
+      ],
+      "Result": -31000
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        6406,
+        2
+      ],
+      "Result": 320300
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        -3015,
+        -4
+      ],
+      "Result": 75300
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        1620,
+        1620
+      ],
+      "Result": 100
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        -4820,
+        2
+      ],
+      "Result": -241000
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        -5232,
+        -4
+      ],
+      "Result": 130800
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        7262,
+        8
+      ],
+      "Result": 90700
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        -418,
+        -1
+      ],
+      "Result": 41800
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        6141,
+        6141
+      ],
+      "Result": 100
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        -6920,
+        10
+      ],
+      "Result": -69200
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        9256,
+        -16
+      ],
+      "Result": -57800
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        -856,
+        -2
+      ],
+      "Result": 42800
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        -4330,
+        -20
+      ],
+      "Result": 21600
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        -305,
+        -305
+      ],
+      "Result": 100
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        3730,
+        7
+      ],
+      "Result": 53200
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        7080,
+        13
+      ],
+      "Result": 54400
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        3840,
+        5
+      ],
+      "Result": 76800
+    },
+    {
+      "Name": "I_PourcentageAB",
+      "Address": "0x480c98",
+      "Arguments": [
+        -6651,
+        8
+      ],
+      "Result": -83100
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        7754,
+        7754
+      ],
+      "Result": 7754
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        5490,
+        11
+      ],
+      "Result": 5490
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        2540,
+        -10
+      ],
+      "Result": 2540
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        2646,
+        4
+      ],
+      "Result": 2646
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        8160,
+        7
+      ],
+      "Result": 8160
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        -1444,
+        -1444
+      ],
+      "Result": -1444
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        9487,
+        -1
+      ],
+      "Result": 9487
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        -688,
+        8
+      ],
+      "Result": -688
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        6751,
+        8
+      ],
+      "Result": 6751
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        8592,
+        -19
+      ],
+      "Result": 8592
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        8886,
+        8886
+      ],
+      "Result": 8886
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        2723,
+        1
+      ],
+      "Result": 2723
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        2228,
+        -3
+      ],
+      "Result": 2228
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        9587,
+        -13
+      ],
+      "Result": 9587
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        1475,
+        2
+      ],
+      "Result": 1475
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        -5211,
+        -5211
+      ],
+      "Result": -5211
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        4607,
+        -11
+      ],
+      "Result": 4607
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        -4577,
+        -17
+      ],
+      "Result": -4577
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        6148,
+        16
+      ],
+      "Result": 6148
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        -365,
+        1
+      ],
+      "Result": -365
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        1707,
+        1707
+      ],
+      "Result": 1707
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        -1614,
+        -12
+      ],
+      "Result": -1614
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        -4332,
+        1
+      ],
+      "Result": -4332
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        3972,
+        -19
+      ],
+      "Result": 3972
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        5504,
+        17
+      ],
+      "Result": 5504
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        -6696,
+        -6696
+      ],
+      "Result": -6696
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        4144,
+        -6
+      ],
+      "Result": 4144
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        -3434,
+        17
+      ],
+      "Result": -3434
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        -8834,
+        10
+      ],
+      "Result": -8834
+    },
+    {
+      "Name": "I_Affecte",
+      "Address": "0x480cbc",
+      "Arguments": [
+        -6489,
+        19
+      ],
+      "Result": -6489
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        3906,
+        3906
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -7025,
+        -19
+      ],
+      "Result": 369
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -8097,
+        2
+      ],
+      "Result": -4048
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        5944,
+        9
+      ],
+      "Result": 660
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -895,
+        5
+      ],
+      "Result": -179
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        7619,
+        7619
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -3642,
+        12
+      ],
+      "Result": -303
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        1885,
+        13
+      ],
+      "Result": 145
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -2444,
+        17
+      ],
+      "Result": -143
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -8967,
+        16
+      ],
+      "Result": -560
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -4598,
+        -4598
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        8354,
+        -7
+      ],
+      "Result": -1193
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -911,
+        2
+      ],
+      "Result": -455
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -28,
+        -17
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        7871,
+        14
+      ],
+      "Result": 562
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -7166,
+        -7166
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -3822,
+        3
+      ],
+      "Result": -1274
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        4748,
+        10
+      ],
+      "Result": 474
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -1968,
+        -13
+      ],
+      "Result": 151
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        7858,
+        10
+      ],
+      "Result": 785
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        4694,
+        4694
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        3445,
+        17
+      ],
+      "Result": 202
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        5143,
+        -14
+      ],
+      "Result": -367
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        2116,
+        -10
+      ],
+      "Result": -211
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -5990,
+        11
+      ],
+      "Result": -544
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -2346,
+        -2346
+      ],
+      "Result": 1
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        6627,
+        0
+      ],
+      "Result": -1
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        -1371,
+        1
+      ],
+      "Result": -1371
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        5617,
+        3
+      ],
+      "Result": 1872
+    },
+    {
+      "Name": "I_Divise",
+      "Address": "0x480cca",
+      "Arguments": [
+        310,
+        -6
+      ],
+      "Result": -51
+    }
+  ]
+}
